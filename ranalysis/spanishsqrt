@@ -1,0 +1,590 @@
+Data = read.table(textConnection(Input),header=TRUE)
+
+#Data$Objetos = factor(Data$Objectos,
+  #                    levels(Data$Objetos)[c(1,4,2,5,3)])
+
+library(psych)
+
+headTail(Data)
+
+str(Data)
+
+Data$Objetos <- as.factor(Data$Objetos)
+
+Data$Efectos = factor(Data$Efectos,
+                      levels(Data$Efectos)[c(8,7,6,5,4,3,2,1)])
+
+summary(Data)
+
+rm(Input)
+
+library(rcompanion)
+
+plotNormalHistogram(Data$Tiempo)
+
+qqnorm(Data$Tiempo,
+       ylab="Sample Quantiles for Tiempo")
+qqline(Data$Tiempo, 
+       col="red")
+
+model = lm(Tiempo ~ Arquitectura * Objetos * Resolucion * Efectos,
+            data = Data)
+
+library(car)
+
+Anova(model,
+      type = "II")
+
+x = (residuals(model))
+
+library(rcompanion)
+
+plotNormalHistogram(x)
+
+
+qqnorm(residuals(model),
+       ylab="Sample Quantiles for residuals")
+qqline(residuals(model), 
+       col="red")
+
+dev.copy(png,'dataresidualsnormal.png')
+dev.off()
+
+plot(fitted(model),
+     residuals(model))
+
+dev.copy(png,'variancehomnormal.png')
+dev.off()
+
+leveneTest(Tiempo ~ Arquitectura*Objetos*Efectos*Resolucion, data = Data)
+
+T_sqrt = sqrt(Data$Tiempo)
+
+qqnorm(T_sqrt,
+       ylab="Sample Quantiles for Tiempo")
+qqline(T_sqrt, 
+       col="red")
+
+
+library(car)
+leveneTest(T_sqrt ~ Arquitectura*Objetos*Efectos*Resolucion, data = Data)
+
+model = lm(T_sqrt ~ Arquitectura * Objetos * Resolucion * Efectos,
+            data = Data)
+
+library(car)
+
+Anova(model,
+      type = "II")
+
+x = (residuals(model))
+
+library(rcompanion)
+
+plotNormalHistogram(x)
+
+qqnorm(residuals(model),
+       ylab="Sample Quantiles for residuals")
+qqline(residuals(model), 
+       col="red")
+
+dev.copy(png,'dataresidualssqrt.png')
+dev.off()
+
+plot(fitted(model),
+     residuals(model), main="Residuals versus fitted values",)
+
+dev.copy(png,'variancehomsqrt.png')
+dev.off()
+
+leveneTest(T_sqrt ~ Arquitectura*Objetos*Efectos*Resolucion, data = Data)
+
+library(phia)
+
+IM = interactionMeans(model)
+
+IM
+
+plot(IM)
+
+par(mfrow=c(1,1))
+
+
+require("dplyr")
+group_by(Data, Arquitectura, Resolucion) %>%
+  summarise(
+    count = n(),
+    mean = mean(Tiempo, na.rm = TRUE),
+    sd = sd(Tiempo, na.rm = TRUE),
+    se = se(Tiempo, na.rm = TRUE)
+  )
+
+model.tables(model, type="means", se = TRUE)
+
+res.aov3 <- aov(T_sqrt ~ Arquitectura*Objetos*Resolucion*Efectos, data = Data)
+
+TukeyHSD(res.aov3, which = "Arquitectura")
+
+library(multcomp)
+summary(glht(res.aov3, linfct = mcp(Arquitectura = "Tukey")))
+
+pairwise.t.test(Data$Tiempo, Data$Arquitectura:Data$Efectos:Data$Resolucion,
+                p.adjust.method = "BH")
+
+
+++++++++++++++++++++++++Arquitectura+++++++++++++++
+library(FSA) 
+
+Sum = Summarize(T_sqrt ~ Arquitectura, 
+                data=Data, 
+                digits=3)
+
+### Add standard error of the mean to the Sum data frame 
+
+Sum$mean = Sum$mean^2
+
+Sum$sd = Sum$sd^2
+
+
+Sum$se = Sum$sd / sqrt(Sum$n)
+
+Sum$se = signif(Sum$se, digits=3)
+
+Sum
+
+
+### Produce interaction plot 
+
+library(ggplot2)
+
+pd = position_dodge(.2)
+
+q <- ggplot(Sum, aes(x = Arquitectura,
+                y = mean,
+                color = Arquitectura)) +
+    geom_errorbar(aes(ymin = mean - se,
+                      ymax = mean + se),
+                   width=.2, size=0.7, position=pd) +
+    geom_point(aes(shape=Arquitectura), size=5, position=pd) +
+    theme_bw() +
+    theme(plot.title   = element_text(face = "bold", size=20, hjust = 0.5),
+          axis.title   = element_text(face = "bold", size=20),
+          axis.text    = element_text(face = "bold", size=15),
+          plot.caption = element_text(hjust = 0),
+          legend.text = element_text(face = "bold", size=15),
+          legend.title = element_text(face = "bold", size=20),
+          legend.justification=c(1,0),
+          legend.position="none") +
+    ylab("Tiempo promedio (s)") + ggtitle(" Tiempo promedio vs arquitectura")
+    
+    
+ggsave(plot = q, width = 14, height = 8, dpi = 300, filename = "meanTiempovsArquitectura.png")
+
+
+#++++++++++++++++++++++++Interaction Arquitectura Resolucion+++++++++++++++
+library(FSA) 
+
+Sum = Summarize(T_sqrt ~ Arquitectura + Resolucion, 
+                data=Data, 
+                digits=3)
+
+### Add standard error of the mean to the Sum data frame 
+
+Sum$mean = Sum$mean^2
+
+Sum$sd = Sum$sd^2
+
+
+Sum$se = Sum$sd / sqrt(Sum$n)
+
+Sum$se = signif(Sum$se, digits=3)
+
+Sum
+
+
+### Produce interaction plot 
+
+library(ggplot2)
+
+pd = position_dodge(.2)
+
+q <- ggplot(Sum, aes(x = Resolucion,
+                y = mean,
+                color = Arquitectura)) +
+    geom_errorbar(aes(ymin = mean - se,
+                      ymax = mean + se),
+                   width=.2, size=0.7, position=pd) +
+    geom_point(aes(shape=Arquitectura), size=5, position=pd) +
+    theme_bw() +
+    theme(plot.title   = element_text(face = "bold", size=20, hjust = 0.5),
+          axis.title   = element_text(face = "bold", size=20),
+          axis.text    = element_text(face = "bold", size=15),
+          plot.caption = element_text(hjust = 0),
+          legend.text = element_text(face = "bold", size=15),
+          legend.title = element_text(face = "bold", size=20),
+          legend.justification=c(0,1),
+          legend.position=c(0.01,0.99)) +
+    xlab("Resolución") +ylab("Tiempo promedio (s)") + ggtitle("Tiempo promedio vs resolución \n en función de la arquitectura")
+
+ggsave(plot = q, width = 14, height = 8, dpi = 300, filename = "meanTiempovsArquitectura-Resolucion.png")
+
+#+++++++++++++++++++Interacion Efectos Architecures+++++++++++++
+
+library(FSA) 
+Sum = Summarize(T_sqrt ~ Efectos + Arquitectura, 
+                data=Data, 
+                digits=3)
+
+### Add standard error of the mean to the Sum data frame 
+
+Sum$mean = Sum$mean^2
+
+Sum$sd = Sum$sd^2
+
+Sum$se = Sum$sd / sqrt(Sum$n)
+
+Sum$se = signif(Sum$se, digits=3)
+
+
+Sum$Efectos = factor(Sum$Efectos,
+                      levels(Sum$Efectos)[c(8,7,6,5,4,3,2,1)])
+
+Sum
+
+### Produce interaction plot 
+
+library(ggplot2)
+
+pd = position_dodge(.2)
+
+q <- ggplot(Sum, aes(x = Efectos,
+                y = mean,
+                color = Arquitectura)) +
+    geom_errorbar(aes(ymin = mean - se,
+                      ymax = mean + se),
+                   width=.2, size=0.7, position=pd) +
+    geom_point(aes(shape=Arquitectura), size=5, position=pd) +
+    theme_bw() +
+    theme(plot.title   = element_text(face = "bold", size=20, hjust = 0.5),
+          axis.title   = element_text(face = "bold", size=20),
+          axis.text    = element_text(face = "bold", size=15),
+          plot.caption = element_text(hjust = 0),
+          legend.text = element_text(face = "bold", size=15),
+          legend.title = element_text(face = "bold", size=20),
+          legend.justification=c(0,1),
+          legend.position=c(0.01, 0.99)) +
+    ylab("Tiempo promedio (s)") + ggtitle("Tiempo promedio vs efectos \n en función de la arquitectura")
+
+ggsave(plot = q, width = 14, height = 8, dpi = 300, filename = "meanTiempovsArquitectura-Efectos.png")
+
++++++++++++++++++++Interacion Objetos Architecures+++++++++++++
+
+library(FSA) 
+Sum = Summarize(T_sqrt ~ Objetos + Arquitectura, 
+                data=Data, 
+                digits=3)
+
+### Add standard error of the mean to the Sum data frame 
+
+Sum$mean = Sum$mean^2
+
+Sum$sd = Sum$sd^2
+
+Sum$se = Sum$sd / sqrt(Sum$n)
+
+Sum$se = signif(Sum$se, digits=3)
+
+Sum
+
+### Produce interaction plot 
+
+library(ggplot2)
+
+pd = position_dodge(.2)
+
+Sum$Objetos = factor(Sum$Objetos,
+                      levels(Sum$Objetos)[c(1,4,2,5,3)])
+
+
+q <- ggplot(Sum, aes(x = Objetos,
+                y = mean,
+                color = Arquitectura)) +
+    geom_errorbar(aes(ymin = mean - se,
+                      ymax = mean + se),
+                   width=.2, size=0.7, position=pd) +
+    geom_point(aes(shape=Arquitectura), size=5, position=pd) +
+    theme_bw() +
+    theme(plot.title   = element_text(face = "bold", size=20, hjust = 0.5),
+          axis.title   = element_text(face = "bold", size=20),
+          axis.text    = element_text(face = "bold", size=15),
+          plot.caption = element_text(hjust = 0),
+          legend.text = element_text(face = "bold", size=15),
+          legend.title = element_text(face = "bold", size=20),
+          legend.justification=c(0, 1),
+          legend.position=c(0.01, 0.99)) +
+    ylab("Tiempo promedio (s)") + ggtitle("Tiempo promedio vs cantidad de objetos \n en función de la arquitectura")
+
+
+ggsave(plot = q, width = 14, height = 8, dpi = 300, filename = "meanTiempovsArquitectura-Objetos.png")
+
+
+Data1 <- subset(Data, Efectos == "AA-TR-RE")
+Data1 <- subset(Data1, Resolucion == "1920x1080")
+#Data1 <- subset(Data1, Objetos == "260000")
+
+Data1 <- subset(Data1, Objetos != "260000")
+Data1 <- subset(Data1, Objetos != "65000")
+
+plotNormalHistogram(Data1$Tiempo)
+
+qqnorm(Data1$Tiempo,
+       ylab="Sample Quantiles for Tiempo")
+qqline(Data1$Tiempo, 
+       col="red")
+
+
+T_sqrt1 = sqrt(Data1$Tiempo)
+
+library(car)
+
+Anova(model,
+      type = "II")
+
+x = (residuals(model))
+
+library(rcompanion)
+
+plotNormalHistogram(x)
+
+qqnorm(residuals(model),
+       ylab="Sample Quantiles for residuals")
+qqline(residuals(model), 
+       col="red")
+
+plot(fitted(model),
+     residuals(model), main="Residuals versus fitted values",)
+
+
+require("dplyr")
+group_by(Data1, Arquitectura) %>%
+  summarise(
+    count = n(),
+    mean = mean(Tiempo, na.rm = TRUE),
+    sd = sd(Tiempo, na.rm = TRUE),
+  )
+
++++++++++++++++Diagrama
+library(FSA) 
+Sum = Summarize(T_sqrt1 ~ Objetos + Arquitectura, 
+                data=Data1, 
+                digits=3)
+
+### Add standard error of the mean to the Sum data frame 
+
+Sum$mean = Sum$mean^2
+
+Sum$sd = Sum$sd^2
+
+Sum$se = Sum$sd / sqrt(Sum$n)
+
+Sum$se = signif(Sum$se, digits=3)
+
+Sum
+
+### Produce interaction plot 
+
+library(ggplot2)
+
+pd = position_dodge(.2)
+
+Sum$Objetos = factor(Sum$Objetos,
+                      levels(Sum$Objetos)[c(1,3,2)])
+
+
+q <- ggplot(Sum, aes(x = Objetos,
+                y = mean,
+                color = Arquitectura)) +
+    geom_errorbar(aes(ymin = mean - se,
+                      ymax = mean + se),
+                   width=.2, size=0.7, position=pd) +
+    geom_point(aes(shape=Arquitectura), size=5, position=pd) +
+    theme_bw() +
+    theme(plot.title   = element_text(face = "bold", size=20, hjust = 0.5),
+          axis.title   = element_text(face = "bold", size=20),
+          axis.text    = element_text(face = "bold", size=15),
+          plot.caption = element_text(hjust = 0),
+          legend.text = element_text(face = "bold", size=15),
+          legend.title = element_text(face = "bold", size=20),
+          legend.justification=c(0, 1),
+          legend.position=c(0.01, 0.99)) +
+    ylab("Tiempo promedio (s)") + ggtitle("Tiempo promedio vs cantidad de objetos \n en función de la arquitectura (BVH)")
+
+q <- ggplot(Sum, aes(x = Objetos,
+                y = mean,
+                color = Arquitectura)) +
+    geom_errorbar(aes(ymin = mean - se,
+                      ymax = mean + se),
+                   width=.2, size=0.7, position=pd) +
+    geom_point(aes(shape=Arquitectura), size=5, position=pd) +
+    theme_bw() +
+    theme(plot.title   = element_text(face = "bold", size=20, hjust = 0.5),
+          axis.title   = element_text(face = "bold", size=20),
+          axis.text    = element_text(face = "bold", size=15),
+          plot.caption = element_text(hjust = 0),
+          legend.text = element_text(face = "bold", size=15),
+          legend.title = element_text(face = "bold", size=20),
+          legend.justification=c(0, 1),
+          legend.position=c(0.01, 0.99)) +
+    ylab("Mean time (s)") + ggtitle("Tiempo promedio vs cantidad de objetos \n en función de la arquitectura (BVH)") + ylim(0, 60000) 
+
+ggsave(plot = q, width = 14, height = 8, dpi = 300, filename = "meanTiempovsArquitectura-Objetos-BVH-fullscale.png")
+
+
+#+++++++++++++++++++++++This is text analysis of the means++++++++++++++++
+
+
+pairwise.t.test(T_sqrt, Data$Arquitectura,
+                p.adjust.method = "BH")
+
+pairwise.t.test(T_sqrt, Data$Arquitectura:Data$Resolucion,
+                p.adjust.method = "BH")
+
+pairwise.t.test(T_sqrt, Data$Arquitectura:Data$Efectos,
+                p.adjust.method = "BH")
+
+pairwise.t.test(T_sqrt, Data$Arquitectura:Data$Objetos,
+                p.adjust.method = "BH")
+
+write.table(q[["p.value"]],file="data.csv")
+
+
+
+library(FSA) 
+Sum = Summarize(T_sqrt ~ Efectos + Arquitectura, 
+                data=Data, 
+                digits=3)
+
+### Add standard error of the mean to the Sum data frame 
+
+
+### Add standard error of the mean to the Sum data frame 
+
+Sum$mean = Sum$mean^2
+
+Sum$sd = Sum$sd^2
+
+Sum$se = Sum$sd / sqrt(Sum$n)
+
+Sum$se = signif(Sum$se, digits=3)
+
+Sum$Efectos = factor(Sum$Efectos,
+                      levels(Sum$Efectos)[c(8,7,6,5,4,3,2,1)])
+
+Sum
+
+### Produce interaction plot 
+
+library(ggplot2)
+
+pd = position_dodge(.2)
+
+q <- ggplot(Sum, aes(x = Efectos,
+                y = mean,
+                color = Arquitectura)) +
+    geom_errorbar(aes(ymin = mean - se,
+                      ymax = mean + se),
+                   width=.2, size=0.7, position=pd) +
+    geom_point(aes(shape=Arquitectura), size=5, position=pd) +
+    theme_bw() +
+    theme(plot.title   = element_text(face = "bold", size=20, hjust = 0.5),
+          axis.title   = element_text(face = "bold", size=20),
+          axis.text    = element_text(face = "bold", size=15),
+          plot.caption = element_text(hjust = 0),
+          legend.text = element_text(face = "bold", size=15),
+          legend.title = element_text(face = "bold", size=20),
+          legend.justification=c(0,1),
+          legend.position=c(0.01, 0.99)) +
+    ylab("Mean Tiempo (s)") + ggtitle("Mean Tiempo (s) vs Efectos \n in function of the Arquitectura")
+
+
+++++++++++++++++++++++++++++++++NOBVHPROCESSING+++++++++++++++
+Data = read.table(textConnection(Input),header=TRUE)
+
+#Data$Objetos = factor(Data$Objectos,
+  #                    levels(Data$Objetos)[c(1,4,2,5,3)])
+
+library(psych)
+
+headTail(Data)
+
+str(Data)
+
+Data$Objetos <- as.factor(Data$Objetos)
+
+summary(Data)
+
+rm(Input)
+
+T_sqrt = sqrt(Data$Tiempo)
+
+library(car)
+leveneTest(T_sqrt ~ Architecture*Objects, data = Data)
+
+model = lm(T_sqrt ~ Arquitectura * Objetos,
+            data = Data)
+
+library(car)
+
+Anova(model,
+      type = "II")
+
+#++++++++++++++++Diagrama++++++++++++
+library(FSA) 
+Sum = Summarize(T_sqrt ~ Objetos + Arquitectura, 
+                data=Data, 
+                digits=3)
+
+### Add standard error of the mean to the Sum data frame 
+
+Sum$mean = Sum$mean^2
+
+Sum$sd = Sum$sd^2
+
+Sum$se = Sum$sd / sqrt(Sum$n)
+
+Sum$se = signif(Sum$se, digits=3)
+
+Sum
+
+### Produce interaction plot 
+
+library(ggplot2)
+
+pd = position_dodge(.2)
+
+Sum$Objetos = factor(Sum$Objetos,
+                      levels(Sum$Objetos)[c(1,3,2)])
+
+
+q <- ggplot(Sum, aes(x = Objetos,
+                y = mean,
+                color = Arquitectura)) +
+    geom_errorbar(aes(ymin = mean - se,
+                      ymax = mean + se),
+                   width=.2, size=0.7, position=pd) +
+    geom_point(aes(shape=Arquitectura), size=5, position=pd) +
+    theme_bw() +
+    theme(plot.title   = element_text(face = "bold", size=20, hjust = 0.5),
+          axis.title   = element_text(face = "bold", size=20),
+          axis.text    = element_text(face = "bold", size=15),
+          plot.caption = element_text(hjust = 0),
+          legend.text = element_text(face = "bold", size=15),
+          legend.title = element_text(face = "bold", size=20),
+          legend.justification=c(0, 1),
+          legend.position=c(0.01, 0.99)) +
+    ylab("Tiempo promedio (s)") + ggtitle("Tiempo promedio vs cantidad de objetos \n en función de la arquitectura (No BVH)")
+
+
+ggsave(plot = q, width = 14, height = 8, dpi = 300, filename = "meanTiempovsArquitectura-Objetos-NOBVH.png")
+
+

@@ -1,0 +1,9000 @@
+APU image written, Rays: 2758193
+real 6,53
+user 50,25
+sys 0,33
+10167_16000APU010-1280x720.sc
+APU image written, Rays: 2048122
+real 4,22
+user 30,90
+sys 0,11
+10184_1000APU011-1440x900.sc
+APU image written, Rays: 6708090
+real 6,13
+user 46,22
+sys 0,17
+10204_1000APU101-1280x720.sc
+APU image written, Rays: 19085495
+real 21,75
+user 171,67
+sys 0,19
+10210_16000APU110-1440x900.sc
+APU image written, Rays: 1765644
+real 4,47
+user 33,40
+sys 0,13
+10216_4000APU001-1280x720.sc
+APU image written, Rays: 2847385
+real 19,76
+user 147,53
+sys 0,14
+10368_260000APU001-1280x720.sc
+APU image written, Rays: 21486720
+real 76,95
+user 603,60
+sys 0,21
+10471_260000APU110-1440x900.sc
+APU image written, Rays: 1834065
+real 5,93
+user 44,36
+sys 0,12
+1048_65000APU000-1280x720.sc
+APU image written, Rays: 10240564
+real 8,43
+user 63,26
+sys 0,27
+10731_1000APU111-1440x900.sc
+APU image written, Rays: 18824750
+real 14,02
+user 106,34
+sys 0,30
+10779_4000APU110-1920x1080.sc
+APU image written, Rays: 6892844
+real 6,78
+user 51,22
+sys 0,18
+1084_1000APU110-1280x720.sc
+APU image written, Rays: 9301841
+real 7,34
+user 54,33
+sys 0,25
+10842_1000APU110-1440x900.sc
+APU image written, Rays: 15245875
+real 9,66
+user 71,57
+sys 0,35
+10850_4000APU100-1920x1080.sc
+APU image written, Rays: 2825766
+real 8,60
+user 65,55
+sys 0,15
+10987_65000APU010-1280x720.sc
+APU image written, Rays: 3019876
+real 16,80
+user 122,68
+sys 0,19
+10996_260000APU010-1280x720.sc
+APU image written, Rays: 4016008
+real 7,70
+user 56,31
+sys 0,18
+11017_65000APU000-1920x1080.sc
+APU image written, Rays: 2581566
+real 6,88
+user 51,39
+sys 0,14
+11063_65000APU000-1440x900.sc
+APU image written, Rays: 30839494
+real 124,75
+user 983,47
+sys 0,45
+11226_260000APU101-1920x1080.sc
+APU image written, Rays: 4016008
+real 8,01
+user 58,62
+sys 0,21
+11228_65000APU000-1920x1080.sc
+APU image written, Rays: 8716548
+real 10,00
+user 76,16
+sys 0,28
+11258_16000APU100-1280x720.sc
+APU image written, Rays: 3049209
+real 4,99
+user 35,51
+sys 0,20
+11296_4000APU000-1920x1080.sc
+APU image written, Rays: 6167699
+real 28,53
+user 215,52
+sys 0,28
+11323_260000APU001-1920x1080.sc
+APU image written, Rays: 2674721
+real 5,37
+user 39,59
+sys 0,14
+11351_4000APU010-1440x900.sc
+APU image written, Rays: 1743289
+real 4,76
+user 35,31
+sys 0,11
+11381_16000APU000-1280x720.sc
+APU image written, Rays: 11014672
+real 29,47
+user 230,24
+sys 0,16
+11390_65000APU011-1920x1080.sc
+APU image written, Rays: 6167699
+real 28,64
+user 215,94
+sys 0,28
+11392_260000APU001-1920x1080.sc
+APU image written, Rays: 1341588
+real 3,67
+user 23,56
+sys 0,08
+11463_1000APU001-1280x720.sc
+APU image written, Rays: 3515865
+real 7,61
+user 56,28
+sys 0,11
+1154_16000APU001-1440x900.sc
+APU image written, Rays: 55058085
+real 136,74
+user 1085,57
+sys 0,54
+11662_65000APU111-1920x1080.sc
+APU image written, Rays: 18824750
+real 13,92
+user 106,13
+sys 0,37
+11663_4000APU110-1920x1080.sc
+APU image written, Rays: 4297381
+real 19,01
+user 141,44
+sys 0,19
+11686_260000APU010-1440x900.sc
+APU image written, Rays: 30839494
+real 124,42
+user 981,65
+sys 0,36
+118_260000APU101-1920x1080.sc
+APU image written, Rays: 3314376
+real 6,22
+user 47,64
+sys 0,17
+1183_4000APU011-1440x900.sc
+APU image written, Rays: 4550564
+real 7,32
+user 54,54
+sys 0,21
+11882_4000APU011-1920x1080.sc
+APU image written, Rays: 1815598
+real 4,02
+user 27,81
+sys 0,10
+11897_1000APU001-1440x900.sc
+APU image written, Rays: 33841698
+real 92,29
+user 724,56
+sys 0,32
+11939_260000APU110-1920x1080.sc
+APU image written, Rays: 12318316
+real 11,49
+user 88,69
+sys 0,21
+11951_16000APU100-1440x900.sc
+APU image written, Rays: 1203637
+real 3,48
+user 22,66
+sys 0,12
+11954_1000APU000-1280x720.sc
+APU image written, Rays: 5085943
+real 8,54
+user 64,64
+sys 0,16
+11955_16000APU001-1920x1080.sc
+APU image written, Rays: 12907801
+real 19,19
+user 148,42
+sys 0,18
+119_65000APU100-1440x900.sc
+APU image written, Rays: 6314733
+real 41,84
+user 318,18
+sys 0,22
+11972_260000APU011-1280x720.sc
+APU image written, Rays: 1860255
+real 4,27
+user 29,36
+sys 0,21
+12008_1000APU010-1440x900.sc
+APU image written, Rays: 2673841
+real 4,18
+user 28,71
+sys 0,17
+12021_1000APU001-1920x1080.sc
+APU image written, Rays: 12444733
+real 6,65
+user 47,30
+sys 0,29
+12042_1000APU100-1920x1080.sc
+APU image written, Rays: 9170269
+real 15,72
+user 121,44
+sys 0,17
+12134_65000APU100-1280x720.sc
+APU image written, Rays: 3019876
+real 16,81
+user 122,54
+sys 0,16
+12183_260000APU010-1280x720.sc
+APU image written, Rays: 3992970
+real 23,98
+user 180,41
+sys 0,19
+12209_260000APU001-1440x900.sc
+APU image written, Rays: 8191263
+real 15,10
+user 117,59
+sys 0,16
+12263_16000APU011-1920x1080.sc
+APU image written, Rays: 2498957
+real 5,03
+user 37,19
+sys 0,16
+1230_4000APU001-1440x900.sc
+APU image written, Rays: 12960000
+real 46,95
+user 363,47
+sys 0,30
+12374_260000APU100-1440x900.sc
+APU image written, Rays: 1543262
+real 3,74
+user 27,16
+sys 0,11
+12422_1000APU011-1280x720.sc
+APU image written, Rays: 3992970
+real 23,44
+user 176,42
+sys 0,18
+12426_260000APU001-1440x900.sc
+APU image written, Rays: 2498957
+real 5,20
+user 38,28
+sys 0,14
+12442_4000APU001-1440x900.sc
+APU image written, Rays: 13788933
+real 19,55
+user 153,33
+sys 0,16
+1245_16000APU110-1280x720.sc
+APU image written, Rays: 2648749
+real 9,00
+user 68,74
+sys 0,11
+12456_65000APU001-1280x720.sc
+APU image written, Rays: 9216000
+real 39,30
+user 303,62
+sys 0,22
+12461_260000APU100-1280x720.sc
+APU image written, Rays: 4016008
+real 7,51
+user 55,06
+sys 0,12
+12490_65000APU000-1920x1080.sc
+APU image written, Rays: 30839494
+real 124,93
+user 984,60
+sys 0,42
+12523_260000APU101-1920x1080.sc
+APU image written, Rays: 14236321
+real 84,38
+user 656,21
+sys 0,25
+12599_260000APU101-1280x720.sc
+APU image written, Rays: 4009062
+real 10,57
+user 80,42
+sys 0,20
+1260_65000APU010-1440x900.sc
+APU image written, Rays: 13603757
+real 7,89
+user 57,83
+sys 0,32
+12676_1000APU110-1920x1080.sc
+APU image written, Rays: 5085943
+real 8,70
+user 65,47
+sys 0,17
+12785_16000APU001-1920x1080.sc
+APU image written, Rays: 16571334
+real 20,52
+user 159,82
+sys 0,18
+12785_4000APU111-1440x900.sc
+APU image written, Rays: 1834065
+real 6,34
+user 47,10
+sys 0,14
+12883_65000APU000-1280x720.sc
+APU image written, Rays: 55058085
+real 136,12
+user 1081,14
+sys 0,42
+12892_65000APU111-1920x1080.sc
+APU image written, Rays: 2498957
+real 4,94
+user 36,38
+sys 0,15
+13070_4000APU001-1440x900.sc
+APU image written, Rays: 6018495
+real 5,20
+user 38,77
+sys 0,16
+13135_1000APU100-1280x720.sc
+APU image written, Rays: 2758193
+real 6,28
+user 48,09
+sys 0,12
+13162_16000APU010-1280x720.sc
+APU image written, Rays: 1834065
+real 6,23
+user 46,24
+sys 0,15
+13166_65000APU000-1280x720.sc
+APU image written, Rays: 5342568
+real 18,42
+user 144,06
+sys 0,16
+1317_65000APU011-1280x720.sc
+APU image written, Rays: 11014672
+real 29,11
+user 228,02
+sys 0,24
+1317_65000APU011-1920x1080.sc
+APU image written, Rays: 20689221
+real 55,05
+user 420,94
+sys 0,44
+13185_260000APU100-1920x1080.sc
+APU image written, Rays: 18534128
+real 13,66
+user 104,11
+sys 0,29
+13241_16000APU100-1920x1080.sc
+APU image written, Rays: 2758193
+real 6,25
+user 47,99
+sys 0,13
+13249_16000APU010-1280x720.sc
+APU image written, Rays: 13243423
+real 33,15
+user 257,97
+sys 0,16
+13343_65000APU101-1280x720.sc
+APU image written, Rays: 26947023
+real 26,78
+user 207,56
+sys 0,28
+13432_16000APU110-1920x1080.sc
+APU image written, Rays: 8275707
+real 5,97
+user 43,80
+sys 0,16
+13449_1000APU100-1440x900.sc
+APU image written, Rays: 26947023
+real 26,20
+user 204,37
+sys 0,30
+1360_16000APU110-1920x1080.sc
+APU image written, Rays: 2581566
+real 7,04
+user 52,32
+sys 0,16
+13927_65000APU000-1440x900.sc
+APU image written, Rays: 8827803
+real 10,42
+user 80,75
+sys 0,20
+13941_4000APU101-1280x720.sc
+APU image written, Rays: 12323906
+real 19,49
+user 152,00
+sys 0,20
+14005_16000APU101-1280x720.sc
+APU image written, Rays: 1893524
+real 4,76
+user 35,45
+sys 0,14
+14031_4000APU010-1280x720.sc
+APU image written, Rays: 3706793
+real 5,69
+user 40,95
+sys 0,17
+14033_16000APU000-1920x1080.sc
+APU image written, Rays: 7358424
+real 6,81
+user 52,50
+sys 0,11
+14122_4000APU100-1280x720.sc
+APU image written, Rays: 9170269
+real 16,39
+user 126,29
+sys 0,18
+14210_65000APU100-1280x720.sc
+APU image written, Rays: 21486720
+real 76,67
+user 600,82
+sys 0,29
+14255_260000APU110-1440x900.sc
+APU image written, Rays: 4550564
+real 7,45
+user 55,21
+sys 0,20
+14322_4000APU011-1920x1080.sc
+APU image written, Rays: 3765218
+real 5,77
+user 41,27
+sys 0,19
+14364_4000APU010-1920x1080.sc
+APU image written, Rays: 3515865
+real 7,46
+user 56,58
+sys 0,15
+14384_16000APU001-1440x900.sc
+APU image written, Rays: 19085495
+real 22,71
+user 177,01
+sys 0,24
+14384_16000APU110-1440x900.sc
+APU image written, Rays: 6167699
+real 28,47
+user 215,37
+sys 0,24
+14427_260000APU001-1920x1080.sc
+APU image written, Rays: 2592000
+real 13,24
+user 94,82
+sys 0,18
+14432_260000APU000-1440x900.sc
+APU image written, Rays: 11014672
+real 29,38
+user 230,41
+sys 0,21
+14455_65000APU011-1920x1080.sc
+APU image written, Rays: 4550564
+real 7,34
+user 54,41
+sys 0,20
+14556_4000APU011-1920x1080.sc
+APU image written, Rays: 2084707
+real 4,61
+user 32,99
+sys 0,12
+14576_4000APU000-1440x900.sc
+APU image written, Rays: 8716548
+real 9,98
+user 76,22
+sys 0,14
+14629_16000APU100-1280x720.sc
+APU image written, Rays: 6768077
+real 22,58
+user 168,24
+sys 0,22
+14735_260000APU010-1920x1080.sc
+APU image written, Rays: 1765644
+real 4,51
+user 33,12
+sys 0,15
+14754_4000APU001-1280x720.sc
+APU image written, Rays: 18534128
+real 13,79
+user 104,41
+sys 0,31
+14814_16000APU100-1920x1080.sc
+APU image written, Rays: 6155457
+real 13,34
+user 104,03
+sys 0,20
+14885_16000APU011-1440x900.sc
+APU image written, Rays: 31579011
+real 197,45
+user 1536,03
+sys 0,48
+14888_260000APU111-1280x720.sc
+APU image written, Rays: 26704747
+real 83,30
+user 649,49
+sys 0,28
+1490_65000APU111-1280x720.sc
+APU image written, Rays: 2720645
+real 4,23
+user 29,24
+sys 0,19
+14917_1000APU010-1920x1080.sc
+APU image written, Rays: 7715680
+real 7,34
+user 56,00
+sys 0,17
+1492_1000APU111-1280x720.sc
+APU image written, Rays: 30145004
+real 43,91
+user 345,49
+sys 0,38
+14927_65000APU110-1920x1080.sc
+APU image written, Rays: 3817532
+real 7,38
+user 56,38
+sys 0,10
+1493_16000APU010-1440x900.sc
+APU image written, Rays: 1765644
+real 4,63
+user 34,67
+sys 0,08
+14944_4000APU001-1280x720.sc
+APU image written, Rays: 16571334
+real 20,43
+user 158,68
+sys 0,17
+15006_4000APU111-1440x900.sc
+APU image written, Rays: 12960000
+real 47,61
+user 368,70
+sys 0,26
+15024_260000APU100-1440x900.sc
+APU image written, Rays: 12323906
+real 19,11
+user 149,80
+sys 0,20
+15029_16000APU101-1280x720.sc
+APU image written, Rays: 13369804
+real 7,97
+user 57,90
+sys 0,31
+15036_1000APU101-1920x1080.sc
+APU image written, Rays: 4297381
+real 19,01
+user 140,97
+sys 0,20
+15068_260000APU010-1440x900.sc
+APU image written, Rays: 7358424
+real 6,89
+user 52,54
+sys 0,15
+15099_4000APU100-1280x720.sc
+APU image written, Rays: 4447947
+real 10,50
+user 80,80
+sys 0,12
+15154_16000APU011-1280x720.sc
+APU image written, Rays: 8275707
+real 6,02
+user 43,96
+sys 0,20
+15186_1000APU100-1440x900.sc
+APU image written, Rays: 12318316
+real 11,20
+user 86,36
+sys 0,22
+1522_16000APU100-1440x900.sc
+APU image written, Rays: 9078573
+real 6,96
+user 51,88
+sys 0,21
+15250_1000APU101-1440x900.sc
+APU image written, Rays: 1655046
+real 4,10
+user 27,35
+sys 0,14
+15366_1000APU000-1440x900.sc
+APU image written, Rays: 6892844
+real 6,59
+user 49,06
+sys 0,20
+15372_1000APU110-1280x720.sc
+APU image written, Rays: 6314733
+real 41,83
+user 318,61
+sys 0,20
+15401_260000APU011-1280x720.sc
+APU image written, Rays: 3856970
+real 11,25
+user 86,21
+sys 0,17
+15412_65000APU001-1440x900.sc
+APU image written, Rays: 17581981
+real 24,74
+user 193,76
+sys 0,24
+15533_16000APU101-1440x900.sc
+APU image written, Rays: 30780786
+real 55,79
+user 442,79
+sys 0,26
+15574_16000APU111-1440x900.sc
+APU image written, Rays: 2674721
+real 5,12
+user 37,13
+sys 0,19
+1562_4000APU010-1440x900.sc
+APU image written, Rays: 4009062
+real 10,38
+user 78,92
+sys 0,14
+15959_65000APU010-1440x900.sc
+APU image written, Rays: 38556639
+real 110,71
+user 868,86
+sys 0,32
+15975_65000APU111-1440x900.sc
+APU image written, Rays: 2488857
+real 4,26
+user 28,99
+sys 0,19
+16037_1000APU000-1920x1080.sc
+APU image written, Rays: 2464883
+real 6,09
+user 46,53
+sys 0,16
+16078_16000APU001-1280x720.sc
+APU image written, Rays: 8912054
+real 53,21
+user 413,11
+sys 0,28
+16116_260000APU011-1440x900.sc
+APU image written, Rays: 17581981
+real 24,70
+user 193,43
+sys 0,23
+16147_16000APU101-1440x900.sc
+APU image written, Rays: 1471758
+real 3,95
+user 29,34
+sys 0,17
+16191_4000APU000-1280x720.sc
+APU image written, Rays: 2825766
+real 8,76
+user 66,04
+sys 0,11
+16323_65000APU010-1280x720.sc
+APU image written, Rays: 2592000
+real 13,30
+user 95,60
+sys 0,22
+16385_260000APU000-1440x900.sc
+APU image written, Rays: 44567215
+real 252,05
+user 1996,02
+sys 0,72
+16386_260000APU111-1440x900.sc
+APU image written, Rays: 7714846
+real 24,49
+user 189,33
+sys 0,22
+16484_65000APU011-1440x900.sc
+APU image written, Rays: 9078573
+real 7,00
+user 52,00
+sys 0,22
+16571_1000APU101-1440x900.sc
+APU image written, Rays: 1843200
+real 11,75
+user 83,25
+sys 0,16
+16610_260000APU000-1280x720.sc
+APU image written, Rays: 9301841
+real 7,25
+user 53,24
+sys 0,24
+16753_1000APU110-1440x900.sc
+APU image written, Rays: 4009062
+real 10,06
+user 76,75
+sys 0,17
+16758_65000APU010-1440x900.sc
+APU image written, Rays: 30780786
+real 55,86
+user 442,06
+sys 0,29
+1687_16000APU111-1440x900.sc
+APU image written, Rays: 4009062
+real 10,32
+user 78,69
+sys 0,17
+16902_65000APU010-1440x900.sc
+APU image written, Rays: 19283038
+real 43,62
+user 344,04
+sys 0,24
+16934_65000APU101-1440x900.sc
+APU image written, Rays: 13221430
+real 63,86
+user 498,25
+sys 0,36
+16961_260000APU011-1920x1080.sc
+APU image written, Rays: 3817532
+real 7,20
+user 55,13
+sys 0,15
+17018_16000APU010-1440x900.sc
+APU image written, Rays: 14236321
+real 84,02
+user 653,43
+sys 0,25
+17033_260000APU101-1280x720.sc
+APU image written, Rays: 44567215
+real 249,30
+user 1973,56
+sys 0,54
+17065_260000APU111-1440x900.sc
+APU image written, Rays: 13372285
+real 11,86
+user 91,62
+sys 0,20
+17149_4000APU110-1440x900.sc
+APU image written, Rays: 3019876
+real 16,68
+user 121,19
+sys 0,20
+17166_260000APU010-1280x720.sc
+APU image written, Rays: 5085943
+real 8,60
+user 64,53
+sys 0,22
+17274_16000APU001-1920x1080.sc
+APU image written, Rays: 10240564
+real 8,53
+user 63,77
+sys 0,27
+17415_1000APU111-1440x900.sc
+APU image written, Rays: 1743289
+real 4,60
+user 34,39
+sys 0,14
+17555_16000APU000-1280x720.sc
+APU image written, Rays: 5854957
+real 13,82
+user 105,37
+sys 0,20
+17586_65000APU001-1920x1080.sc
+APU image written, Rays: 1843200
+real 11,83
+user 83,99
+sys 0,16
+17716_260000APU000-1280x720.sc
+APU image written, Rays: 2825766
+real 8,74
+user 66,55
+sys 0,12
+1774_65000APU010-1280x720.sc
+APU image written, Rays: 14130238
+real 30,26
+user 235,62
+sys 0,21
+17811_65000APU110-1280x720.sc
+APU image written, Rays: 17906315
+real 15,03
+user 114,91
+sys 0,35
+17995_4000APU101-1920x1080.sc
+APU image written, Rays: 6018495
+real 5,36
+user 40,31
+sys 0,15
+18010_1000APU100-1280x720.sc
+APU image written, Rays: 3515865
+real 7,21
+user 54,74
+sys 0,14
+18025_16000APU001-1440x900.sc
+APU image written, Rays: 12444733
+real 6,73
+user 48,16
+sys 0,33
+18050_1000APU100-1920x1080.sc
+APU image written, Rays: 19085495
+real 22,35
+user 175,30
+sys 0,24
+18161_16000APU110-1440x900.sc
+APU image written, Rays: 13243423
+real 32,92
+user 255,98
+sys 0,20
+18164_65000APU101-1280x720.sc
+APU image written, Rays: 1378515
+real 3,74
+user 26,67
+sys 0,12
+1820_1000APU010-1280x720.sc
+APU image written, Rays: 30839494
+real 124,67
+user 982,63
+sys 0,47
+18228_260000APU101-1920x1080.sc
+APU image written, Rays: 12960000
+real 47,91
+user 371,33
+sys 0,25
+18251_260000APU100-1440x900.sc
+APU image written, Rays: 2720645
+real 4,43
+user 30,81
+sys 0,22
+18370_1000APU010-1920x1080.sc
+APU image written, Rays: 2648749
+real 9,33
+user 70,19
+sys 0,13
+18405_65000APU001-1280x720.sc
+APU image written, Rays: 10423381
+real 8,30
+user 63,51
+sys 0,25
+18482_4000APU100-1440x900.sc
+APU image written, Rays: 25432647
+real 30,36
+user 235,52
+sys 0,31
+18525_16000APU101-1920x1080.sc
+APU image written, Rays: 1471758
+real 4,23
+user 30,48
+sys 0,10
+18532_4000APU000-1280x720.sc
+APU image written, Rays: 13372285
+real 11,89
+user 92,19
+sys 0,15
+18552_4000APU110-1440x900.sc
+APU image written, Rays: 4137863
+real 15,20
+user 109,47
+sys 0,21
+18557_260000APU000-1920x1080.sc
+APU image written, Rays: 4016008
+real 7,71
+user 56,72
+sys 0,22
+18557_65000APU000-1920x1080.sc
+APU image written, Rays: 3019876
+real 16,94
+user 122,88
+sys 0,17
+18589_260000APU010-1280x720.sc
+APU image written, Rays: 20047066
+real 36,16
+user 284,16
+sys 0,24
+18620_65000APU110-1440x900.sc
+APU image written, Rays: 21486720
+real 77,20
+user 605,55
+sys 0,27
+18727_260000APU110-1440x900.sc
+APU image written, Rays: 1378515
+real 3,82
+user 26,12
+sys 0,15
+18808_1000APU010-1280x720.sc
+APU image written, Rays: 33841698
+real 92,43
+user 725,14
+sys 0,41
+18894_260000APU110-1920x1080.sc
+APU image written, Rays: 8912054
+real 53,11
+user 412,21
+sys 0,20
+18897_260000APU011-1440x900.sc
+APU image written, Rays: 6314733
+real 41,74
+user 317,21
+sys 0,29
+18940_260000APU011-1280x720.sc
+APU image written, Rays: 6768077
+real 22,23
+user 165,59
+sys 0,22
+18945_260000APU010-1920x1080.sc
+APU image written, Rays: 31579011
+real 194,82
+user 1543,77
+sys 0,50
+18998_260000APU111-1280x720.sc
+APU image written, Rays: 14236321
+real 84,66
+user 657,41
+sys 0,30
+1900_260000APU101-1280x720.sc
+APU image written, Rays: 17906315
+real 14,96
+user 114,97
+sys 0,30
+19072_4000APU101-1920x1080.sc
+APU image written, Rays: 1543262
+real 3,80
+user 27,19
+sys 0,16
+19137_1000APU011-1280x720.sc
+APU image written, Rays: 2847385
+real 19,80
+user 145,91
+sys 0,18
+19175_260000APU001-1280x720.sc
+APU image written, Rays: 6768077
+real 22,62
+user 168,91
+sys 0,21
+19183_260000APU010-1920x1080.sc
+APU image written, Rays: 1765644
+real 4,35
+user 32,33
+sys 0,17
+19233_4000APU001-1280x720.sc
+APU image written, Rays: 9078573
+real 7,21
+user 53,76
+sys 0,24
+193_1000APU101-1440x900.sc
+APU image written, Rays: 7715680
+real 7,43
+user 56,36
+sys 0,19
+19373_1000APU111-1280x720.sc
+APU image written, Rays: 5854957
+real 13,66
+user 104,02
+sys 0,24
+19440_65000APU001-1920x1080.sc
+APU image written, Rays: 7714846
+real 23,73
+user 183,51
+sys 0,18
+19491_65000APU011-1440x900.sc
+APU image written, Rays: 4016008
+real 7,78
+user 56,90
+sys 0,20
+19512_65000APU000-1920x1080.sc
+APU image written, Rays: 12907801
+real 19,06
+user 147,47
+sys 0,21
+19521_65000APU100-1440x900.sc
+APU image written, Rays: 1203637
+real 3,48
+user 22,34
+sys 0,10
+19711_1000APU000-1280x720.sc
+APU image written, Rays: 25432647
+real 30,58
+user 239,06
+sys 0,36
+19720_16000APU101-1920x1080.sc
+APU image written, Rays: 1471758
+real 4,14
+user 30,59
+sys 0,09
+19744_4000APU000-1280x720.sc
+APU image written, Rays: 3856970
+real 11,44
+user 87,50
+sys 0,18
+1975_65000APU001-1440x900.sc
+APU image written, Rays: 2933485
+real 4,49
+user 30,92
+sys 0,17
+19867_1000APU011-1920x1080.sc
+APU image written, Rays: 9465936
+real 10,29
+user 79,82
+sys 0,15
+19908_4000APU110-1280x720.sc
+APU image written, Rays: 4137863
+real 15,18
+user 109,54
+sys 0,23
+19925_260000APU000-1920x1080.sc
+APU image written, Rays: 8191263
+real 15,49
+user 119,92
+sys 0,20
+200_16000APU011-1920x1080.sc
+APU image written, Rays: 2463634
+real 4,99
+user 36,96
+sys 0,16
+20057_16000APU000-1440x900.sc
+APU image written, Rays: 2498957
+real 4,69
+user 34,92
+sys 0,14
+20076_4000APU001-1440x900.sc
+APU image written, Rays: 7358424
+real 6,99
+user 52,61
+sys 0,16
+20110_4000APU100-1280x720.sc
+APU image written, Rays: 2464883
+real 5,97
+user 45,73
+sys 0,14
+20118_16000APU001-1280x720.sc
+APU image written, Rays: 6029019
+real 12,06
+user 90,39
+sys 0,18
+20127_65000APU010-1920x1080.sc
+APU image written, Rays: 4009062
+real 10,23
+user 77,80
+sys 0,17
+20153_65000APU010-1440x900.sc
+APU image written, Rays: 6892844
+real 7,11
+user 52,67
+sys 0,16
+20223_1000APU110-1280x720.sc
+APU image written, Rays: 4137863
+real 15,26
+user 109,90
+sys 0,25
+20252_260000APU000-1920x1080.sc
+APU image written, Rays: 2758193
+real 6,46
+user 49,47
+sys 0,11
+20268_16000APU010-1280x720.sc
+APU image written, Rays: 1655046
+real 3,81
+user 26,24
+sys 0,17
+20303_1000APU000-1440x900.sc
+APU image written, Rays: 5389835
+real 8,36
+user 62,01
+sys 0,19
+20310_16000APU010-1920x1080.sc
+APU image written, Rays: 13221430
+real 64,61
+user 504,25
+sys 0,29
+20363_260000APU011-1920x1080.sc
+APU image written, Rays: 17906315
+real 14,91
+user 113,21
+sys 0,30
+20372_4000APU101-1920x1080.sc
+APU image written, Rays: 12493352
+real 12,52
+user 96,58
+sys 0,24
+20386_4000APU101-1440x900.sc
+APU image written, Rays: 2464883
+real 6,18
+user 46,91
+sys 0,13
+20389_16000APU001-1280x720.sc
+APU image written, Rays: 4447947
+real 10,47
+user 81,94
+sys 0,14
+20542_16000APU011-1280x720.sc
+APU image written, Rays: 2674721
+real 5,46
+user 39,36
+sys 0,17
+2054_4000APU010-1440x900.sc
+APU image written, Rays: 26704747
+real 82,95
+user 646,71
+sys 0,33
+20624_65000APU111-1280x720.sc
+APU image written, Rays: 30145004
+real 43,95
+user 345,07
+sys 0,34
+20_65000APU110-1920x1080.sc
+APU image written, Rays: 8827803
+real 10,46
+user 80,90
+sys 0,16
+20677_4000APU101-1280x720.sc
+APU image written, Rays: 9465936
+real 10,80
+user 82,87
+sys 0,15
+20714_4000APU110-1280x720.sc
+APU image written, Rays: 2648749
+real 9,28
+user 70,28
+sys 0,19
+20905_65000APU001-1280x720.sc
+APU image written, Rays: 6314733
+real 41,88
+user 318,82
+sys 0,22
+20916_260000APU011-1280x720.sc
+APU image written, Rays: 22235417
+real 43,57
+user 345,64
+sys 0,21
+20964_16000APU111-1280x720.sc
+APU image written, Rays: 26704747
+real 83,59
+user 651,74
+sys 0,30
+21024_65000APU111-1280x720.sc
+APU image written, Rays: 5854957
+real 13,91
+user 105,54
+sys 0,16
+21048_65000APU001-1920x1080.sc
+APU image written, Rays: 21486720
+real 76,38
+user 598,38
+sys 0,31
+21065_260000APU110-1440x900.sc
+APU image written, Rays: 3581389
+real 5,50
+user 40,97
+sys 0,22
+21177_4000APU001-1920x1080.sc
+APU image written, Rays: 2084707
+real 4,68
+user 33,71
+sys 0,14
+21239_4000APU000-1440x900.sc
+APU image written, Rays: 2648749
+real 9,16
+user 69,81
+sys 0,10
+21262_65000APU001-1280x720.sc
+APU image written, Rays: 3581389
+real 5,88
+user 41,88
+sys 0,26
+2129_4000APU001-1920x1080.sc
+APU image written, Rays: 3765218
+real 5,71
+user 40,89
+sys 0,14
+21308_4000APU010-1920x1080.sc
+APU image written, Rays: 5389835
+real 8,26
+user 61,70
+sys 0,19
+21375_16000APU010-1920x1080.sc
+APU image written, Rays: 3765218
+real 5,53
+user 39,78
+sys 0,22
+21381_4000APU010-1920x1080.sc
+APU image written, Rays: 11014672
+real 29,34
+user 229,76
+sys 0,20
+21416_65000APU011-1920x1080.sc
+APU image written, Rays: 38556639
+real 111,41
+user 872,83
+sys 0,32
+21426_65000APU111-1440x900.sc
+APU image written, Rays: 1471758
+real 4,38
+user 32,24
+sys 0,12
+21559_4000APU000-1280x720.sc
+APU image written, Rays: 6892844
+real 6,54
+user 49,19
+sys 0,21
+21591_1000APU110-1280x720.sc
+APU image written, Rays: 2048122
+real 4,18
+user 29,62
+sys 0,14
+21635_1000APU011-1440x900.sc
+APU image written, Rays: 13369804
+real 8,10
+user 59,14
+sys 0,32
+21642_1000APU101-1920x1080.sc
+APU image written, Rays: 8716548
+real 9,86
+user 75,46
+sys 0,12
+2174_16000APU100-1280x720.sc
+APU image written, Rays: 3019876
+real 16,62
+user 120,73
+sys 0,16
+21745_260000APU010-1280x720.sc
+APU image written, Rays: 2758193
+real 6,22
+user 47,92
+sys 0,12
+2176_16000APU010-1280x720.sc
+APU image written, Rays: 26704747
+real 83,28
+user 649,35
+sys 0,29
+21890_65000APU111-1280x720.sc
+APU image written, Rays: 29273022
+real 55,11
+user 434,90
+sys 0,38
+21907_65000APU101-1920x1080.sc
+APU image written, Rays: 22753972
+real 24,63
+user 190,41
+sys 0,30
+22008_4000APU111-1920x1080.sc
+APU image written, Rays: 12960000
+real 46,93
+user 363,04
+sys 0,32
+2201_260000APU100-1440x900.sc
+APU image written, Rays: 13603757
+real 7,94
+user 57,65
+sys 0,31
+22044_1000APU110-1920x1080.sc
+APU image written, Rays: 6155457
+real 13,48
+user 104,56
+sys 0,19
+22067_16000APU011-1440x900.sc
+APU image written, Rays: 2463634
+real 5,17
+user 37,61
+sys 0,16
+22076_16000APU000-1440x900.sc
+APU image written, Rays: 2374571
+real 5,63
+user 42,57
+sys 0,11
+22101_4000APU011-1280x720.sc
+APU image written, Rays: 5342568
+real 18,28
+user 142,73
+sys 0,17
+22117_65000APU011-1280x720.sc
+APU image written, Rays: 3314376
+real 6,35
+user 48,12
+sys 0,15
+22167_4000APU011-1440x900.sc
+APU image written, Rays: 17581981
+real 24,04
+user 189,41
+sys 0,25
+22195_16000APU101-1440x900.sc
+APU image written, Rays: 3856970
+real 11,54
+user 88,46
+sys 0,14
+22209_65000APU001-1440x900.sc
+APU image written, Rays: 1543262
+real 3,78
+user 26,96
+sys 0,16
+22306_1000APU011-1280x720.sc
+APU image written, Rays: 8716548
+real 9,95
+user 75,58
+sys 0,16
+22352_16000APU100-1280x720.sc
+APU image written, Rays: 12493352
+real 12,55
+user 97,01
+sys 0,18
+2238_4000APU101-1440x900.sc
+APU image written, Rays: 8275707
+real 6,11
+user 44,71
+sys 0,27
+22459_1000APU100-1440x900.sc
+APU image written, Rays: 13243423
+real 33,30
+user 259,21
+sys 0,19
+22495_65000APU101-1280x720.sc
+APU image written, Rays: 6029019
+real 12,20
+user 91,49
+sys 0,21
+22523_65000APU010-1920x1080.sc
+APU image written, Rays: 1341588
+real 3,50
+user 23,80
+sys 0,12
+22533_1000APU001-1280x720.sc
+APU image written, Rays: 4550564
+real 7,28
+user 54,47
+sys 0,19
+22559_4000APU011-1920x1080.sc
+APU image written, Rays: 15100061
+real 66,66
+user 514,75
+sys 0,26
+2260_260000APU110-1280x720.sc
+APU image written, Rays: 2825766
+real 9,14
+user 69,69
+sys 0,10
+22702_65000APU010-1280x720.sc
+APU image written, Rays: 3992970
+real 23,74
+user 179,00
+sys 0,21
+22754_260000APU001-1440x900.sc
+APU image written, Rays: 40959497
+real 65,61
+user 518,60
+sys 0,34
+22776_16000APU111-1920x1080.sc
+APU image written, Rays: 1815598
+real 3,87
+user 27,75
+sys 0,15
+22969_1000APU001-1440x900.sc
+APU image written, Rays: 5342568
+real 18,56
+user 142,59
+sys 0,14
+23057_65000APU011-1280x720.sc
+APU image written, Rays: 4137863
+real 15,08
+user 109,04
+sys 0,20
+23069_260000APU000-1920x1080.sc
+APU image written, Rays: 14130238
+real 30,10
+user 234,37
+sys 0,15
+23246_65000APU110-1280x720.sc
+APU image written, Rays: 2847385
+real 19,82
+user 145,64
+sys 0,19
+2332_260000APU001-1280x720.sc
+APU image written, Rays: 9216000
+real 39,93
+user 308,23
+sys 0,20
+23390_260000APU100-1280x720.sc
+APU image written, Rays: 1834065
+real 5,95
+user 44,09
+sys 0,14
+23450_65000APU000-1280x720.sc
+APU image written, Rays: 31579011
+real 194,91
+user 1526,12
+sys 0,46
+2349_260000APU111-1280x720.sc
+APU image written, Rays: 12444733
+real 6,72
+user 47,53
+sys 0,32
+23581_1000APU100-1920x1080.sc
+APU image written, Rays: 2674721
+real 5,41
+user 39,86
+sys 0,16
+23588_4000APU010-1440x900.sc
+APU image written, Rays: 22235417
+real 44,28
+user 351,28
+sys 0,22
+23640_16000APU111-1280x720.sc
+APU image written, Rays: 7714846
+real 24,16
+user 187,05
+sys 0,21
+23706_65000APU011-1440x900.sc
+APU image written, Rays: 20079989
+real 22,74
+user 175,59
+sys 0,28
+23741_65000APU100-1920x1080.sc
+APU image written, Rays: 10240564
+real 8,81
+user 65,78
+sys 0,22
+23859_1000APU111-1440x900.sc
+APU image written, Rays: 1743289
+real 4,64
+user 34,77
+sys 0,14
+23871_16000APU000-1280x720.sc
+APU image written, Rays: 12493352
+real 12,55
+user 96,33
+sys 0,30
+23935_4000APU101-1440x900.sc
+APU image written, Rays: 20079989
+real 22,70
+user 175,79
+sys 0,24
+23964_65000APU100-1920x1080.sc
+APU image written, Rays: 15100061
+real 66,94
+user 516,81
+sys 0,24
+23983_260000APU110-1280x720.sc
+APU image written, Rays: 20689221
+real 55,09
+user 427,10
+sys 0,35
+24000_260000APU100-1920x1080.sc
+APU image written, Rays: 12318316
+real 11,38
+user 86,71
+sys 0,22
+24012_16000APU100-1440x900.sc
+APU image written, Rays: 3049209
+real 4,79
+user 34,09
+sys 0,16
+24108_4000APU000-1920x1080.sc
+APU image written, Rays: 1378515
+real 3,70
+user 25,63
+sys 0,17
+24131_1000APU010-1280x720.sc
+APU image written, Rays: 12907801
+real 19,11
+user 148,12
+sys 0,22
+24151_65000APU100-1440x900.sc
+APU image written, Rays: 6768077
+real 22,54
+user 168,08
+sys 0,25
+2424_260000APU010-1920x1080.sc
+APU image written, Rays: 3314376
+real 6,41
+user 48,62
+sys 0,16
+24274_4000APU011-1440x900.sc
+APU image written, Rays: 2847385
+real 19,95
+user 146,91
+sys 0,18
+24296_260000APU001-1280x720.sc
+APU image written, Rays: 11873529
+real 17,25
+user 134,90
+sys 0,18
+24308_4000APU111-1280x720.sc
+APU image written, Rays: 13603757
+real 7,96
+user 57,88
+sys 0,31
+24313_1000APU110-1920x1080.sc
+APU image written, Rays: 6029019
+real 11,65
+user 87,84
+sys 0,22
+24325_65000APU010-1920x1080.sc
+APU image written, Rays: 15100061
+real 66,62
+user 514,44
+sys 0,24
+243_260000APU110-1280x720.sc
+APU image written, Rays: 4447947
+real 10,50
+user 82,28
+sys 0,16
+24327_16000APU011-1280x720.sc
+APU image written, Rays: 12444733
+real 6,73
+user 47,93
+sys 0,28
+24346_1000APU100-1920x1080.sc
+APU image written, Rays: 8912054
+real 53,04
+user 411,17
+sys 0,26
+24371_260000APU011-1440x900.sc
+APU image written, Rays: 18824750
+real 13,85
+user 104,93
+sys 0,35
+2448_4000APU110-1920x1080.sc
+APU image written, Rays: 30145004
+real 44,36
+user 348,57
+sys 0,33
+24493_65000APU110-1920x1080.sc
+APU image written, Rays: 6029019
+real 11,78
+user 89,51
+sys 0,19
+24525_65000APU010-1920x1080.sc
+APU image written, Rays: 40959497
+real 65,94
+user 521,32
+sys 0,34
+24571_16000APU111-1920x1080.sc
+APU image written, Rays: 25432647
+real 30,52
+user 236,36
+sys 0,32
+24615_16000APU101-1920x1080.sc
+APU image written, Rays: 8191263
+real 15,48
+user 119,31
+sys 0,18
+24653_16000APU011-1920x1080.sc
+APU image written, Rays: 3765218
+real 5,88
+user 42,97
+sys 0,21
+2473_4000APU010-1920x1080.sc
+APU image written, Rays: 10423381
+real 8,11
+user 61,81
+sys 0,26
+24764_4000APU100-1440x900.sc
+APU image written, Rays: 10240564
+real 8,70
+user 65,48
+sys 0,27
+2481_1000APU111-1440x900.sc
+APU image written, Rays: 9216000
+real 39,91
+user 308,10
+sys 0,18
+2482_260000APU100-1280x720.sc
+APU image written, Rays: 6018495
+real 5,15
+user 38,18
+sys 0,14
+24835_1000APU100-1280x720.sc
+APU image written, Rays: 3706793
+real 5,70
+user 41,41
+sys 0,19
+25011_16000APU000-1920x1080.sc
+APU image written, Rays: 1743289
+real 4,77
+user 35,60
+sys 0,14
+25037_16000APU000-1280x720.sc
+APU image written, Rays: 26947023
+real 26,15
+user 204,29
+sys 0,27
+25042_16000APU110-1920x1080.sc
+APU image written, Rays: 2673841
+real 4,18
+user 28,70
+sys 0,18
+25189_1000APU001-1920x1080.sc
+APU image written, Rays: 17581981
+real 24,47
+user 192,44
+sys 0,19
+2519_16000APU101-1440x900.sc
+APU image written, Rays: 8912054
+real 52,81
+user 409,84
+sys 0,24
+25210_260000APU011-1440x900.sc
+APU image written, Rays: 7714846
+real 23,73
+user 186,02
+sys 0,16
+25367_65000APU011-1440x900.sc
+APU image written, Rays: 1203637
+real 3,49
+user 22,26
+sys 0,15
+25369_1000APU000-1280x720.sc
+APU image written, Rays: 7715680
+real 7,50
+user 57,59
+sys 0,15
+25421_1000APU111-1280x720.sc
+APU image written, Rays: 17581981
+real 24,50
+user 192,25
+sys 0,22
+25485_16000APU101-1440x900.sc
+APU image written, Rays: 1543262
+real 3,83
+user 27,48
+sys 0,17
+25528_1000APU011-1280x720.sc
+APU image written, Rays: 22753972
+real 24,66
+user 191,74
+sys 0,39
+2553_4000APU111-1920x1080.sc
+APU image written, Rays: 10423381
+real 8,31
+user 62,95
+sys 0,21
+25536_4000APU100-1440x900.sc
+APU image written, Rays: 12493352
+real 12,65
+user 98,15
+sys 0,20
+25625_4000APU101-1440x900.sc
+APU image written, Rays: 44567215
+real 250,96
+user 1991,75
+sys 0,60
+25732_260000APU111-1440x900.sc
+APU image written, Rays: 13372285
+real 11,81
+user 91,26
+sys 0,24
+25745_4000APU110-1440x900.sc
+APU image written, Rays: 2933485
+real 4,54
+user 31,09
+sys 0,17
+25981_1000APU011-1920x1080.sc
+APU image written, Rays: 2374571
+real 5,45
+user 41,41
+sys 0,14
+25982_4000APU011-1280x720.sc
+APU image written, Rays: 5085943
+real 8,65
+user 65,48
+sys 0,20
+25987_16000APU001-1920x1080.sc
+APU image written, Rays: 30145004
+real 43,97
+user 345,58
+sys 0,25
+2600_65000APU110-1920x1080.sc
+APU image written, Rays: 19964949
+real 100,88
+user 787,15
+sys 0,46
+26049_260000APU101-1440x900.sc
+APU image written, Rays: 22235417
+real 43,80
+user 347,27
+sys 0,19
+26091_16000APU111-1280x720.sc
+APU image written, Rays: 25432647
+real 30,74
+user 240,27
+sys 0,38
+26103_16000APU101-1920x1080.sc
+APU image written, Rays: 6892844
+real 6,67
+user 50,37
+sys 0,15
+26203_1000APU110-1280x720.sc
+APU image written, Rays: 12323906
+real 19,07
+user 149,68
+sys 0,16
+26206_16000APU101-1280x720.sc
+APU image written, Rays: 38556639
+real 110,33
+user 864,83
+sys 0,38
+26257_65000APU111-1440x900.sc
+APU image written, Rays: 7715680
+real 7,75
+user 58,70
+sys 0,16
+26301_1000APU111-1280x720.sc
+APU image written, Rays: 40959497
+real 65,51
+user 518,21
+sys 0,35
+2630_16000APU111-1920x1080.sc
+APU image written, Rays: 20079989
+real 22,56
+user 174,41
+sys 0,30
+26338_65000APU100-1920x1080.sc
+APU image written, Rays: 9301841
+real 7,30
+user 54,03
+sys 0,16
+26341_1000APU110-1440x900.sc
+APU image written, Rays: 20047066
+real 36,03
+user 283,62
+sys 0,22
+26362_65000APU110-1440x900.sc
+APU image written, Rays: 3992970
+real 23,73
+user 176,77
+sys 0,18
+26404_260000APU001-1440x900.sc
+APU image written, Rays: 13369804
+real 7,98
+user 57,87
+sys 0,33
+26421_1000APU101-1920x1080.sc
+APU image written, Rays: 13243423
+real 32,76
+user 255,17
+sys 0,22
+26438_65000APU101-1280x720.sc
+APU image written, Rays: 2720645
+real 4,13
+user 28,82
+sys 0,19
+26509_1000APU010-1920x1080.sc
+APU image written, Rays: 2673841
+real 4,31
+user 29,02
+sys 0,24
+26545_1000APU001-1920x1080.sc
+APU image written, Rays: 6167699
+real 28,66
+user 216,40
+sys 0,26
+2661_260000APU001-1920x1080.sc
+APU image written, Rays: 44567215
+real 249,54
+user 1956,32
+sys 0,62
+26639_260000APU111-1440x900.sc
+APU image written, Rays: 26704747
+real 82,88
+user 646,08
+sys 0,27
+26705_65000APU111-1280x720.sc
+APU image written, Rays: 1860255
+real 4,01
+user 28,17
+sys 0,16
+267_1000APU010-1440x900.sc
+APU image written, Rays: 19283038
+real 43,93
+user 346,10
+sys 0,21
+2673_65000APU101-1440x900.sc
+APU image written, Rays: 33841698
+real 92,52
+user 725,40
+sys 0,37
+26772_260000APU110-1920x1080.sc
+APU image written, Rays: 1860255
+real 4,03
+user 28,43
+sys 0,14
+268_1000APU010-1440x900.sc
+APU image written, Rays: 8827803
+real 10,59
+user 81,59
+sys 0,20
+26815_4000APU101-1280x720.sc
+APU image written, Rays: 6018495
+real 5,53
+user 41,81
+sys 0,14
+2686_1000APU100-1280x720.sc
+APU image written, Rays: 8191263
+real 15,48
+user 120,72
+sys 0,16
+26906_16000APU011-1920x1080.sc
+APU image written, Rays: 7714846
+real 24,25
+user 187,64
+sys 0,18
+27035_65000APU011-1440x900.sc
+APU image written, Rays: 6708090
+real 6,84
+user 51,03
+sys 0,13
+27095_1000APU101-1280x720.sc
+APU image written, Rays: 19964949
+real 101,49
+user 792,29
+sys 0,40
+27109_260000APU101-1440x900.sc
+APU image written, Rays: 1203637
+real 3,51
+user 22,80
+sys 0,12
+27249_1000APU000-1280x720.sc
+APU image written, Rays: 2463634
+real 4,88
+user 36,28
+sys 0,14
+27299_16000APU000-1440x900.sc
+APU image written, Rays: 12960000
+real 47,94
+user 371,29
+sys 0,26
+27302_260000APU100-1440x900.sc
+APU image written, Rays: 2720645
+real 4,35
+user 30,12
+sys 0,15
+273_1000APU010-1920x1080.sc
+APU image written, Rays: 3515865
+real 7,40
+user 55,50
+sys 0,21
+27318_16000APU001-1440x900.sc
+APU image written, Rays: 14667458
+real 9,62
+user 70,88
+sys 0,37
+27357_1000APU111-1920x1080.sc
+APU image written, Rays: 3314376
+real 6,44
+user 48,30
+sys 0,15
+27381_4000APU011-1440x900.sc
+APU image written, Rays: 4297381
+real 19,35
+user 143,63
+sys 0,18
+27552_260000APU010-1440x900.sc
+APU image written, Rays: 2581566
+real 7,10
+user 52,51
+sys 0,15
+2755_65000APU000-1440x900.sc
+APU image written, Rays: 8827803
+real 10,57
+user 81,77
+sys 0,22
+27582_4000APU101-1280x720.sc
+APU image written, Rays: 13243423
+real 32,54
+user 255,95
+sys 0,22
+27584_65000APU101-1280x720.sc
+APU image written, Rays: 66120042
+real 306,25
+user 2409,49
+sys 0,66
+27641_260000APU111-1920x1080.sc
+APU image written, Rays: 5854957
+real 13,76
+user 104,08
+sys 0,22
+27716_65000APU001-1920x1080.sc
+APU image written, Rays: 9216000
+real 39,83
+user 307,06
+sys 0,22
+27873_260000APU100-1280x720.sc
+APU image written, Rays: 22235417
+real 43,99
+user 349,03
+sys 0,22
+2788_16000APU111-1280x720.sc
+APU image written, Rays: 31579011
+real 196,81
+user 1534,90
+sys 0,57
+27938_260000APU111-1280x720.sc
+APU image written, Rays: 4550564
+real 7,35
+user 55,12
+sys 0,16
+27946_4000APU011-1920x1080.sc
+APU image written, Rays: 6155457
+real 13,63
+user 105,32
+sys 0,20
+28002_16000APU011-1440x900.sc
+APU image written, Rays: 9170269
+real 16,18
+user 125,28
+sys 0,15
+28011_65000APU100-1280x720.sc
+APU image written, Rays: 2720645
+real 4,26
+user 29,35
+sys 0,23
+28021_1000APU010-1920x1080.sc
+APU image written, Rays: 2674721
+real 5,44
+user 40,02
+sys 0,19
+28105_4000APU010-1440x900.sc
+APU image written, Rays: 17906315
+real 14,90
+user 114,21
+sys 0,36
+28107_4000APU101-1920x1080.sc
+APU image written, Rays: 18824750
+real 13,87
+user 105,23
+sys 0,27
+28119_4000APU110-1920x1080.sc
+APU image written, Rays: 9465936
+real 10,90
+user 84,14
+sys 0,18
+28167_4000APU110-1280x720.sc
+APU image written, Rays: 6708090
+real 6,72
+user 49,60
+sys 0,20
+28205_1000APU101-1280x720.sc
+APU image written, Rays: 14236321
+real 84,71
+user 658,33
+sys 0,28
+28651_260000APU101-1280x720.sc
+APU image written, Rays: 12323906
+real 19,44
+user 151,73
+sys 0,20
+28652_16000APU101-1280x720.sc
+APU image written, Rays: 15245875
+real 9,42
+user 70,14
+sys 0,33
+28692_4000APU100-1920x1080.sc
+APU image written, Rays: 4297381
+real 19,08
+user 141,67
+sys 0,21
+28717_260000APU010-1440x900.sc
+APU image written, Rays: 30780786
+real 55,16
+user 437,43
+sys 0,26
+28762_16000APU111-1440x900.sc
+APU image written, Rays: 1815598
+real 4,14
+user 29,45
+sys 0,18
+28899_1000APU001-1440x900.sc
+APU image written, Rays: 15245875
+real 9,52
+user 70,38
+sys 0,34
+28901_4000APU100-1920x1080.sc
+APU image written, Rays: 3706793
+real 5,67
+user 41,85
+sys 0,17
+28923_16000APU000-1920x1080.sc
+APU image written, Rays: 8716548
+real 9,98
+user 75,89
+sys 0,24
+29094_16000APU100-1280x720.sc
+APU image written, Rays: 1341588
+real 3,62
+user 23,82
+sys 0,16
+29096_1000APU001-1280x720.sc
+APU image written, Rays: 12493352
+real 12,70
+user 97,41
+sys 0,21
+29124_4000APU101-1440x900.sc
+APU image written, Rays: 13788933
+real 19,44
+user 152,76
+sys 0,20
+29135_16000APU110-1280x720.sc
+APU image written, Rays: 15100061
+real 66,92
+user 516,21
+sys 0,27
+29147_260000APU110-1280x720.sc
+APU image written, Rays: 2847385
+real 20,09
+user 147,22
+sys 0,18
+29166_260000APU001-1280x720.sc
+APU image written, Rays: 2498957
+real 5,03
+user 37,02
+sys 0,18
+2920_4000APU001-1440x900.sc
+APU image written, Rays: 29273022
+real 55,09
+user 434,45
+sys 0,42
+29211_65000APU101-1920x1080.sc
+APU image written, Rays: 2933485
+real 4,51
+user 31,75
+sys 0,21
+29281_1000APU011-1920x1080.sc
+APU image written, Rays: 13372285
+real 12,28
+user 94,85
+sys 0,22
+29351_4000APU110-1440x900.sc
+APU image written, Rays: 2488857
+real 4,23
+user 28,75
+sys 0,21
+29413_1000APU000-1920x1080.sc
+APU image written, Rays: 19964949
+real 101,18
+user 789,16
+sys 0,30
+2950_260000APU101-1440x900.sc
+APU image written, Rays: 8191263
+real 15,58
+user 118,48
+sys 0,21
+29551_16000APU011-1920x1080.sc
+APU image written, Rays: 6167699
+real 28,11
+user 213,13
+sys 0,27
+2956_260000APU001-1920x1080.sc
+APU image written, Rays: 1471758
+real 4,00
+user 29,39
+sys 0,12
+29566_4000APU000-1280x720.sc
+APU image written, Rays: 22753972
+real 24,31
+user 188,28
+sys 0,31
+29624_4000APU111-1920x1080.sc
+APU image written, Rays: 1765644
+real 4,53
+user 33,74
+sys 0,14
+29717_4000APU001-1280x720.sc
+APU image written, Rays: 2464883
+real 6,09
+user 46,57
+sys 0,12
+29738_16000APU001-1280x720.sc
+APU image written, Rays: 22753972
+real 24,33
+user 188,91
+sys 0,28
+29784_4000APU111-1920x1080.sc
+APU image written, Rays: 14130238
+real 30,34
+user 235,76
+sys 0,18
+29805_65000APU110-1280x720.sc
+APU image written, Rays: 2592000
+real 13,35
+user 95,29
+sys 0,23
+29842_260000APU000-1440x900.sc
+APU image written, Rays: 6018495
+real 5,38
+user 39,29
+sys 0,17
+2997_1000APU100-1280x720.sc
+APU image written, Rays: 2374571
+real 5,69
+user 42,86
+sys 0,15
+29980_4000APU011-1280x720.sc
+APU image written, Rays: 1655046
+real 3,99
+user 26,86
+sys 0,16
+30031_1000APU000-1440x900.sc
+APU image written, Rays: 30839494
+real 124,96
+user 984,30
+sys 0,46
+30072_260000APU101-1920x1080.sc
+APU image written, Rays: 66120042
+real 306,85
+user 2437,39
+sys 0,61
+30095_260000APU111-1920x1080.sc
+APU image written, Rays: 1203637
+real 3,41
+user 22,15
+sys 0,11
+30164_1000APU000-1280x720.sc
+APU image written, Rays: 16571334
+real 20,26
+user 158,73
+sys 0,25
+30193_4000APU111-1440x900.sc
+APU image written, Rays: 3581389
+real 5,62
+user 40,78
+sys 0,20
+30239_4000APU001-1920x1080.sc
+APU image written, Rays: 8275707
+real 6,01
+user 44,18
+sys 0,28
+30280_1000APU100-1440x900.sc
+APU image written, Rays: 2374571
+real 5,23
+user 40,17
+sys 0,08
+30369_4000APU011-1280x720.sc
+APU image written, Rays: 12323906
+real 18,67
+user 146,86
+sys 0,16
+304_16000APU101-1280x720.sc
+APU image written, Rays: 10423381
+real 8,23
+user 62,81
+sys 0,25
+30427_4000APU100-1440x900.sc
+APU image written, Rays: 55058085
+real 135,59
+user 1077,74
+sys 0,44
+30457_65000APU111-1920x1080.sc
+APU image written, Rays: 66120042
+real 305,31
+user 2424,71
+sys 0,72
+30507_260000APU111-1920x1080.sc
+APU image written, Rays: 3856970
+real 11,26
+user 86,08
+sys 0,15
+30511_65000APU001-1440x900.sc
+APU image written, Rays: 11873529
+real 17,16
+user 134,50
+sys 0,17
+30547_4000APU111-1280x720.sc
+APU image written, Rays: 12907801
+real 19,38
+user 149,57
+sys 0,22
+30571_65000APU100-1440x900.sc
+APU image written, Rays: 11873529
+real 17,15
+user 134,17
+sys 0,21
+30589_4000APU111-1280x720.sc
+APU image written, Rays: 1655046
+real 3,86
+user 26,39
+sys 0,16
+30590_1000APU000-1440x900.sc
+APU image written, Rays: 19085495
+real 22,73
+user 178,03
+sys 0,22
+30712_16000APU110-1440x900.sc
+APU image written, Rays: 20047066
+real 36,44
+user 286,35
+sys 0,28
+30987_65000APU110-1440x900.sc
+APU image written, Rays: 6708090
+real 6,32
+user 47,62
+sys 0,20
+30998_1000APU101-1280x720.sc
+APU image written, Rays: 2463634
+real 5,15
+user 38,40
+sys 0,18
+30998_16000APU000-1440x900.sc
+APU image written, Rays: 13221430
+real 64,30
+user 502,06
+sys 0,31
+310_260000APU011-1920x1080.sc
+APU image written, Rays: 14667458
+real 9,60
+user 70,88
+sys 0,36
+31039_1000APU111-1920x1080.sc
+APU image written, Rays: 38556639
+real 110,86
+user 868,82
+sys 0,36
+31067_65000APU111-1440x900.sc
+APU image written, Rays: 19964949
+real 101,55
+user 792,66
+sys 0,36
+31203_260000APU101-1440x900.sc
+APU image written, Rays: 2374571
+real 5,22
+user 39,64
+sys 0,18
+312_4000APU011-1280x720.sc
+APU image written, Rays: 6314733
+real 42,28
+user 323,60
+sys 0,24
+31304_260000APU011-1280x720.sc
+APU image written, Rays: 14667458
+real 9,55
+user 70,55
+sys 0,31
+31324_1000APU111-1920x1080.sc
+APU image written, Rays: 10423381
+real 8,35
+user 63,63
+sys 0,25
+31336_4000APU100-1440x900.sc
+APU image written, Rays: 10240564
+real 8,55
+user 63,77
+sys 0,23
+31363_1000APU111-1440x900.sc
+APU image written, Rays: 19964949
+real 101,47
+user 792,65
+sys 0,35
+31473_260000APU101-1440x900.sc
+APU image written, Rays: 2048122
+real 4,23
+user 29,75
+sys 0,17
+3149_1000APU011-1440x900.sc
+APU image written, Rays: 5342568
+real 18,48
+user 144,13
+sys 0,18
+31559_65000APU011-1280x720.sc
+APU image written, Rays: 30780786
+real 56,53
+user 446,75
+sys 0,28
+31576_16000APU111-1440x900.sc
+APU image written, Rays: 7358424
+real 7,43
+user 56,57
+sys 0,18
+31624_4000APU100-1280x720.sc
+APU image written, Rays: 55058085
+real 137,18
+user 1089,15
+sys 0,51
+31668_65000APU111-1920x1080.sc
+APU image written, Rays: 13372285
+real 11,92
+user 92,28
+sys 0,22
+31830_4000APU110-1440x900.sc
+APU image written, Rays: 20689221
+real 54,90
+user 425,39
+sys 0,35
+31886_260000APU100-1920x1080.sc
+APU image written, Rays: 2048122
+real 4,09
+user 29,35
+sys 0,15
+32003_1000APU011-1440x900.sc
+APU image written, Rays: 14667458
+real 9,59
+user 70,35
+sys 0,34
+32070_1000APU111-1920x1080.sc
+APU image written, Rays: 9465936
+real 10,57
+user 81,96
+sys 0,19
+32192_4000APU110-1280x720.sc
+APU image written, Rays: 15245875
+real 9,50
+user 70,68
+sys 0,26
+32318_4000APU100-1920x1080.sc
+APU image written, Rays: 20047066
+real 36,11
+user 284,11
+sys 0,26
+32331_65000APU110-1440x900.sc
+APU image written, Rays: 4447947
+real 10,56
+user 82,21
+sys 0,10
+32345_16000APU011-1280x720.sc
+APU image written, Rays: 1815598
+real 3,91
+user 27,52
+sys 0,19
+32372_1000APU001-1440x900.sc
+APU image written, Rays: 5342568
+real 18,47
+user 144,08
+sys 0,13
+32410_65000APU011-1280x720.sc
+APU image written, Rays: 16571334
+real 21,18
+user 165,07
+sys 0,22
+32443_4000APU111-1440x900.sc
+APU image written, Rays: 12318316
+real 11,28
+user 86,69
+sys 0,22
+32457_16000APU100-1440x900.sc
+APU image written, Rays: 40959497
+real 65,58
+user 518,44
+sys 0,40
+32539_16000APU111-1920x1080.sc
+APU image written, Rays: 2592000
+real 13,25
+user 94,64
+sys 0,18
+32573_260000APU000-1440x900.sc
+APU image written, Rays: 13788933
+real 19,15
+user 150,35
+sys 0,16
+32610_16000APU110-1280x720.sc
+APU image written, Rays: 19283038
+real 44,05
+user 347,18
+sys 0,27
+32643_65000APU101-1440x900.sc
+APU image written, Rays: 9078573
+real 7,24
+user 53,27
+sys 0,27
+3273_1000APU101-1440x900.sc
+APU image written, Rays: 3515865
+real 7,41
+user 55,79
+sys 0,16
+32752_16000APU001-1440x900.sc
+APU image written, Rays: 38556639
+real 110,25
+user 863,82
+sys 0,42
+3283_65000APU111-1440x900.sc
+APU image written, Rays: 19283038
+real 44,01
+user 343,68
+sys 0,23
+3341_65000APU101-1440x900.sc
+APU image written, Rays: 1378515
+real 3,70
+user 26,53
+sys 0,13
+3382_1000APU010-1280x720.sc
+APU image written, Rays: 21486720
+real 77,65
+user 609,08
+sys 0,22
+3384_260000APU110-1440x900.sc
+APU image written, Rays: 19283038
+real 43,92
+user 346,68
+sys 0,31
+3526_65000APU101-1440x900.sc
+APU image written, Rays: 5085943
+real 8,77
+user 65,87
+sys 0,22
+3657_16000APU001-1920x1080.sc
+APU image written, Rays: 1843200
+real 11,81
+user 84,10
+sys 0,17
+3718_260000APU000-1280x720.sc
+APU image written, Rays: 18534128
+real 13,95
+user 106,38
+sys 0,28
+3740_16000APU100-1920x1080.sc
+APU image written, Rays: 20047066
+real 36,90
+user 289,33
+sys 0,23
+3747_65000APU110-1440x900.sc
+APU image written, Rays: 8912054
+real 53,28
+user 413,13
+sys 0,28
+3806_260000APU011-1440x900.sc
+APU image written, Rays: 2581566
+real 7,56
+user 55,28
+sys 0,15
+3817_65000APU000-1440x900.sc
+APU image written, Rays: 9216000
+real 40,22
+user 310,29
+sys 0,22
+3864_260000APU100-1280x720.sc
+APU image written, Rays: 3992970
+real 24,11
+user 181,63
+sys 0,19
+3872_260000APU001-1440x900.sc
+APU image written, Rays: 4447947
+real 10,74
+user 83,94
+sys 0,13
+3881_16000APU011-1280x720.sc
+APU image written, Rays: 3049209
+real 4,89
+user 34,38
+sys 0,18
+4108_4000APU000-1920x1080.sc
+APU image written, Rays: 9170269
+real 16,15
+user 124,38
+sys 0,22
+4183_65000APU100-1280x720.sc
+APU image written, Rays: 33841698
+real 92,63
+user 726,45
+sys 0,32
+4195_260000APU110-1920x1080.sc
+APU image written, Rays: 18534128
+real 13,89
+user 105,19
+sys 0,27
+4211_16000APU100-1920x1080.sc
+APU image written, Rays: 3765218
+real 5,56
+user 41,01
+sys 0,21
+4241_4000APU010-1920x1080.sc
+APU image written, Rays: 3706793
+real 5,86
+user 42,40
+sys 0,20
+4271_16000APU000-1920x1080.sc
+APU image written, Rays: 20079989
+real 22,98
+user 176,93
+sys 0,26
+4315_65000APU100-1920x1080.sc
+APU image written, Rays: 14130238
+real 30,31
+user 235,88
+sys 0,21
+4323_65000APU110-1280x720.sc
+APU image written, Rays: 11873529
+real 17,52
+user 137,00
+sys 0,19
+4376_4000APU111-1280x720.sc
+APU image written, Rays: 2084707
+real 4,63
+user 32,94
+sys 0,17
+4476_4000APU000-1440x900.sc
+APU image written, Rays: 9078573
+real 7,19
+user 53,23
+sys 0,23
+4554_1000APU101-1440x900.sc
+APU image written, Rays: 1341588
+real 3,53
+user 23,91
+sys 0,12
+4567_1000APU001-1280x720.sc
+APU image written, Rays: 26947023
+real 26,31
+user 204,77
+sys 0,32
+4576_16000APU110-1920x1080.sc
+APU image written, Rays: 2488857
+real 4,09
+user 26,80
+sys 0,17
+4586_1000APU000-1920x1080.sc
+APU image written, Rays: 13788933
+real 19,88
+user 155,70
+sys 0,19
+4612_16000APU110-1280x720.sc
+APU image written, Rays: 15245875
+real 9,62
+user 71,54
+sys 0,38
+4618_4000APU100-1920x1080.sc
+APU image written, Rays: 29273022
+real 55,61
+user 437,67
+sys 0,41
+4628_65000APU101-1920x1080.sc
+APU image written, Rays: 1893524
+real 4,40
+user 33,72
+sys 0,14
+465_4000APU010-1280x720.sc
+APU image written, Rays: 1834065
+real 6,29
+user 46,70
+sys 0,17
+4685_65000APU000-1280x720.sc
+APU image written, Rays: 14236321
+real 82,76
+user 642,53
+sys 0,28
+4735_260000APU101-1280x720.sc
+APU image written, Rays: 3049209
+real 5,06
+user 35,46
+sys 0,20
+4750_4000APU000-1920x1080.sc
+APU image written, Rays: 6155457
+real 13,59
+user 105,85
+sys 0,15
+4808_16000APU011-1440x900.sc
+APU image written, Rays: 2084707
+real 4,24
+user 31,37
+sys 0,12
+4969_4000APU000-1440x900.sc
+APU image written, Rays: 2592000
+real 13,26
+user 95,05
+sys 0,19
+4973_260000APU000-1440x900.sc
+APU image written, Rays: 7715680
+real 7,81
+user 58,46
+sys 0,19
+4981_1000APU111-1280x720.sc
+APU image written, Rays: 13221430
+real 65,00
+user 507,56
+sys 0,36
+5026_260000APU011-1920x1080.sc
+APU image written, Rays: 2933485
+real 4,44
+user 31,41
+sys 0,19
+5029_1000APU011-1920x1080.sc
+APU image written, Rays: 2488857
+real 4,15
+user 28,10
+sys 0,20
+5096_1000APU000-1920x1080.sc
+APU image written, Rays: 19085495
+real 23,28
+user 181,42
+sys 0,19
+5204_16000APU110-1440x900.sc
+APU image written, Rays: 13369804
+real 7,97
+user 58,15
+sys 0,29
+5206_1000APU101-1920x1080.sc
+APU image written, Rays: 2933485
+real 4,53
+user 31,29
+sys 0,17
+528_1000APU011-1920x1080.sc
+APU image written, Rays: 1341588
+real 3,58
+user 23,74
+sys 0,10
+5398_1000APU001-1280x720.sc
+APU image written, Rays: 1860255
+real 4,27
+user 30,05
+sys 0,14
+5466_1000APU010-1440x900.sc
+APU image written, Rays: 5389835
+real 8,23
+user 61,51
+sys 0,18
+5662_16000APU010-1920x1080.sc
+APU image written, Rays: 18824750
+real 14,00
+user 106,25
+sys 0,29
+5672_4000APU110-1920x1080.sc
+APU image written, Rays: 9301841
+real 7,38
+user 54,79
+sys 0,21
+5692_1000APU110-1440x900.sc
+APU image written, Rays: 5389835
+real 7,97
+user 59,80
+sys 0,19
+5701_16000APU010-1920x1080.sc
+APU image written, Rays: 2648749
+real 9,28
+user 70,03
+sys 0,12
+5879_65000APU001-1280x720.sc
+APU image written, Rays: 40959497
+real 65,93
+user 519,88
+sys 0,37
+5986_16000APU111-1920x1080.sc
+APU image written, Rays: 1655046
+real 3,86
+user 26,91
+sys 0,16
+6001_1000APU000-1440x900.sc
+APU image written, Rays: 2048122
+real 4,25
+user 30,03
+sys 0,15
+6010_1000APU011-1440x900.sc
+APU image written, Rays: 8275707
+real 5,96
+user 43,44
+sys 0,26
+6062_1000APU100-1440x900.sc
+APU image written, Rays: 1543262
+real 3,86
+user 27,64
+sys 0,12
+6086_1000APU011-1280x720.sc
+APU image written, Rays: 3817532
+real 7,12
+user 54,46
+sys 0,18
+6166_16000APU010-1440x900.sc
+APU image written, Rays: 22753972
+real 24,72
+user 191,19
+sys 0,29
+6247_4000APU111-1920x1080.sc
+APU image written, Rays: 16571334
+real 19,97
+user 156,70
+sys 0,20
+6448_4000APU111-1440x900.sc
+APU image written, Rays: 9465936
+real 11,02
+user 85,08
+sys 0,18
+6495_4000APU110-1280x720.sc
+APU image written, Rays: 2084707
+real 4,37
+user 31,62
+sys 0,14
+6527_4000APU000-1440x900.sc
+APU image written, Rays: 13603757
+real 7,91
+user 57,32
+sys 0,33
+6543_1000APU110-1920x1080.sc
+APU image written, Rays: 1378515
+real 3,75
+user 26,32
+sys 0,17
+6560_1000APU010-1280x720.sc
+APU image written, Rays: 31579011
+real 196,10
+user 1554,30
+sys 0,48
+6604_260000APU111-1280x720.sc
+APU image written, Rays: 9170269
+real 15,48
+user 120,01
+sys 0,11
+6610_65000APU100-1280x720.sc
+APU image written, Rays: 26947023
+real 26,50
+user 206,93
+sys 0,24
+6634_16000APU110-1920x1080.sc
+APU image written, Rays: 3314376
+real 6,40
+user 48,21
+sys 0,12
+6649_4000APU011-1440x900.sc
+APU image written, Rays: 33841698
+real 92,67
+user 727,23
+sys 0,33
+6656_260000APU110-1920x1080.sc
+APU image written, Rays: 14130238
+real 29,99
+user 233,45
+sys 0,22
+6671_65000APU110-1280x720.sc
+APU image written, Rays: 6155457
+real 13,14
+user 102,96
+sys 0,14
+6740_16000APU011-1440x900.sc
+APU image written, Rays: 5389835
+real 8,18
+user 61,72
+sys 0,21
+688_16000APU010-1920x1080.sc
+APU image written, Rays: 30145004
+real 44,13
+user 347,34
+sys 0,35
+6887_65000APU110-1920x1080.sc
+APU image written, Rays: 11014672
+real 29,67
+user 232,28
+sys 0,25
+7176_65000APU011-1920x1080.sc
+APU image written, Rays: 66120042
+real 307,32
+user 2416,41
+sys 0,75
+7266_260000APU111-1920x1080.sc
+APU image written, Rays: 6708090
+real 6,64
+user 49,46
+sys 0,18
+7419_1000APU101-1280x720.sc
+APU image written, Rays: 13603757
+real 8,04
+user 58,29
+sys 0,32
+7429_1000APU110-1920x1080.sc
+APU image written, Rays: 55058085
+real 135,85
+user 1079,51
+sys 0,46
+7479_65000APU111-1920x1080.sc
+APU image written, Rays: 30780786
+real 56,13
+user 445,25
+sys 0,29
+7572_16000APU111-1440x900.sc
+APU image written, Rays: 44567215
+real 250,18
+user 1979,43
+sys 0,56
+7576_260000APU111-1440x900.sc
+APU image written, Rays: 1893524
+real 4,64
+user 35,28
+sys 0,15
+7663_4000APU010-1280x720.sc
+APU image written, Rays: 29273022
+real 55,40
+user 436,73
+sys 0,31
+771_65000APU101-1920x1080.sc
+APU image written, Rays: 3049209
+real 4,61
+user 33,17
+sys 0,22
+7826_4000APU000-1920x1080.sc
+APU image written, Rays: 12907801
+real 19,27
+user 148,95
+sys 0,24
+7837_65000APU100-1440x900.sc
+APU image written, Rays: 3817532
+real 7,41
+user 56,13
+sys 0,12
+7920_16000APU010-1440x900.sc
+APU image written, Rays: 18534128
+real 13,52
+user 103,61
+sys 0,33
+7995_16000APU100-1920x1080.sc
+APU image written, Rays: 25432647
+real 30,58
+user 236,46
+sys 0,37
+8001_16000APU101-1920x1080.sc
+APU image written, Rays: 2673841
+real 4,40
+user 30,15
+sys 0,25
+8035_1000APU001-1920x1080.sc
+APU image written, Rays: 1743289
+real 4,66
+user 34,54
+sys 0,16
+8127_16000APU000-1280x720.sc
+APU image written, Rays: 12444733
+real 6,75
+user 48,44
+sys 0,34
+8215_1000APU100-1920x1080.sc
+APU image written, Rays: 4297381
+real 19,25
+user 142,99
+sys 0,22
+8239_260000APU010-1440x900.sc
+APU image written, Rays: 66120042
+real 309,37
+user 2422,00
+sys 0,83
+8275_260000APU111-1920x1080.sc
+APU image written, Rays: 17906315
+real 14,98
+user 114,28
+sys 0,32
+8554_4000APU101-1920x1080.sc
+APU image written, Rays: 3856970
+real 11,11
+user 84,91
+sys 0,19
+856_65000APU001-1440x900.sc
+APU image written, Rays: 15100061
+real 67,15
+user 518,27
+sys 0,27
+8614_260000APU110-1280x720.sc
+APU image written, Rays: 3817532
+real 7,54
+user 57,40
+sys 0,18
+8633_16000APU010-1440x900.sc
+APU image written, Rays: 4137863
+real 14,98
+user 108,16
+sys 0,23
+8689_260000APU000-1920x1080.sc
+APU image written, Rays: 1815598
+real 4,02
+user 28,41
+sys 0,15
+8744_1000APU001-1440x900.sc
+APU image written, Rays: 20689221
+real 54,64
+user 423,97
+sys 0,33
+8894_260000APU100-1920x1080.sc
+APU image written, Rays: 3581389
+real 5,57
+user 40,33
+sys 0,19
+8901_4000APU001-1920x1080.sc
+APU image written, Rays: 3581389
+real 5,53
+user 39,31
+sys 0,20
+8970_4000APU001-1920x1080.sc
+APU image written, Rays: 2463634
+real 5,34
+user 38,73
+sys 0,13
+9009_16000APU000-1440x900.sc
+APU image written, Rays: 22235417
+real 43,46
+user 345,01
+sys 0,21
+9032_16000APU111-1280x720.sc
+APU image written, Rays: 5854957
+real 13,51
+user 103,03
+sys 0,18
+9038_65000APU001-1920x1080.sc
+APU image written, Rays: 1893524
+real 4,68
+user 35,48
+sys 0,14
+9066_4000APU010-1280x720.sc
+APU image written, Rays: 20079989
+real 22,46
+user 174,38
+sys 0,24
+9089_65000APU100-1920x1080.sc
+APU image written, Rays: 8827803
+real 10,58
+user 81,53
+sys 0,21
+9106_4000APU101-1280x720.sc
+APU image written, Rays: 14667458
+real 9,52
+user 70,24
+sys 0,31
+9113_1000APU111-1920x1080.sc
+APU image written, Rays: 9301841
+real 7,30
+user 54,04
+sys 0,20
+9129_1000APU110-1440x900.sc
+APU image written, Rays: 20689221
+real 55,06
+user 427,39
+sys 0,30
+9173_260000APU100-1920x1080.sc
+APU image written, Rays: 2464883
+real 6,28
+user 47,65
+sys 0,16
+9192_16000APU001-1280x720.sc
+APU image written, Rays: 1843200
+real 11,43
+user 81,03
+sys 0,19
+9198_260000APU000-1280x720.sc
+APU image written, Rays: 3706793
+real 5,92
+user 43,17
+sys 0,16
+9207_16000APU000-1920x1080.sc
+APU image written, Rays: 2488857
+real 4,10
+user 27,31
+sys 0,17
+927_1000APU000-1920x1080.sc
+APU image written, Rays: 29273022
+real 55,41
+user 436,23
+sys 0,35
+928_65000APU101-1920x1080.sc
+APU image written, Rays: 2673841
+real 4,12
+user 28,81
+sys 0,16
+9309_1000APU001-1920x1080.sc
+APU image written, Rays: 11873529
+real 17,10
+user 133,85
+sys 0,18
+9340_4000APU111-1280x720.sc
+APU image written, Rays: 2581566
+real 7,19
+user 53,17
+sys 0,19
+9510_65000APU000-1440x900.sc
+APU image written, Rays: 6029019
+real 12,00
+user 90,28
+sys 0,21
+9535_65000APU010-1920x1080.sc
+APU image written, Rays: 13369804
+real 8,08
+user 58,60
+sys 0,31
+9569_1000APU101-1920x1080.sc
+APU image written, Rays: 1860255
+real 3,87
+user 27,85
+sys 0,13
+9577_1000APU010-1440x900.sc
+APU image written, Rays: 13788933
+real 19,97
+user 156,65
+sys 0,20
+9661_16000APU110-1280x720.sc
+APU image written, Rays: 6768077
+real 22,35
+user 166,73
+sys 0,25
+978_260000APU010-1920x1080.sc
+APU image written, Rays: 1843200
+real 11,99
+user 85,28
+sys 0,19
+9852_260000APU000-1280x720.sc
+APU image written, Rays: 2825766
+real 9,21
+user 70,27
+sys 0,14
+9852_65000APU010-1280x720.sc
+APU image written, Rays: 12318316
+real 11,39
+user 87,78
+sys 0,24
+9889_16000APU100-1440x900.sc
+APU image written, Rays: 7358424
+real 6,97
+user 52,99
+sys 0,18
+9913_4000APU100-1280x720.sc
+APU image written, Rays: 13221430
+real 65,41
+user 511,02
+sys 0,32
+9924_260000APU011-1920x1080.sc
+APU image written, Rays: 1893524
+real 4,62
+user 34,56
+sys 0,15
+9944_4000APU010-1280x720.sc
+GPU image written, Rays: 7358424
+real 32.38
+user 28.48
+sys 2.66
+10028_4000GPU100-1280x720.sc
+GPU image written, Rays: 2825766
+real 20.18
+user 13.05
+sys 7.10
+10064_65000GPU010-1280x720.sc
+GPU image written, Rays: 6708090
+real 4.54
+user 2.87
+sys 1.65
+10065_1000GPU101-1280x720.sc
+CPU image written, Rays: 4137863
+real 55.41
+user 648.28
+sys 0.21
+1007_260000CPU000-1920x1080.sc
+GPU image written, Rays: 1471758
+real 1.78
+user 1.06
+sys 0.71
+10101_4000GPU000-1280x720.sc
+CPU image written, Rays: 2498957
+real 7.72
+user 91.31
+sys 0.07
+10134_4000CPU001-1440x900.sc
+GPU image written, Rays: 13372289
+real 17.55
+user 11.05
+sys 6.45
+10137_4000GPU110-1440x900.sc
+CPU image written, Rays: 2488857
+real 5.02
+user 56.81
+sys 0.07
+10147_1000CPU000-1920x1080.sc
+CPU image written, Rays: 6018495
+real 15.20
+user 180.46
+sys 0.15
+10157_1000CPU100-1280x720.sc
+CPU image written, Rays: 1655046
+real 3.99
+user 46.34
+sys 0.04
+10158_1000CPU000-1440x900.sc
+CPU image written, Rays: 66120042
+real 634.05
+user 7584.96
+sys 0.90
+10185_260000CPU111-1920x1080.sc
+CPU image written, Rays: 14667458
+real 28.98
+user 345.05
+sys 0.36
+10195_1000CPU111-1920x1080.sc
+CPU image written, Rays: 10423381
+real 32.58
+user 389.23
+sys 0.25
+10230_4000CPU100-1440x900.sc
+CPU image written, Rays: 2720645
+real 5.57
+user 64.98
+sys 0.10
+10241_1000CPU010-1920x1080.sc
+GPU image written, Rays: 6029019
+real 28.05
+user 18.20
+sys 9.85
+10258_65000GPU010-1920x1080.sc
+CPU image written, Rays: 1203637
+real 3.09
+user 36.26
+sys 0.08
+10262_1000CPU000-1280x720.sc
+CPU image written, Rays: 12493352
+real 38.40
+user 459.12
+sys 0.25
+10274_4000CPU101-1440x900.sc
+GPU image written, Rays: 6167699
+real 103.84
+user 67.98
+sys 35.88
+10307_260000GPU001-1920x1080.sc
+GPU image written, Rays: 2720645
+real 1.62
+user 0.93
+sys 0.63
+10313_1000GPU010-1920x1080.sc
+GPU image written, Rays: 9170269
+real 49.29
+user 31.88
+sys 17.37
+10322_65000GPU100-1280x720.sc
+CPU image written, Rays: 2463634
+real 10.12
+user 119.25
+sys 0.04
+10350_16000CPU000-1440x900.sc
+CPU image written, Rays: 15100061
+real 253.77
+user 3026.60
+sys 0.31
+10351_260000CPU110-1280x720.sc
+CPU image written, Rays: 9301841
+real 22.64
+user 270.03
+sys 0.22
+10393_1000CPU110-1440x900.sc
+CPU image written, Rays: 1543262
+real 3.94
+user 46.50
+sys 0.09
+10420_1000CPU011-1280x720.sc
+CPU image written, Rays: 1471758
+real 4.93
+user 58.17
+sys 0.07
+10426_4000CPU000-1280x720.sc
+CPU image written, Rays: 13788933
+real 65.62
+user 784.36
+sys 0.20
+10452_16000CPU110-1280x720.sc
+CPU image written, Rays: 12960000
+real 226.79
+user 2703.33
+sys 0.47
+10493_260000CPU100-1440x900.sc
+CPU image written, Rays: 2674721
+real 8.95
+user 105.88
+sys 0.08
+10497_4000CPU010-1440x900.sc
+GPU image written, Rays: 2758193
+real 8.75
+user 5.48
+sys 3.22
+10507_16000GPU010-1280x720.sc
+GPU image written, Rays: 1893524
+real 3.13
+user 1.93
+sys 1.19
+10516_4000GPU010-1280x720.sc
+GPU image written, Rays: 55058087
+real 457.43
+user 295.97
+sys 161.49
+10518_65000GPU111-1920x1080.sc
+CPU image written, Rays: 12323906
+real 52.11
+user 622.70
+sys 0.17
+10556_16000CPU101-1280x720.sc
+CPU image written, Rays: 15100061
+real 253.98
+user 3029.34
+sys 0.32
+10573_260000CPU110-1280x720.sc
+GPU image written, Rays: 20689221
+real 258.96
+user 169.13
+sys 89.83
+10621_260000GPU100-1920x1080.sc
+CPU image written, Rays: 3049209
+real 8.26
+user 96.83
+sys 0.10
+10653_4000CPU000-1920x1080.sc
+CPU image written, Rays: 14236321
+real 239.25
+user 2851.89
+sys 0.42
+10658_260000CPU101-1280x720.sc
+GPU image written, Rays: 12960000
+real 230.44
+user 150.77
+sys 79.64
+10668_260000GPU100-1440x900.sc
+CPU image written, Rays: 6768077
+real 77.41
+user 912.08
+sys 0.25
+10721_260000CPU010-1920x1080.sc
+CPU image written, Rays: 13243423
+real 94.03
+user 1122.52
+sys 0.23
+10731_65000CPU101-1280x720.sc
+GPU image written, Rays: 1743289
+real 3.63
+user 2.31
+sys 1.31
+10750_16000GPU000-1280x720.sc
+CPU image written, Rays: 66120042
+real 633.64
+user 7580.42
+sys 0.69
+10795_260000CPU111-1920x1080.sc
+GPU image written, Rays: 3581389
+real 4.38
+user 2.85
+sys 1.50
+10795_4000GPU001-1920x1080.sc
+GPU image written, Rays: 10240564
+real 7.66
+user 5.03
+sys 2.59
+1079_1000GPU111-1440x900.sc
+CPU image written, Rays: 17581981
+real 71.10
+user 849.83
+sys 0.26
+10811_16000CPU101-1440x900.sc
+GPU image written, Rays: 20047066
+real 120.93
+user 77.77
+sys 43.13
+10834_65000GPU110-1440x900.sc
+GPU image written, Rays: 1543262
+real 1.54
+user 0.90
+sys 0.62
+10852_1000GPU011-1280x720.sc
+CPU image written, Rays: 2374571
+real 8.20
+user 96.87
+sys 0.03
+10876_4000CPU011-1280x720.sc
+CPU image written, Rays: 6892844
+real 18.11
+user 215.83
+sys 0.15
+10905_1000CPU110-1280x720.sc
+CPU image written, Rays: 8716548
+real 37.42
+user 446.61
+sys 0.19
+10918_16000CPU100-1280x720.sc
+CPU image written, Rays: 8275707
+real 19.51
+user 232.27
+sys 0.23
+10925_1000CPU100-1440x900.sc
+CPU image written, Rays: 7358424
+real 24.39
+user 290.83
+sys 0.27
+1092_4000CPU100-1280x720.sc
+GPU image written, Rays: 2673841
+real 1.59
+user 0.95
+sys 0.60
+10947_1000GPU001-1920x1080.sc
+CPU image written, Rays: 38556639
+real 234.59
+user 2808.63
+sys 0.52
+10988_65000CPU111-1440x900.sc
+GPU image written, Rays: 25432647
+real 64.79
+user 41.84
+sys 22.95
+1103_16000GPU101-1920x1080.sc
+GPU image written, Rays: 12907801
+real 59.74
+user 38.36
+sys 21.33
+1103_65000GPU100-1440x900.sc
+CPU image written, Rays: 21486720
+real 315.00
+user 3760.88
+sys 0.43
+11050_260000CPU110-1440x900.sc
+CPU image written, Rays: 6314733
+real 81.57
+user 961.86
+sys 0.15
+1106_260000CPU011-1280x720.sc
+GPU image written, Rays: 2674721
+real 3.80
+user 2.28
+sys 1.50
+1110_4000GPU010-1440x900.sc
+CPU image written, Rays: 2648749
+real 19.10
+user 224.80
+sys 0.11
+11188_65000CPU001-1280x720.sc
+CPU image written, Rays: 8275707
+real 19.48
+user 232.41
+sys 0.17
+11195_1000CPU100-1440x900.sc
+CPU image written, Rays: 2825766
+real 21.47
+user 252.65
+sys 0.07
+11219_65000CPU010-1280x720.sc
+CPU image written, Rays: 1378515
+real 3.68
+user 43.34
+sys 0.02
+11254_1000CPU010-1280x720.sc
+CPU image written, Rays: 16571334
+real 53.21
+user 636.83
+sys 0.19
+11264_4000CPU111-1440x900.sc
+CPU image written, Rays: 15100061
+real 253.62
+user 3025.45
+sys 0.40
+11437_260000CPU110-1280x720.sc
+GPU image written, Rays: 1843200
+real 40.09
+user 26.12
+sys 13.94
+11473_260000GPU000-1280x720.sc
+CPU image written, Rays: 3706793
+real 13.16
+user 155.03
+sys 0.10
+11485_16000CPU000-1920x1080.sc
+CPU image written, Rays: 5085943
+real 18.24
+user 215.76
+sys 0.07
+11496_16000CPU001-1920x1080.sc
+CPU image written, Rays: 2488857
+real 4.90
+user 57.08
+sys 0.10
+114_1000CPU000-1920x1080.sc
+CPU image written, Rays: 33841698
+real 381.93
+user 4563.32
+sys 0.58
+11563_260000CPU110-1920x1080.sc
+GPU image written, Rays: 2674721
+real 3.81
+user 2.37
+sys 1.41
+11614_4000GPU010-1440x900.sc
+GPU image written, Rays: 6768077
+real 85.56
+user 56.12
+sys 29.45
+11622_260000GPU010-1920x1080.sc
+CPU image written, Rays: 12960000
+real 226.57
+user 2701.81
+sys 0.33
+11658_260000CPU100-1440x900.sc
+CPU image written, Rays: 6768077
+real 77.49
+user 912.49
+sys 0.21
+11661_260000CPU010-1920x1080.sc
+GPU image written, Rays: 18534128
+real 24.46
+user 15.50
+sys 8.91
+11706_16000GPU100-1920x1080.sc
+GPU image written, Rays: 26947023
+real 56.42
+user 36.41
+sys 20.01
+11749_16000GPU110-1920x1080.sc
+GPU image written, Rays: 15100061
+real 322.41
+user 208.92
+sys 113.52
+11750_260000GPU110-1280x720.sc
+CPU image written, Rays: 1378515
+real 3.66
+user 43.06
+sys 0.02
+11755_1000CPU010-1280x720.sc
+GPU image written, Rays: 38556641
+real 376.89
+user 243.48
+sys 133.37
+11791_65000GPU111-1440x900.sc
+GPU image written, Rays: 15100061
+real 321.98
+user 209.81
+sys 112.15
+1180_260000GPU110-1280x720.sc
+CPU image written, Rays: 2933485
+real 5.90
+user 68.57
+sys 0.15
+11816_1000CPU011-1920x1080.sc
+CPU image written, Rays: 8912054
+real 103.99
+user 1231.37
+sys 0.24
+11906_260000CPU011-1440x900.sc
+GPU image written, Rays: 4447947
+real 22.42
+user 14.40
+sys 7.99
+11923_16000GPU011-1280x720.sc
+CPU image written, Rays: 2673841
+real 5.23
+user 60.45
+sys 0.13
+11937_1000CPU001-1920x1080.sc
+GPU image written, Rays: 13372289
+real 17.53
+user 11.51
+sys 5.96
+11940_4000GPU110-1440x900.sc
+CPU image written, Rays: 5389835
+real 21.02
+user 249.04
+sys 0.15
+11978_16000CPU010-1920x1080.sc
+CPU image written, Rays: 2825766
+real 21.49
+user 252.76
+sys 0.04
+11987_65000CPU010-1280x720.sc
+CPU image written, Rays: 8827803
+real 28.64
+user 341.94
+sys 0.17
+1198_4000CPU101-1280x720.sc
+GPU image written, Rays: 7714846
+real 76.50
+user 50.11
+sys 26.37
+11_65000GPU011-1440x900.sc
+CPU image written, Rays: 2825766
+real 21.40
+user 252.19
+sys 0.05
+12047_65000CPU010-1280x720.sc
+CPU image written, Rays: 1843200
+real 37.56
+user 434.60
+sys 0.09
+12060_260000CPU000-1280x720.sc
+GPU image written, Rays: 13603757
+real 6.62
+user 4.18
+sys 2.40
+12102_1000GPU110-1920x1080.sc
+GPU image written, Rays: 12444733
+real 4.60
+user 2.86
+sys 1.71
+1212_1000GPU100-1920x1080.sc
+CPU image written, Rays: 66120042
+real 633.73
+user 7582.05
+sys 0.88
+12141_260000CPU111-1920x1080.sc
+GPU image written, Rays: 30145004
+real 137.87
+user 89.72
+sys 48.10
+12181_65000GPU110-1920x1080.sc
+CPU image written, Rays: 1543262
+real 3.96
+user 46.25
+sys 0.05
+12222_1000CPU011-1280x720.sc
+GPU image written, Rays: 1743289
+real 3.60
+user 2.18
+sys 1.38
+12242_16000GPU000-1280x720.sc
+GPU image written, Rays: 8275707
+real 4.13
+user 2.59
+sys 1.49
+12249_1000GPU100-1440x900.sc
+GPU image written, Rays: 2084707
+real 2.16
+user 1.27
+sys 0.84
+12268_4000GPU000-1440x900.sc
+CPU image written, Rays: 30145004
+real 172.41
+user 2062.30
+sys 0.35
+12270_65000CPU110-1920x1080.sc
+CPU image written, Rays: 2847385
+real 49.03
+user 571.60
+sys 0.13
+12282_260000CPU001-1280x720.sc
+CPU image written, Rays: 30839494
+real 366.33
+user 4376.39
+sys 0.62
+12292_260000CPU101-1920x1080.sc
+GPU image written, Rays: 3856970
+real 27.95
+user 17.86
+sys 10.09
+12297_65000GPU001-1440x900.sc
+CPU image written, Rays: 19283038
+real 126.93
+user 1517.17
+sys 0.29
+12319_65000CPU101-1440x900.sc
+GPU image written, Rays: 2581566
+real 12.48
+user 7.97
+sys 4.48
+12353_65000GPU000-1440x900.sc
+CPU image written, Rays: 7715680
+real 19.52
+user 232.62
+sys 0.17
+12376_1000CPU111-1280x720.sc
+GPU image written, Rays: 12318316
+real 20.56
+user 13.21
+sys 7.34
+12385_16000GPU100-1440x900.sc
+GPU image written, Rays: 4009062
+real 24.53
+user 15.68
+sys 8.85
+12398_65000GPU010-1440x900.sc
+CPU image written, Rays: 2720645
+real 5.58
+user 64.85
+sys 0.12
+12410_1000CPU010-1920x1080.sc
+CPU image written, Rays: 6708090
+real 16.34
+user 194.97
+sys 0.19
+12414_1000CPU101-1280x720.sc
+CPU image written, Rays: 22235417
+real 99.31
+user 1188.08
+sys 0.21
+12415_16000CPU111-1280x720.sc
+CPU image written, Rays: 6018495
+real 15.21
+user 181.42
+sys 0.21
+12425_1000CPU100-1280x720.sc
+CPU image written, Rays: 3019876
+real 51.92
+user 606.38
+sys 0.17
+12462_260000CPU010-1280x720.sc
+CPU image written, Rays: 22753972
+real 64.08
+user 766.01
+sys 0.43
+12504_4000CPU111-1920x1080.sc
+CPU image written, Rays: 4016008
+real 23.19
+user 272.58
+sys 0.13
+12504_65000CPU000-1920x1080.sc
+CPU image written, Rays: 4009062
+real 27.80
+user 328.30
+sys 0.10
+12567_65000CPU010-1440x900.sc
+CPU image written, Rays: 3992970
+real 61.74
+user 723.88
+sys 0.12
+1257_260000CPU001-1440x900.sc
+CPU image written, Rays: 9078573
+real 20.79
+user 247.85
+sys 0.25
+12611_1000CPU101-1440x900.sc
+GPU image written, Rays: 1341588
+real 1.23
+user 0.71
+sys 0.48
+12618_1000GPU001-1280x720.sc
+GPU image written, Rays: 3817532
+real 10.23
+user 6.52
+sys 3.71
+12676_16000GPU010-1440x900.sc
+CPU image written, Rays: 13369804
+real 25.43
+user 302.64
+sys 0.36
+12678_1000CPU101-1920x1080.sc
+GPU image written, Rays: 20689221
+real 258.93
+user 168.37
+sys 90.53
+1267_260000GPU100-1920x1080.sc
+GPU image written, Rays: 2488857
+real 1.21
+user 0.71
+sys 0.49
+12680_1000GPU000-1920x1080.sc
+GPU image written, Rays: 10240564
+real 7.70
+user 4.74
+sys 2.91
+1273_1000GPU111-1440x900.sc
+CPU image written, Rays: 19085495
+real 84.62
+user 1011.97
+sys 0.26
+12740_16000CPU110-1440x900.sc
+GPU image written, Rays: 22753982
+real 35.60
+user 22.92
+sys 12.64
+12748_4000GPU111-1920x1080.sc
+CPU image written, Rays: 12960000
+real 226.76
+user 2702.32
+sys 0.59
+12779_260000CPU100-1440x900.sc
+CPU image written, Rays: 9301841
+real 22.63
+user 269.68
+sys 0.23
+12797_1000CPU110-1440x900.sc
+CPU image written, Rays: 8827803
+real 28.60
+user 341.98
+sys 0.20
+12800_4000CPU101-1280x720.sc
+GPU image written, Rays: 1815598
+real 1.41
+user 0.88
+sys 0.52
+12814_1000GPU001-1440x900.sc
+CPU image written, Rays: 6155457
+real 26.17
+user 311.77
+sys 0.09
+12850_16000CPU011-1440x900.sc
+CPU image written, Rays: 8275707
+real 19.51
+user 232.22
+sys 0.25
+12881_1000CPU100-1440x900.sc
+CPU image written, Rays: 3515865
+real 14.35
+user 169.82
+sys 0.06
+12889_16000CPU001-1440x900.sc
+CPU image written, Rays: 31579011
+real 402.02
+user 4803.40
+sys 0.53
+12927_260000CPU111-1280x720.sc
+CPU image written, Rays: 6768077
+real 77.53
+user 912.98
+sys 0.21
+12970_260000CPU010-1920x1080.sc
+GPU image written, Rays: 2048122
+real 1.90
+user 1.14
+sys 0.72
+13007_1000GPU011-1440x900.sc
+CPU image written, Rays: 1860255
+real 4.63
+user 53.98
+sys 0.08
+13032_1000CPU010-1440x900.sc
+CPU image written, Rays: 8275707
+real 19.52
+user 232.18
+sys 0.29
+13035_1000CPU100-1440x900.sc
+CPU image written, Rays: 4009062
+real 27.81
+user 328.33
+sys 0.07
+13036_65000CPU010-1440x900.sc
+CPU image written, Rays: 10240564
+real 24.12
+user 287.97
+sys 0.21
+13080_1000CPU111-1440x900.sc
+GPU image written, Rays: 22235417
+real 109.99
+user 71.24
+sys 38.73
+13086_16000GPU111-1280x720.sc
+GPU image written, Rays: 4447947
+real 22.35
+user 14.37
+sys 7.93
+13098_16000GPU011-1280x720.sc
+GPU image written, Rays: 55058087
+real 456.78
+user 294.66
+sys 162.10
+13107_65000GPU111-1920x1080.sc
+CPU image written, Rays: 14130238
+real 105.52
+user 1260.38
+sys 0.22
+13139_65000CPU110-1280x720.sc
+CPU image written, Rays: 14236321
+real 239.26
+user 2851.98
+sys 0.38
+13158_260000CPU101-1280x720.sc
+CPU image written, Rays: 1765644
+real 5.80
+user 68.44
+sys 0.05
+13184_4000CPU001-1280x720.sc
+CPU image written, Rays: 20047066
+real 137.20
+user 1639.68
+sys 0.39
+13212_65000CPU110-1440x900.sc
+GPU image written, Rays: 8716548
+real 16.29
+user 10.61
+sys 5.67
+13326_16000GPU100-1280x720.sc
+GPU image written, Rays: 3856970
+real 27.95
+user 18.18
+sys 9.76
+13337_65000GPU001-1440x900.sc
+CPU image written, Rays: 19283038
+real 126.99
+user 1517.98
+sys 0.26
+13360_65000CPU101-1440x900.sc
+CPU image written, Rays: 18824750
+real 53.79
+user 642.68
+sys 0.41
+1344_4000CPU110-1920x1080.sc
+GPU image written, Rays: 22753982
+real 35.49
+user 22.98
+sys 12.50
+1344_4000GPU111-1920x1080.sc
+GPU image written, Rays: 6018495
+real 3.43
+user 2.24
+sys 1.12
+13459_1000GPU100-1280x720.sc
+CPU image written, Rays: 1815598
+real 4.26
+user 49.55
+sys 0.06
+13466_1000CPU001-1440x900.sc
+CPU image written, Rays: 5854957
+real 32.71
+user 386.60
+sys 0.13
+13491_65000CPU001-1920x1080.sc
+GPU image written, Rays: 3706793
+real 5.35
+user 3.38
+sys 1.92
+13506_16000GPU000-1920x1080.sc
+GPU image written, Rays: 10240564
+real 7.70
+user 4.91
+sys 2.75
+13507_1000GPU111-1440x900.sc
+CPU image written, Rays: 6167699
+real 74.39
+user 875.82
+sys 0.19
+13593_260000CPU001-1920x1080.sc
+CPU image written, Rays: 4016008
+real 23.12
+user 272.40
+sys 0.09
+13609_65000CPU000-1920x1080.sc
+GPU image written, Rays: 2648749
+real 21.33
+user 13.70
+sys 7.57
+13630_65000GPU001-1280x720.sc
+CPU image written, Rays: 5342568
+real 34.93
+user 414.85
+sys 0.07
+13662_65000CPU011-1280x720.sc
+GPU image written, Rays: 44567215
+real 1052.99
+user 679.94
+sys 373.08
+13678_260000GPU111-1440x900.sc
+GPU image written, Rays: 4447947
+real 22.32
+user 14.33
+sys 7.95
+13741_16000GPU011-1280x720.sc
+GPU image written, Rays: 19085495
+real 50.22
+user 32.59
+sys 17.58
+13752_16000GPU110-1440x900.sc
+CPU image written, Rays: 11873529
+real 40.57
+user 485.51
+sys 0.15
+13782_4000CPU111-1280x720.sc
+GPU image written, Rays: 6155457
+real 28.71
+user 18.71
+sys 9.97
+13835_16000GPU011-1440x900.sc
+GPU image written, Rays: 6314733
+real 170.04
+user 110.17
+sys 59.87
+13850_260000GPU011-1280x720.sc
+GPU image written, Rays: 44567215
+real 1052.28
+user 680.53
+sys 371.82
+13866_260000GPU111-1440x900.sc
+GPU image written, Rays: 30839494
+real 509.86
+user 331.78
+sys 178.08
+13900_260000GPU101-1920x1080.sc
+GPU image written, Rays: 9465940
+real 14.65
+user 9.39
+sys 5.22
+1393_4000GPU110-1280x720.sc
+CPU image written, Rays: 19964949
+real 302.49
+user 3611.37
+sys 0.51
+13948_260000CPU101-1440x900.sc
+GPU image written, Rays: 1471758
+real 1.82
+user 1.09
+sys 0.70
+13964_4000GPU000-1280x720.sc
+GPU image written, Rays: 30145004
+real 137.96
+user 89.36
+sys 48.56
+14020_65000GPU110-1920x1080.sc
+CPU image written, Rays: 20079989
+real 113.93
+user 1360.50
+sys 0.50
+14021_65000CPU100-1920x1080.sc
+GPU image written, Rays: 6892844
+real 5.26
+user 3.37
+sys 1.87
+1403_1000GPU110-1280x720.sc
+CPU image written, Rays: 30145004
+real 172.59
+user 2063.62
+sys 0.57
+14052_65000CPU110-1920x1080.sc
+CPU image written, Rays: 12960000
+real 226.88
+user 2704.08
+sys 0.45
+1405_260000CPU100-1440x900.sc
+CPU image written, Rays: 22235417
+real 99.36
+user 1188.33
+sys 0.23
+14088_16000CPU111-1280x720.sc
+CPU image written, Rays: 7714846
+real 47.32
+user 562.43
+sys 0.08
+14135_65000CPU011-1440x900.sc
+GPU image written, Rays: 66120042
+real 1265.52
+user 823.40
+sys 442.17
+1413_260000GPU111-1920x1080.sc
+GPU image written, Rays: 14130238
+real 98.90
+user 64.36
+sys 34.51
+14160_65000GPU110-1280x720.sc
+CPU image written, Rays: 6892844
+real 18.06
+user 215.20
+sys 0.17
+1422_1000CPU110-1280x720.sc
+GPU image written, Rays: 19085495
+real 50.30
+user 32.54
+sys 17.76
+14236_16000GPU110-1440x900.sc
+GPU image written, Rays: 1834065
+real 10.29
+user 6.72
+sys 3.52
+14267_65000GPU000-1280x720.sc
+CPU image written, Rays: 1815598
+real 4.20
+user 49.31
+sys 0.05
+14281_1000CPU001-1440x900.sc
+GPU image written, Rays: 3581389
+real 4.41
+user 2.82
+sys 1.55
+14286_4000GPU001-1920x1080.sc
+GPU image written, Rays: 3049209
+real 2.52
+user 1.50
+sys 0.97
+14327_4000GPU000-1920x1080.sc
+GPU image written, Rays: 8716548
+real 16.27
+user 10.47
+sys 5.75
+14442_16000GPU100-1280x720.sc
+CPU image written, Rays: 25432647
+real 90.12
+user 1077.64
+sys 0.39
+14481_16000CPU101-1920x1080.sc
+CPU image written, Rays: 18824750
+real 53.78
+user 642.52
+sys 0.47
+14498_4000CPU110-1920x1080.sc
+GPU image written, Rays: 8827807
+real 13.54
+user 8.70
+sys 4.83
+14515_4000GPU101-1280x720.sc
+CPU image written, Rays: 4550564
+real 12.97
+user 153.27
+sys 0.08
+14519_4000CPU011-1920x1080.sc
+GPU image written, Rays: 29273022
+real 168.04
+user 108.43
+sys 59.62
+14534_65000GPU101-1920x1080.sc
+CPU image written, Rays: 2084707
+real 6.61
+user 77.49
+sys 0.07
+14556_4000CPU000-1440x900.sc
+CPU image written, Rays: 10240564
+real 24.08
+user 287.10
+sys 0.25
+14600_1000CPU111-1440x900.sc
+CPU image written, Rays: 1378515
+real 3.70
+user 43.22
+sys 0.05
+14606_1000CPU010-1280x720.sc
+GPU image written, Rays: 5085943
+real 13.46
+user 8.64
+sys 4.78
+1460_16000GPU001-1920x1080.sc
+GPU image written, Rays: 5342568
+real 57.68
+user 36.90
+sys 20.74
+14621_65000GPU011-1280x720.sc
+CPU image written, Rays: 12907801
+real 89.89
+user 1072.92
+sys 0.27
+14657_65000CPU100-1440x900.sc
+GPU image written, Rays: 40959499
+real 159.39
+user 102.33
+sys 57.04
+14662_16000GPU111-1920x1080.sc
+GPU image written, Rays: 1543262
+real 1.58
+user 0.94
+sys 0.58
+14733_1000GPU011-1280x720.sc
+CPU image written, Rays: 21486720
+real 314.70
+user 3757.33
+sys 0.53
+1473_260000CPU110-1440x900.sc
+GPU image written, Rays: 31579011
+real 838.04
+user 541.22
+sys 296.88
+14745_260000GPU111-1280x720.sc
+CPU image written, Rays: 12907801
+real 89.85
+user 1072.49
+sys 0.28
+14802_65000CPU100-1440x900.sc
+CPU image written, Rays: 13243423
+real 94.06
+user 1123.06
+sys 0.21
+14823_65000CPU101-1280x720.sc
+GPU image written, Rays: 9078573
+real 5.53
+user 3.49
+sys 2.03
+1484_1000GPU101-1440x900.sc
+CPU image written, Rays: 9170269
+real 69.56
+user 829.46
+sys 0.23
+14851_65000CPU100-1280x720.sc
+GPU image written, Rays: 2464883
+real 8.54
+user 5.17
+sys 3.35
+14864_16000GPU001-1280x720.sc
+GPU image written, Rays: 1765644
+real 2.88
+user 1.81
+sys 1.06
+1486_4000GPU001-1280x720.sc
+GPU image written, Rays: 44567215
+real 1052.57
+user 688.60
+sys 364.01
+14891_260000GPU111-1440x900.sc
+GPU image written, Rays: 2825766
+real 20.18
+user 12.98
+sys 7.16
+14913_65000GPU010-1280x720.sc
+GPU image written, Rays: 11873539
+real 26.42
+user 16.89
+sys 9.47
+14921_4000GPU111-1280x720.sc
+GPU image written, Rays: 12444733
+real 4.60
+user 2.83
+sys 1.75
+1492_1000GPU100-1920x1080.sc
+GPU image written, Rays: 6018495
+real 3.42
+user 2.16
+sys 1.21
+14951_1000GPU100-1280x720.sc
+GPU image written, Rays: 12323906
+real 41.02
+user 26.20
+sys 14.78
+14969_16000GPU101-1280x720.sc
+CPU image written, Rays: 20689221
+real 272.69
+user 3254.06
+sys 0.54
+14987_260000CPU100-1920x1080.sc
+GPU image written, Rays: 12493356
+real 17.53
+user 11.17
+sys 6.35
+14988_4000GPU101-1440x900.sc
+CPU image written, Rays: 13221430
+real 127.90
+user 1516.53
+sys 0.29
+14993_260000CPU011-1920x1080.sc
+CPU image written, Rays: 29273022
+real 161.64
+user 1932.21
+sys 0.48
+15040_65000CPU101-1920x1080.sc
+CPU image written, Rays: 9301841
+real 22.63
+user 269.87
+sys 0.24
+15090_1000CPU110-1440x900.sc
+GPU image written, Rays: 20079989
+real 68.75
+user 44.89
+sys 23.83
+15092_65000GPU100-1920x1080.sc
+CPU image written, Rays: 44567215
+real 515.12
+user 6160.01
+sys 0.73
+15120_260000CPU111-1440x900.sc
+GPU image written, Rays: 15100061
+real 322.71
+user 210.72
+sys 111.99
+15139_260000GPU110-1280x720.sc
+CPU image written, Rays: 4297381
+real 63.92
+user 750.98
+sys 0.16
+15147_260000CPU010-1440x900.sc
+CPU image written, Rays: 5389835
+real 20.97
+user 249.10
+sys 0.13
+15162_16000CPU010-1920x1080.sc
+CPU image written, Rays: 18824750
+real 53.83
+user 642.95
+sys 0.38
+15170_4000CPU110-1920x1080.sc
+GPU image written, Rays: 2463634
+real 4.50
+user 2.78
+sys 1.67
+15231_16000GPU000-1440x900.sc
+CPU image written, Rays: 26704747
+real 173.41
+user 2074.78
+sys 0.31
+15239_65000CPU111-1280x720.sc
+CPU image written, Rays: 9216000
+real 182.07
+user 2167.79
+sys 0.37
+15252_260000CPU100-1280x720.sc
+GPU image written, Rays: 4009062
+real 24.65
+user 15.92
+sys 8.70
+1526_65000GPU010-1440x900.sc
+GPU image written, Rays: 9465940
+real 14.67
+user 9.54
+sys 5.09
+15293_4000GPU110-1280x720.sc
+CPU image written, Rays: 3856970
+real 25.69
+user 303.56
+sys 0.07
+15293_65000CPU001-1440x900.sc
+CPU image written, Rays: 13372285
+real 44.28
+user 529.14
+sys 0.34
+15299_4000CPU110-1440x900.sc
+CPU image written, Rays: 6167699
+real 74.45
+user 875.56
+sys 0.18
+15304_260000CPU001-1920x1080.sc
+CPU image written, Rays: 9301841
+real 22.65
+user 269.81
+sys 0.27
+15323_1000CPU110-1440x900.sc
+GPU image written, Rays: 2720645
+real 1.71
+user 1.03
+sys 0.64
+15325_1000GPU010-1920x1080.sc
+GPU image written, Rays: 1860255
+real 1.41
+user 0.86
+sys 0.55
+15359_1000GPU010-1440x900.sc
+CPU image written, Rays: 1834065
+real 14.23
+user 166.11
+sys 0.07
+15366_65000CPU000-1280x720.sc
+CPU image written, Rays: 3314376
+real 10.76
+user 127.46
+sys 0.06
+15410_4000CPU011-1440x900.sc
+GPU image written, Rays: 14236321
+real 352.05
+user 228.30
+sys 123.72
+15457_260000GPU101-1280x720.sc
+GPU image written, Rays: 7715680
+real 6.68
+user 4.36
+sys 2.30
+15470_1000GPU111-1280x720.sc
+CPU image written, Rays: 3992970
+real 61.46
+user 721.33
+sys 0.14
+15582_260000CPU001-1440x900.sc
+GPU image written, Rays: 1655046
+real 1.22
+user 0.70
+sys 0.48
+1567_1000GPU000-1440x900.sc
+GPU image written, Rays: 8716548
+real 16.32
+user 10.33
+sys 5.93
+15684_16000GPU100-1280x720.sc
+GPU image written, Rays: 10240564
+real 7.67
+user 4.81
+sys 2.86
+15696_1000GPU111-1440x900.sc
+CPU image written, Rays: 19283038
+real 126.94
+user 1517.20
+sys 0.39
+15717_65000CPU101-1440x900.sc
+CPU image written, Rays: 40959497
+real 156.03
+user 1867.18
+sys 0.49
+15742_16000CPU111-1920x1080.sc
+GPU image written, Rays: 1765644
+real 3.02
+user 1.86
+sys 1.14
+15759_4000GPU001-1280x720.sc
+GPU image written, Rays: 19283038
+real 137.04
+user 88.17
+sys 48.84
+15779_65000GPU101-1440x900.sc
+GPU image written, Rays: 33841698
+real 421.07
+user 276.22
+sys 144.84
+15840_260000GPU110-1920x1080.sc
+GPU image written, Rays: 7715680
+real 6.66
+user 4.19
+sys 2.46
+15857_1000GPU111-1280x720.sc
+GPU image written, Rays: 10423381
+real 9.43
+user 5.92
+sys 3.49
+15884_4000GPU100-1440x900.sc
+CPU image written, Rays: 12907801
+real 89.79
+user 1071.95
+sys 0.23
+15887_65000CPU100-1440x900.sc
+CPU image written, Rays: 20079989
+real 113.97
+user 1361.65
+sys 0.41
+15888_65000CPU100-1920x1080.sc
+CPU image written, Rays: 17581981
+real 70.98
+user 849.07
+sys 0.24
+15906_16000CPU101-1440x900.sc
+CPU image written, Rays: 20047066
+real 137.32
+user 1641.42
+sys 0.33
+15918_65000CPU110-1440x900.sc
+GPU image written, Rays: 1815598
+real 1.44
+user 0.80
+sys 0.62
+16047_1000GPU001-1440x900.sc
+GPU image written, Rays: 4016008
+real 14.19
+user 9.10
+sys 5.09
+16047_65000GPU000-1920x1080.sc
+GPU image written, Rays: 13369804
+real 5.94
+user 3.78
+sys 2.16
+16059_1000GPU101-1920x1080.sc
+GPU image written, Rays: 1834065
+real 10.31
+user 6.61
+sys 3.66
+16084_65000GPU000-1280x720.sc
+GPU image written, Rays: 2592000
+real 47.34
+user 31.33
+sys 16.02
+16136_260000GPU000-1440x900.sc
+GPU image written, Rays: 4297381
+real 75.46
+user 49.35
+sys 26.12
+16143_260000GPU010-1440x900.sc
+CPU image written, Rays: 5085943
+real 18.09
+user 214.55
+sys 0.08
+16176_16000CPU001-1920x1080.sc
+CPU image written, Rays: 11873529
+real 40.69
+user 486.51
+sys 0.15
+16179_4000CPU111-1280x720.sc
+GPU image written, Rays: 4550564
+real 7.54
+user 4.81
+sys 2.69
+16193_4000GPU011-1920x1080.sc
+GPU image written, Rays: 6167699
+real 103.57
+user 68.15
+sys 35.41
+16212_260000GPU001-1920x1080.sc
+GPU image written, Rays: 6708090
+real 4.54
+user 2.80
+sys 1.73
+16237_1000GPU101-1280x720.sc
+CPU image written, Rays: 12444733
+real 23.87
+user 284.12
+sys 0.46
+16249_1000CPU100-1920x1080.sc
+GPU image written, Rays: 18824754
+real 19.60
+user 12.58
+sys 7.01
+16272_4000GPU110-1920x1080.sc
+CPU image written, Rays: 31579011
+real 402.24
+user 4806.22
+sys 0.37
+16356_260000CPU111-1280x720.sc
+GPU image written, Rays: 15245875
+real 11.06
+user 7.14
+sys 3.89
+16384_4000GPU100-1920x1080.sc
+CPU image written, Rays: 2463634
+real 10.14
+user 119.78
+sys 0.06
+16405_16000CPU000-1440x900.sc
+GPU image written, Rays: 22753982
+real 35.62
+user 22.87
+sys 12.69
+16457_4000GPU111-1920x1080.sc
+GPU image written, Rays: 8275707
+real 4.09
+user 2.60
+sys 1.49
+16484_1000GPU100-1440x900.sc
+CPU image written, Rays: 9078573
+real 20.81
+user 247.57
+sys 0.27
+16487_1000CPU101-1440x900.sc
+GPU image written, Rays: 5342568
+real 57.81
+user 37.56
+sys 20.22
+16507_65000GPU011-1280x720.sc
+CPU image written, Rays: 2048122
+real 4.92
+user 57.33
+sys 0.06
+16526_1000CPU011-1440x900.sc
+CPU image written, Rays: 1843200
+real 37.46
+user 433.66
+sys 0.13
+16532_260000CPU000-1280x720.sc
+CPU image written, Rays: 9216000
+real 182.01
+user 2167.32
+sys 0.34
+1654_260000CPU100-1280x720.sc
+CPU image written, Rays: 2674721
+real 8.94
+user 105.86
+sys 0.06
+16555_4000CPU010-1440x900.sc
+CPU image written, Rays: 2758193
+real 13.26
+user 156.94
+sys 0.07
+16567_16000CPU010-1280x720.sc
+CPU image written, Rays: 55058085
+real 295.12
+user 3533.27
+sys 0.64
+16621_65000CPU111-1920x1080.sc
+CPU image written, Rays: 2825766
+real 21.48
+user 252.68
+sys 0.06
+16634_65000CPU010-1280x720.sc
+CPU image written, Rays: 14667458
+real 28.98
+user 344.78
+sys 0.46
+16638_1000CPU111-1920x1080.sc
+GPU image written, Rays: 7715680
+real 6.79
+user 4.36
+sys 2.41
+16645_1000GPU111-1280x720.sc
+GPU image written, Rays: 17906319
+real 19.82
+user 12.83
+sys 6.97
+16659_4000GPU101-1920x1080.sc
+GPU image written, Rays: 1843200
+real 40.03
+user 26.60
+sys 13.43
+16686_260000GPU000-1280x720.sc
+CPU image written, Rays: 13788933
+real 65.51
+user 783.53
+sys 0.19
+16759_16000CPU110-1280x720.sc
+CPU image written, Rays: 1341588
+real 3.32
+user 39.03
+sys 0.05
+16877_1000CPU001-1280x720.sc
+CPU image written, Rays: 1893524
+real 6.85
+user 80.88
+sys 0.04
+16881_4000CPU010-1280x720.sc
+CPU image written, Rays: 13221430
+real 127.99
+user 1518.04
+sys 0.26
+16887_260000CPU011-1920x1080.sc
+CPU image written, Rays: 13221430
+real 128.00
+user 1517.53
+sys 0.31
+16888_260000CPU011-1920x1080.sc
+CPU image written, Rays: 5854957
+real 32.72
+user 386.66
+sys 0.14
+16894_65000CPU001-1920x1080.sc
+CPU image written, Rays: 20047066
+real 137.22
+user 1639.88
+sys 0.30
+16894_65000CPU110-1440x900.sc
+CPU image written, Rays: 26704747
+real 173.41
+user 2074.67
+sys 0.33
+16990_65000CPU111-1280x720.sc
+GPU image written, Rays: 7358424
+real 7.51
+user 4.75
+sys 2.72
+17013_4000GPU100-1280x720.sc
+CPU image written, Rays: 9465936
+real 33.80
+user 404.31
+sys 0.13
+17033_4000CPU110-1280x720.sc
+GPU image written, Rays: 3765218
+real 4.33
+user 2.76
+sys 1.53
+17042_4000GPU010-1920x1080.sc
+GPU image written, Rays: 33841698
+real 421.73
+user 274.58
+sys 147.14
+17056_260000GPU110-1920x1080.sc
+CPU image written, Rays: 2648749
+real 18.99
+user 223.56
+sys 0.06
+17063_65000CPU001-1280x720.sc
+GPU image written, Rays: 2847385
+real 71.83
+user 47.39
+sys 24.45
+17072_260000GPU001-1280x720.sc
+GPU image written, Rays: 2498957
+real 3.76
+user 2.34
+sys 1.38
+17077_4000GPU001-1440x900.sc
+CPU image written, Rays: 20689221
+real 272.66
+user 3253.93
+sys 0.47
+17098_260000CPU100-1920x1080.sc
+GPU image written, Rays: 6018495
+real 3.51
+user 2.19
+sys 1.29
+17115_1000GPU100-1280x720.sc
+GPU image written, Rays: 2498957
+real 3.73
+user 2.36
+sys 1.37
+17229_4000GPU001-1440x900.sc
+CPU image written, Rays: 5342568
+real 34.93
+user 414.85
+sys 0.12
+17241_65000CPU011-1280x720.sc
+CPU image written, Rays: 4016008
+real 23.15
+user 272.37
+sys 0.16
+17270_65000CPU000-1920x1080.sc
+CPU image written, Rays: 26947023
+real 104.09
+user 1245.21
+sys 0.45
+17289_16000CPU110-1920x1080.sc
+GPU image written, Rays: 19964949
+real 438.90
+user 285.32
+sys 153.58
+17318_260000GPU101-1440x900.sc
+CPU image written, Rays: 4550564
+real 12.85
+user 152.31
+sys 0.10
+17341_4000CPU011-1920x1080.sc
+GPU image written, Rays: 2933485
+real 2.09
+user 1.27
+sys 0.78
+17356_1000GPU011-1920x1080.sc
+CPU image written, Rays: 1815598
+real 4.20
+user 49.25
+sys 0.09
+17362_1000CPU001-1440x900.sc
+GPU image written, Rays: 9170269
+real 49.34
+user 31.56
+sys 17.73
+1736_65000GPU100-1280x720.sc
+GPU image written, Rays: 1203637
+real 0.88
+user 0.47
+sys 0.39
+17394_1000GPU000-1280x720.sc
+CPU image written, Rays: 1834065
+real 14.11
+user 165.05
+sys 0.07
+17395_65000CPU000-1280x720.sc
+GPU image written, Rays: 2825766
+real 20.29
+user 13.29
+sys 6.97
+17399_65000GPU010-1280x720.sc
+GPU image written, Rays: 25432647
+real 64.80
+user 41.68
+sys 23.11
+17404_16000GPU101-1920x1080.sc
+GPU image written, Rays: 4137863
+real 53.08
+user 34.09
+sys 18.97
+17452_260000GPU000-1920x1080.sc
+CPU image written, Rays: 17581981
+real 70.91
+user 847.87
+sys 0.28
+17466_16000CPU101-1440x900.sc
+CPU image written, Rays: 2498957
+real 7.79
+user 91.83
+sys 0.08
+17526_4000CPU001-1440x900.sc
+GPU image written, Rays: 2048122
+real 1.88
+user 1.15
+sys 0.72
+1752_1000GPU011-1440x900.sc
+CPU image written, Rays: 10423381
+real 32.62
+user 389.33
+sys 0.19
+17531_4000CPU100-1440x900.sc
+CPU image written, Rays: 66120042
+real 634.35
+user 7588.69
+sys 0.93
+17537_260000CPU111-1920x1080.sc
+GPU image written, Rays: 8191263
+real 32.35
+user 20.85
+sys 11.48
+17545_16000GPU011-1920x1080.sc
+CPU image written, Rays: 2581566
+real 18.32
+user 214.94
+sys 0.09
+17551_65000CPU000-1440x900.sc
+CPU image written, Rays: 2674721
+real 8.92
+user 105.87
+sys 0.08
+17554_4000CPU010-1440x900.sc
+CPU image written, Rays: 2084707
+real 6.63
+user 77.86
+sys 0.09
+17558_4000CPU000-1440x900.sc
+GPU image written, Rays: 5389835
+real 11.73
+user 7.56
+sys 4.14
+17577_16000GPU010-1920x1080.sc
+GPU image written, Rays: 2673841
+real 1.49
+user 0.94
+sys 0.54
+17582_1000GPU001-1920x1080.sc
+CPU image written, Rays: 7358424
+real 24.35
+user 291.01
+sys 0.21
+17594_4000CPU100-1280x720.sc
+GPU image written, Rays: 2084707
+real 2.25
+user 1.31
+sys 0.90
+17635_4000GPU000-1440x900.sc
+CPU image written, Rays: 6029019
+real 34.87
+user 412.73
+sys 0.12
+1763_65000CPU010-1920x1080.sc
+GPU image written, Rays: 2084707
+real 2.26
+user 1.37
+sys 0.84
+17682_4000GPU000-1440x900.sc
+CPU image written, Rays: 7714846
+real 47.26
+user 562.34
+sys 0.17
+17724_65000CPU011-1440x900.sc
+CPU image written, Rays: 40959497
+real 156.25
+user 1869.83
+sys 0.39
+17773_16000CPU111-1920x1080.sc
+CPU image written, Rays: 13243423
+real 94.05
+user 1123.34
+sys 0.19
+17779_65000CPU101-1280x720.sc
+CPU image written, Rays: 38556639
+real 234.49
+user 2807.23
+sys 0.52
+17784_65000CPU111-1440x900.sc
+GPU image written, Rays: 11873539
+real 26.48
+user 17.33
+sys 9.15
+17825_4000GPU111-1280x720.sc
+CPU image written, Rays: 1893524
+real 6.83
+user 80.85
+sys 0.07
+17853_4000CPU010-1280x720.sc
+GPU image written, Rays: 8912054
+real 213.42
+user 140.41
+sys 72.98
+17897_260000GPU011-1440x900.sc
+GPU image written, Rays: 17906319
+real 19.87
+user 12.85
+sys 7.01
+17925_4000GPU101-1920x1080.sc
+CPU image written, Rays: 20047066
+real 137.04
+user 1638.77
+sys 0.20
+17934_65000CPU110-1440x900.sc
+CPU image written, Rays: 6018495
+real 15.25
+user 181.42
+sys 0.23
+17951_1000CPU100-1280x720.sc
+GPU image written, Rays: 3992970
+real 89.25
+user 58.16
+sys 31.10
+17957_260000GPU001-1440x900.sc
+GPU image written, Rays: 16571344
+real 31.97
+user 20.46
+sys 11.46
+17983_4000GPU111-1440x900.sc
+CPU image written, Rays: 5342568
+real 34.79
+user 413.10
+sys 0.08
+18007_65000CPU011-1280x720.sc
+CPU image written, Rays: 22753972
+real 64.07
+user 766.32
+sys 0.41
+18014_4000CPU111-1920x1080.sc
+GPU image written, Rays: 2048122
+real 1.90
+user 1.19
+sys 0.68
+18052_1000GPU011-1440x900.sc
+CPU image written, Rays: 9170269
+real 69.48
+user 829.00
+sys 0.21
+18102_65000CPU100-1280x720.sc
+GPU image written, Rays: 8275707
+real 4.22
+user 2.61
+sys 1.58
+18139_1000GPU100-1440x900.sc
+GPU image written, Rays: 9216000
+real 193.25
+user 125.78
+sys 67.43
+18143_260000GPU100-1280x720.sc
+GPU image written, Rays: 2581566
+real 12.37
+user 8.09
+sys 4.27
+18165_65000GPU000-1440x900.sc
+GPU image written, Rays: 2488857
+real 1.25
+user 0.68
+sys 0.52
+1816_1000GPU000-1920x1080.sc
+CPU image written, Rays: 2673841
+real 5.15
+user 60.20
+sys 0.07
+18173_1000CPU001-1920x1080.sc
+CPU image written, Rays: 10240564
+real 24.04
+user 286.55
+sys 0.25
+18239_1000CPU111-1440x900.sc
+CPU image written, Rays: 22753972
+real 64.08
+user 765.10
+sys 0.33
+18293_4000CPU111-1920x1080.sc
+CPU image written, Rays: 3049209
+real 8.28
+user 97.29
+sys 0.07
+18325_4000CPU000-1920x1080.sc
+GPU image written, Rays: 6155457
+real 28.75
+user 18.22
+sys 10.49
+18364_16000GPU011-1440x900.sc
+CPU image written, Rays: 17906315
+real 47.65
+user 568.50
+sys 0.42
+18367_4000CPU101-1920x1080.sc
+GPU image written, Rays: 38556641
+real 376.84
+user 242.42
+sys 134.42
+18415_65000GPU111-1440x900.sc
+CPU image written, Rays: 9465936
+real 33.65
+user 402.18
+sys 0.18
+18480_4000CPU110-1280x720.sc
+GPU image written, Rays: 14130238
+real 98.97
+user 63.81
+sys 35.13
+18502_65000GPU110-1280x720.sc
+GPU image written, Rays: 3019876
+real 65.75
+user 42.36
+sys 23.35
+18554_260000GPU010-1280x720.sc
+CPU image written, Rays: 12318316
+real 49.95
+user 597.08
+sys 0.25
+18570_16000CPU100-1440x900.sc
+GPU image written, Rays: 2048122
+real 1.89
+user 1.11
+sys 0.74
+18611_1000GPU011-1440x900.sc
+GPU image written, Rays: 26704749
+real 284.57
+user 183.04
+sys 101.56
+18619_65000GPU111-1280x720.sc
+GPU image written, Rays: 4550564
+real 7.39
+user 4.64
+sys 2.74
+18653_4000GPU011-1920x1080.sc
+GPU image written, Rays: 3992970
+real 89.21
+user 59.02
+sys 30.14
+18655_260000GPU001-1440x900.sc
+CPU image written, Rays: 1834065
+real 14.13
+user 165.01
+sys 0.08
+18658_65000CPU000-1280x720.sc
+CPU image written, Rays: 2463634
+real 10.08
+user 119.24
+sys 0.07
+18766_16000CPU000-1440x900.sc
+GPU image written, Rays: 6167699
+real 103.67
+user 67.99
+sys 35.62
+18774_260000GPU001-1920x1080.sc
+GPU image written, Rays: 38556641
+real 376.41
+user 243.58
+sys 132.82
+187_65000GPU111-1440x900.sc
+GPU image written, Rays: 31579011
+real 837.53
+user 546.55
+sys 290.90
+18816_260000GPU111-1280x720.sc
+CPU image written, Rays: 1765644
+real 5.75
+user 68.00
+sys 0.04
+18819_4000CPU001-1280x720.sc
+GPU image written, Rays: 1378515
+real 1.39
+user 0.76
+sys 0.57
+18926_1000GPU010-1280x720.sc
+GPU image written, Rays: 22753982
+real 35.48
+user 22.78
+sys 12.69
+18934_4000GPU111-1920x1080.sc
+GPU image written, Rays: 13243423
+real 103.38
+user 66.42
+sys 36.96
+18953_65000GPU101-1280x720.sc
+GPU image written, Rays: 1843200
+real 39.93
+user 26.36
+sys 13.52
+19021_260000GPU000-1280x720.sc
+CPU image written, Rays: 3765218
+real 10.83
+user 127.80
+sys 0.11
+19136_4000CPU010-1920x1080.sc
+CPU image written, Rays: 18534128
+real 64.82
+user 774.14
+sys 0.35
+19137_16000CPU100-1920x1080.sc
+CPU image written, Rays: 4137863
+real 55.79
+user 652.17
+sys 0.17
+19161_260000CPU000-1920x1080.sc
+GPU image written, Rays: 3515865
+real 11.34
+user 7.27
+sys 4.03
+19193_16000GPU001-1440x900.sc
+GPU image written, Rays: 55058087
+real 457.23
+user 293.50
+sys 163.75
+19213_65000GPU111-1920x1080.sc
+GPU image written, Rays: 2673841
+real 1.52
+user 0.92
+sys 0.57
+19238_1000GPU001-1920x1080.sc
+CPU image written, Rays: 2720645
+real 5.53
+user 64.66
+sys 0.12
+19241_1000CPU010-1920x1080.sc
+GPU image written, Rays: 20079989
+real 68.73
+user 44.68
+sys 24.00
+19241_65000GPU100-1920x1080.sc
+GPU image written, Rays: 1834065
+real 10.24
+user 6.66
+sys 3.57
+1926_65000GPU000-1280x720.sc
+GPU image written, Rays: 8191263
+real 32.26
+user 20.55
+sys 11.71
+19303_16000GPU011-1920x1080.sc
+CPU image written, Rays: 13788933
+real 65.43
+user 782.69
+sys 0.17
+19305_16000CPU110-1280x720.sc
+GPU image written, Rays: 17906319
+real 19.99
+user 12.98
+sys 7.01
+1930_4000GPU101-1920x1080.sc
+GPU image written, Rays: 33841698
+real 421.45
+user 270.85
+sys 150.65
+19321_260000GPU110-1920x1080.sc
+GPU image written, Rays: 6314733
+real 170.02
+user 109.18
+sys 60.87
+19351_260000GPU011-1280x720.sc
+CPU image written, Rays: 2933485
+real 5.88
+user 68.48
+sys 0.16
+19356_1000CPU011-1920x1080.sc
+GPU image written, Rays: 17581981
+real 54.68
+user 35.75
+sys 18.89
+19390_16000GPU101-1440x900.sc
+CPU image written, Rays: 3706793
+real 13.07
+user 153.99
+sys 0.15
+19472_16000CPU000-1920x1080.sc
+GPU image written, Rays: 26704749
+real 285.19
+user 185.04
+sys 100.11
+1947_65000GPU111-1280x720.sc
+GPU image written, Rays: 13372289
+real 17.40
+user 11.22
+sys 6.18
+19483_4000GPU110-1440x900.sc
+GPU image written, Rays: 1341588
+real 1.12
+user 0.60
+sys 0.51
+19523_1000GPU001-1280x720.sc
+GPU image written, Rays: 40959499
+real 159.32
+user 102.48
+sys 56.79
+19540_16000GPU111-1920x1080.sc
+CPU image written, Rays: 2581566
+real 18.20
+user 213.74
+sys 0.14
+19540_65000CPU000-1440x900.sc
+GPU image written, Rays: 12318316
+real 20.57
+user 13.36
+sys 7.18
+19545_16000GPU100-1440x900.sc
+CPU image written, Rays: 7358424
+real 24.29
+user 290.26
+sys 0.14
+19589_4000CPU100-1280x720.sc
+CPU image written, Rays: 3581389
+real 9.65
+user 113.62
+sys 0.14
+19621_4000CPU001-1920x1080.sc
+CPU image written, Rays: 8191263
+real 31.40
+user 373.58
+sys 0.15
+19647_16000CPU011-1920x1080.sc
+CPU image written, Rays: 6314733
+real 81.55
+user 961.19
+sys 0.13
+19659_260000CPU011-1280x720.sc
+GPU image written, Rays: 3314376
+real 6.76
+user 4.21
+sys 2.52
+19683_4000GPU011-1440x900.sc
+CPU image written, Rays: 2048122
+real 4.90
+user 57.64
+sys 0.07
+19688_1000CPU011-1440x900.sc
+CPU image written, Rays: 8716548
+real 37.44
+user 446.92
+sys 0.16
+196_16000CPU100-1280x720.sc
+GPU image written, Rays: 3049209
+real 2.58
+user 1.56
+sys 1.01
+19708_4000GPU000-1920x1080.sc
+GPU image written, Rays: 55058087
+real 456.91
+user 295.23
+sys 161.68
+19761_65000GPU111-1920x1080.sc
+GPU image written, Rays: 30780788
+real 141.03
+user 89.90
+sys 51.08
+19782_16000GPU111-1440x900.sc
+GPU image written, Rays: 10423381
+real 9.45
+user 6.05
+sys 3.38
+19798_4000GPU100-1440x900.sc
+GPU image written, Rays: 13788933
+real 42.09
+user 26.91
+sys 15.17
+1979_16000GPU110-1280x720.sc
+GPU image written, Rays: 40959499
+real 159.12
+user 102.91
+sys 56.22
+19804_16000GPU111-1920x1080.sc
+GPU image written, Rays: 3049209
+real 2.48
+user 1.49
+sys 0.98
+19853_4000GPU000-1920x1080.sc
+CPU image written, Rays: 1471758
+real 4.94
+user 57.88
+sys 0.05
+1985_4000CPU000-1280x720.sc
+CPU image written, Rays: 5085943
+real 18.12
+user 214.59
+sys 0.13
+19884_16000CPU001-1920x1080.sc
+CPU image written, Rays: 2488857
+real 4.88
+user 56.93
+sys 0.07
+19886_1000CPU000-1920x1080.sc
+CPU image written, Rays: 5854957
+real 32.63
+user 386.20
+sys 0.15
+1992_65000CPU001-1920x1080.sc
+GPU image written, Rays: 4137863
+real 53.31
+user 34.51
+sys 18.74
+20036_260000GPU000-1920x1080.sc
+CPU image written, Rays: 6029019
+real 34.82
+user 412.24
+sys 0.11
+20062_65000CPU010-1920x1080.sc
+GPU image written, Rays: 1834065
+real 10.40
+user 6.69
+sys 3.65
+20091_65000GPU000-1280x720.sc
+CPU image written, Rays: 7715680
+real 19.48
+user 232.55
+sys 0.19
+20099_1000CPU111-1280x720.sc
+GPU image written, Rays: 8275707
+real 4.20
+user 2.58
+sys 1.61
+20144_1000GPU100-1440x900.sc
+GPU image written, Rays: 12960000
+real 230.42
+user 149.03
+sys 81.41
+20175_260000GPU100-1440x900.sc
+GPU image written, Rays: 2592000
+real 47.32
+user 30.86
+sys 16.47
+20207_260000GPU000-1440x900.sc
+CPU image written, Rays: 3765218
+real 10.80
+user 127.87
+sys 0.07
+20223_4000CPU010-1920x1080.sc
+GPU image written, Rays: 1341588
+real 1.22
+user 0.72
+sys 0.49
+20261_1000GPU001-1280x720.sc
+GPU image written, Rays: 26704749
+real 284.80
+user 184.88
+sys 99.84
+20265_65000GPU111-1280x720.sc
+CPU image written, Rays: 3817532
+real 16.98
+user 201.70
+sys 0.09
+20287_16000CPU010-1440x900.sc
+CPU image written, Rays: 38556639
+real 234.72
+user 2808.80
+sys 0.41
+20297_65000CPU111-1440x900.sc
+CPU image written, Rays: 2648749
+real 19.15
+user 224.71
+sys 0.08
+20306_65000CPU001-1280x720.sc
+CPU image written, Rays: 16571334
+real 53.25
+user 636.56
+sys 0.26
+20351_4000CPU111-1440x900.sc
+GPU image written, Rays: 21486720
+real 371.44
+user 242.11
+sys 129.37
+20357_260000GPU110-1440x900.sc
+GPU image written, Rays: 22235417
+real 109.86
+user 70.54
+sys 39.32
+20387_16000GPU111-1280x720.sc
+GPU image written, Rays: 66120042
+real 1266.53
+user 819.64
+sys 446.99
+20396_260000GPU111-1920x1080.sc
+CPU image written, Rays: 2498957
+real 7.75
+user 91.32
+sys 0.05
+20427_4000CPU001-1440x900.sc
+GPU image written, Rays: 2498957
+real 3.88
+user 2.41
+sys 1.43
+20464_4000GPU001-1440x900.sc
+GPU image written, Rays: 3992970
+real 89.21
+user 58.05
+sys 31.13
+20472_260000GPU001-1440x900.sc
+GPU image written, Rays: 2648749
+real 21.19
+user 13.50
+sys 7.66
+20492_65000GPU001-1280x720.sc
+GPU image written, Rays: 12323906
+real 41.03
+user 25.92
+sys 15.08
+20528_16000GPU101-1280x720.sc
+GPU image written, Rays: 1860255
+real 1.45
+user 0.91
+sys 0.50
+20542_1000GPU010-1440x900.sc
+CPU image written, Rays: 3765218
+real 10.85
+user 127.76
+sys 0.12
+20559_4000CPU010-1920x1080.sc
+CPU image written, Rays: 1341588
+real 3.35
+user 38.81
+sys 0.04
+20563_1000CPU001-1280x720.sc
+CPU image written, Rays: 18824750
+real 53.75
+user 641.96
+sys 0.45
+20566_4000CPU110-1920x1080.sc
+GPU image written, Rays: 6314733
+real 170.34
+user 110.89
+sys 59.44
+20581_260000GPU011-1280x720.sc
+GPU image written, Rays: 6892844
+real 5.13
+user 3.22
+sys 1.89
+20586_1000GPU110-1280x720.sc
+GPU image written, Rays: 12493356
+real 17.47
+user 11.09
+sys 6.37
+2072_4000GPU101-1440x900.sc
+CPU image written, Rays: 25432647
+real 90.06
+user 1076.99
+sys 0.46
+20732_16000CPU101-1920x1080.sc
+CPU image written, Rays: 2933485
+real 5.91
+user 68.97
+sys 0.08
+20774_1000CPU011-1920x1080.sc
+CPU image written, Rays: 14236321
+real 239.31
+user 2852.46
+sys 0.34
+20792_260000CPU101-1280x720.sc
+GPU image written, Rays: 2488857
+real 1.34
+user 0.79
+sys 0.51
+20796_1000GPU000-1920x1080.sc
+GPU image written, Rays: 12318316
+real 20.42
+user 13.21
+sys 7.21
+20804_16000GPU100-1440x900.sc
+GPU image written, Rays: 4016008
+real 14.24
+user 9.24
+sys 4.95
+20829_65000GPU000-1920x1080.sc
+GPU image written, Rays: 13603757
+real 6.48
+user 4.06
+sys 2.39
+20860_1000GPU110-1920x1080.sc
+GPU image written, Rays: 1341588
+real 1.12
+user 0.61
+sys 0.49
+20884_1000GPU001-1280x720.sc
+CPU image written, Rays: 44567215
+real 515.04
+user 6159.25
+sys 0.64
+20893_260000CPU111-1440x900.sc
+GPU image written, Rays: 3581389
+real 4.38
+user 2.72
+sys 1.64
+20929_4000GPU001-1920x1080.sc
+CPU image written, Rays: 2847385
+real 49.01
+user 572.20
+sys 0.19
+2092_260000CPU001-1280x720.sc
+CPU image written, Rays: 3581389
+real 9.65
+user 113.84
+sys 0.07
+20991_4000CPU001-1920x1080.sc
+GPU image written, Rays: 4009062
+real 24.62
+user 15.76
+sys 8.80
+21031_65000GPU010-1440x900.sc
+GPU image written, Rays: 1655046
+real 1.05
+user 0.60
+sys 0.43
+21032_1000GPU000-1440x900.sc
+GPU image written, Rays: 2847385
+real 71.84
+user 47.02
+sys 24.82
+21037_260000GPU001-1280x720.sc
+GPU image written, Rays: 6029019
+real 28.06
+user 17.92
+sys 10.11
+21162_65000GPU010-1920x1080.sc
+GPU image written, Rays: 9078573
+real 5.48
+user 3.42
+sys 2.00
+2116_1000GPU101-1440x900.sc
+CPU image written, Rays: 15100061
+real 253.70
+user 3026.31
+sys 0.35
+21174_260000CPU110-1280x720.sc
+GPU image written, Rays: 9216000
+real 194.05
+user 127.01
+sys 67.00
+21258_260000GPU100-1280x720.sc
+CPU image written, Rays: 1860255
+real 4.56
+user 53.68
+sys 0.06
+21287_1000CPU010-1440x900.sc
+GPU image written, Rays: 2933485
+real 2.02
+user 1.24
+sys 0.78
+21290_1000GPU011-1920x1080.sc
+GPU image written, Rays: 5085943
+real 13.30
+user 8.61
+sys 4.68
+21333_16000GPU001-1920x1080.sc
+GPU image written, Rays: 25432647
+real 64.80
+user 41.94
+sys 22.83
+21369_16000GPU101-1920x1080.sc
+CPU image written, Rays: 2674721
+real 8.88
+user 105.27
+sys 0.05
+21396_4000CPU010-1440x900.sc
+CPU image written, Rays: 2374571
+real 8.15
+user 96.86
+sys 0.06
+21444_4000CPU011-1280x720.sc
+GPU image written, Rays: 3314376
+real 6.73
+user 4.29
+sys 2.44
+21489_4000GPU011-1440x900.sc
+GPU image written, Rays: 7358424
+real 7.38
+user 4.82
+sys 2.55
+21547_4000GPU100-1280x720.sc
+GPU image written, Rays: 14236321
+real 351.78
+user 226.86
+sys 124.95
+2154_260000GPU101-1280x720.sc
+CPU image written, Rays: 1203637
+real 3.11
+user 36.10
+sys 0.05
+21563_1000CPU000-1280x720.sc
+GPU image written, Rays: 30780788
+real 141.21
+user 91.38
+sys 49.81
+21588_16000GPU111-1440x900.sc
+GPU image written, Rays: 5342568
+real 57.79
+user 37.40
+sys 20.35
+2161_65000GPU011-1280x720.sc
+CPU image written, Rays: 5342568
+real 34.79
+user 412.97
+sys 0.08
+21628_65000CPU011-1280x720.sc
+GPU image written, Rays: 3515865
+real 11.31
+user 7.20
+sys 4.07
+21635_16000GPU001-1440x900.sc
+CPU image written, Rays: 4009062
+real 27.71
+user 327.98
+sys 0.10
+21639_65000CPU010-1440x900.sc
+GPU image written, Rays: 14130238
+real 99.12
+user 64.28
+sys 34.80
+2165_65000GPU110-1280x720.sc
+GPU image written, Rays: 17906319
+real 19.86
+user 12.69
+sys 7.16
+2167_4000GPU101-1920x1080.sc
+CPU image written, Rays: 1203637
+real 3.08
+user 36.10
+sys 0.02
+21687_1000CPU000-1280x720.sc
+GPU image written, Rays: 2374571
+real 5.57
+user 3.57
+sys 1.99
+21688_4000GPU011-1280x720.sc
+GPU image written, Rays: 12444733
+real 4.59
+user 2.94
+sys 1.63
+21783_1000GPU100-1920x1080.sc
+CPU image written, Rays: 2464883
+real 10.48
+user 124.07
+sys 0.07
+2181_16000CPU001-1280x720.sc
+CPU image written, Rays: 2374571
+real 8.20
+user 96.99
+sys 0.03
+21823_4000CPU011-1280x720.sc
+GPU image written, Rays: 13603757
+real 6.49
+user 4.21
+sys 2.24
+21837_1000GPU110-1920x1080.sc
+GPU image written, Rays: 2464883
+real 8.42
+user 5.55
+sys 2.87
+21841_16000GPU001-1280x720.sc
+CPU image written, Rays: 5085943
+real 18.13
+user 215.07
+sys 0.11
+21900_16000CPU001-1920x1080.sc
+CPU image written, Rays: 1543262
+real 3.98
+user 46.48
+sys 0.04
+21921_1000CPU011-1280x720.sc
+CPU image written, Rays: 40959497
+real 156.09
+user 1868.01
+sys 0.43
+21970_16000CPU111-1920x1080.sc
+CPU image written, Rays: 3856970
+real 25.74
+user 303.77
+sys 0.09
+21970_65000CPU001-1440x900.sc
+CPU image written, Rays: 12318316
+real 50.18
+user 599.43
+sys 0.26
+21994_16000CPU100-1440x900.sc
+GPU image written, Rays: 18824754
+real 19.61
+user 12.35
+sys 7.21
+220_4000GPU110-1920x1080.sc
+GPU image written, Rays: 6167699
+real 103.65
+user 68.06
+sys 35.56
+22102_260000GPU001-1920x1080.sc
+CPU image written, Rays: 13603757
+real 27.17
+user 323.78
+sys 0.31
+22109_1000CPU110-1920x1080.sc
+GPU image written, Rays: 8912054
+real 213.45
+user 137.35
+sys 76.07
+22116_260000GPU011-1440x900.sc
+CPU image written, Rays: 4016008
+real 23.01
+user 270.86
+sys 0.19
+22124_65000CPU000-1920x1080.sc
+GPU image written, Rays: 12323906
+real 41.22
+user 26.71
+sys 14.50
+22174_16000GPU101-1280x720.sc
+GPU image written, Rays: 26947023
+real 56.45
+user 36.42
+sys 19.99
+22174_16000GPU110-1920x1080.sc
+CPU image written, Rays: 30839494
+real 365.95
+user 4371.27
+sys 0.89
+22187_260000CPU101-1920x1080.sc
+GPU image written, Rays: 2674721
+real 3.83
+user 2.44
+sys 1.39
+2219_4000GPU010-1440x900.sc
+GPU image written, Rays: 1815598
+real 1.33
+user 0.74
+sys 0.57
+22222_1000GPU001-1440x900.sc
+CPU image written, Rays: 12323906
+real 52.17
+user 623.69
+sys 0.17
+22254_16000CPU101-1280x720.sc
+GPU image written, Rays: 7715680
+real 6.81
+user 4.34
+sys 2.43
+22264_1000GPU111-1280x720.sc
+GPU image written, Rays: 20689221
+real 258.81
+user 170.18
+sys 88.67
+22307_260000GPU100-1920x1080.sc
+GPU image written, Rays: 7358424
+real 7.39
+user 4.73
+sys 2.65
+22332_4000GPU100-1280x720.sc
+GPU image written, Rays: 4016008
+real 14.25
+user 9.08
+sys 5.13
+22352_65000GPU000-1920x1080.sc
+CPU image written, Rays: 55058085
+real 294.95
+user 3532.13
+sys 0.50
+22373_65000CPU111-1920x1080.sc
+GPU image written, Rays: 3019876
+real 65.88
+user 42.96
+sys 22.88
+22432_260000GPU010-1280x720.sc
+GPU image written, Rays: 4009062
+real 24.58
+user 15.84
+sys 8.70
+22481_65000GPU010-1440x900.sc
+GPU image written, Rays: 17581981
+real 54.56
+user 35.26
+sys 19.31
+22518_16000GPU101-1440x900.sc
+CPU image written, Rays: 9465936
+real 33.69
+user 402.33
+sys 0.16
+2257_4000CPU110-1280x720.sc
+GPU image written, Rays: 8275707
+real 4.22
+user 2.60
+sys 1.59
+2259_1000GPU100-1440x900.sc
+GPU image written, Rays: 1471758
+real 1.69
+user 1.11
+sys 0.57
+22600_4000GPU000-1280x720.sc
+CPU image written, Rays: 11873529
+real 40.66
+user 486.55
+sys 0.23
+22601_4000CPU111-1280x720.sc
+GPU image written, Rays: 38556641
+real 377.32
+user 241.33
+sys 135.99
+22607_65000GPU111-1440x900.sc
+GPU image written, Rays: 8716548
+real 16.25
+user 10.28
+sys 5.96
+22651_16000GPU100-1280x720.sc
+CPU image written, Rays: 6892844
+real 18.03
+user 215.17
+sys 0.22
+2270_1000CPU110-1280x720.sc
+GPU image written, Rays: 4016008
+real 14.36
+user 9.29
+sys 5.01
+22710_65000GPU000-1920x1080.sc
+CPU image written, Rays: 21486720
+real 314.93
+user 3760.84
+sys 0.41
+22720_260000CPU110-1440x900.sc
+CPU image written, Rays: 3314376
+real 10.73
+user 127.31
+sys 0.08
+22737_4000CPU011-1440x900.sc
+CPU image written, Rays: 12318316
+real 50.18
+user 599.18
+sys 0.35
+22793_16000CPU100-1440x900.sc
+CPU image written, Rays: 20689221
+real 272.92
+user 3256.66
+sys 0.45
+22803_260000CPU100-1920x1080.sc
+GPU image written, Rays: 15100061
+real 322.11
+user 210.22
+sys 111.88
+22846_260000GPU110-1280x720.sc
+GPU image written, Rays: 30780788
+real 141.09
+user 90.46
+sys 50.60
+22848_16000GPU111-1440x900.sc
+GPU image written, Rays: 2825766
+real 20.17
+user 13.05
+sys 7.12
+22945_65000GPU010-1280x720.sc
+GPU image written, Rays: 4009062
+real 24.58
+user 15.82
+sys 8.71
+22959_65000GPU010-1440x900.sc
+CPU image written, Rays: 4447947
+real 19.87
+user 236.41
+sys 0.05
+22990_16000CPU011-1280x720.sc
+GPU image written, Rays: 9301841
+real 6.08
+user 3.93
+sys 2.11
+23002_1000GPU110-1440x900.sc
+CPU image written, Rays: 2084707
+real 6.55
+user 77.44
+sys 0.09
+23039_4000CPU000-1440x900.sc
+CPU image written, Rays: 17906315
+real 47.61
+user 568.45
+sys 0.36
+23110_4000CPU101-1920x1080.sc
+GPU image written, Rays: 25432647
+real 64.95
+user 42.13
+sys 22.80
+2312_16000GPU101-1920x1080.sc
+CPU image written, Rays: 13369804
+real 25.34
+user 301.82
+sys 0.39
+23208_1000CPU101-1920x1080.sc
+GPU image written, Rays: 2084707
+real 2.24
+user 1.42
+sys 0.81
+23213_4000GPU000-1440x900.sc
+CPU image written, Rays: 9078573
+real 20.78
+user 247.79
+sys 0.26
+23214_1000CPU101-1440x900.sc
+CPU image written, Rays: 2933485
+real 5.88
+user 69.00
+sys 0.09
+23241_1000CPU011-1920x1080.sc
+GPU image written, Rays: 3314376
+real 6.63
+user 4.19
+sys 2.44
+23264_4000GPU011-1440x900.sc
+GPU image written, Rays: 66120042
+real 1265.41
+user 818.68
+sys 446.83
+2328_260000GPU111-1920x1080.sc
+CPU image written, Rays: 2592000
+real 46.25
+user 539.24
+sys 0.15
+23298_260000CPU000-1440x900.sc
+GPU image written, Rays: 19964949
+real 437.93
+user 282.40
+sys 155.52
+23312_260000GPU101-1440x900.sc
+GPU image written, Rays: 66120042
+real 1266.36
+user 824.22
+sys 442.24
+23351_260000GPU111-1920x1080.sc
+GPU image written, Rays: 2592000
+real 47.36
+user 30.90
+sys 16.45
+23386_260000GPU000-1440x900.sc
+GPU image written, Rays: 11873539
+real 26.39
+user 16.97
+sys 9.41
+23421_4000GPU111-1280x720.sc
+GPU image written, Rays: 20047066
+real 120.73
+user 77.13
+sys 43.56
+23424_65000GPU110-1440x900.sc
+CPU image written, Rays: 4550564
+real 12.86
+user 152.38
+sys 0.13
+23433_4000CPU011-1920x1080.sc
+GPU image written, Rays: 13788933
+real 42.29
+user 27.46
+sys 14.77
+23470_16000GPU110-1280x720.sc
+GPU image written, Rays: 10240564
+real 7.67
+user 4.87
+sys 2.78
+23476_1000GPU111-1440x900.sc
+GPU image written, Rays: 16571344
+real 31.95
+user 20.56
+sys 11.34
+23509_4000GPU111-1440x900.sc
+GPU image written, Rays: 8912054
+real 213.13
+user 139.51
+sys 73.65
+23555_260000GPU011-1440x900.sc
+CPU image written, Rays: 5389835
+real 20.86
+user 247.65
+sys 0.12
+23614_16000CPU010-1920x1080.sc
+GPU image written, Rays: 1765644
+real 3.05
+user 1.90
+sys 1.10
+23617_4000GPU001-1280x720.sc
+CPU image written, Rays: 13372285
+real 44.28
+user 529.17
+sys 0.21
+2362_4000CPU110-1440x900.sc
+GPU image written, Rays: 1378515
+real 1.34
+user 0.77
+sys 0.53
+2364_1000GPU010-1280x720.sc
+CPU image written, Rays: 8912054
+real 104.13
+user 1232.44
+sys 0.15
+23650_260000CPU011-1440x900.sc
+GPU image written, Rays: 11014672
+real 92.71
+user 60.18
+sys 32.51
+23660_65000GPU011-1920x1080.sc
+CPU image written, Rays: 2847385
+real 48.90
+user 570.47
+sys 0.13
+23710_260000CPU001-1280x720.sc
+GPU image written, Rays: 3706793
+real 5.36
+user 3.40
+sys 1.94
+23718_16000GPU000-1920x1080.sc
+GPU image written, Rays: 2847385
+real 71.85
+user 46.75
+sys 25.10
+23721_260000GPU001-1280x720.sc
+CPU image written, Rays: 7715680
+real 19.42
+user 231.56
+sys 0.19
+23726_1000CPU111-1280x720.sc
+CPU image written, Rays: 12493352
+real 38.41
+user 458.85
+sys 0.30
+23777_4000CPU101-1440x900.sc
+CPU image written, Rays: 8912054
+real 104.13
+user 1232.77
+sys 0.25
+23790_260000CPU011-1440x900.sc
+CPU image written, Rays: 26947023
+real 104.13
+user 1245.35
+sys 0.50
+23812_16000CPU110-1920x1080.sc
+CPU image written, Rays: 9301841
+real 22.62
+user 269.98
+sys 0.24
+23824_1000CPU110-1440x900.sc
+CPU image written, Rays: 66120042
+real 634.12
+user 7586.85
+sys 0.79
+23867_260000CPU111-1920x1080.sc
+GPU image written, Rays: 30145004
+real 137.82
+user 89.32
+sys 48.51
+23872_65000GPU110-1920x1080.sc
+CPU image written, Rays: 2463634
+real 10.09
+user 119.09
+sys 0.14
+23873_16000CPU000-1440x900.sc
+GPU image written, Rays: 19283038
+real 137.38
+user 87.11
+sys 50.21
+23898_65000GPU101-1440x900.sc
+CPU image written, Rays: 29273022
+real 161.34
+user 1929.08
+sys 0.45
+23899_65000CPU101-1920x1080.sc
+GPU image written, Rays: 30839494
+real 509.94
+user 337.38
+sys 172.61
+23921_260000GPU101-1920x1080.sc
+CPU image written, Rays: 2581566
+real 18.18
+user 213.86
+sys 0.07
+23962_65000CPU000-1440x900.sc
+GPU image written, Rays: 19964949
+real 438.22
+user 289.56
+sys 148.70
+24024_260000GPU101-1440x900.sc
+GPU image written, Rays: 11014672
+real 92.50
+user 59.50
+sys 33.00
+24068_65000GPU011-1920x1080.sc
+GPU image written, Rays: 7358424
+real 7.42
+user 4.79
+sys 2.59
+24079_4000GPU100-1280x720.sc
+CPU image written, Rays: 1893524
+real 6.77
+user 80.31
+sys 0.07
+24081_4000CPU010-1280x720.sc
+GPU image written, Rays: 12493356
+real 17.60
+user 11.44
+sys 6.12
+24092_4000GPU101-1440x900.sc
+CPU image written, Rays: 1860255
+real 4.57
+user 53.64
+sys 0.10
+24193_1000CPU010-1440x900.sc
+GPU image written, Rays: 6167699
+real 103.48
+user 67.95
+sys 35.54
+24211_260000GPU001-1920x1080.sc
+GPU image written, Rays: 6018495
+real 3.38
+user 2.16
+sys 1.21
+24232_1000GPU100-1280x720.sc
+CPU image written, Rays: 18534128
+real 64.70
+user 773.08
+sys 0.45
+24239_16000CPU100-1920x1080.sc
+CPU image written, Rays: 3019876
+real 52.02
+user 606.56
+sys 0.12
+2423_260000CPU010-1280x720.sc
+GPU image written, Rays: 13369804
+real 6.08
+user 3.77
+sys 2.27
+24245_1000GPU101-1920x1080.sc
+CPU image written, Rays: 3706793
+real 13.13
+user 155.09
+sys 0.09
+24250_16000CPU000-1920x1080.sc
+CPU image written, Rays: 19085495
+real 84.71
+user 1013.15
+sys 0.33
+24259_16000CPU110-1440x900.sc
+GPU image written, Rays: 17581981
+real 54.64
+user 35.41
+sys 19.21
+24294_16000GPU101-1440x900.sc
+GPU image written, Rays: 3706793
+real 5.21
+user 3.14
+sys 2.07
+24307_16000GPU000-1920x1080.sc
+GPU image written, Rays: 2464883
+real 8.44
+user 5.37
+sys 3.05
+24370_16000GPU001-1280x720.sc
+GPU image written, Rays: 3765218
+real 4.20
+user 2.62
+sys 1.56
+24382_4000GPU010-1920x1080.sc
+CPU image written, Rays: 10423381
+real 32.48
+user 387.95
+sys 0.26
+24386_4000CPU100-1440x900.sc
+GPU image written, Rays: 1893524
+real 3.28
+user 2.05
+sys 1.20
+24437_4000GPU010-1280x720.sc
+GPU image written, Rays: 5342568
+real 57.79
+user 36.81
+sys 20.99
+24440_65000GPU011-1280x720.sc
+CPU image written, Rays: 8716548
+real 37.25
+user 445.06
+sys 0.16
+24453_16000CPU100-1280x720.sc
+GPU image written, Rays: 2464883
+real 8.59
+user 5.32
+sys 3.23
+24455_16000GPU001-1280x720.sc
+GPU image written, Rays: 6018495
+real 3.43
+user 2.06
+sys 1.32
+24506_1000GPU100-1280x720.sc
+CPU image written, Rays: 13372285
+real 44.23
+user 529.02
+sys 0.24
+24536_4000CPU110-1440x900.sc
+CPU image written, Rays: 7715680
+real 19.51
+user 232.66
+sys 0.16
+24543_1000CPU111-1280x720.sc
+GPU image written, Rays: 9216000
+real 193.49
+user 124.06
+sys 69.42
+24563_260000GPU100-1280x720.sc
+CPU image written, Rays: 22235417
+real 99.10
+user 1185.63
+sys 0.21
+24580_16000CPU111-1280x720.sc
+CPU image written, Rays: 1765644
+real 5.78
+user 68.43
+sys 0.03
+24590_4000CPU001-1280x720.sc
+GPU image written, Rays: 30145004
+real 137.83
+user 90.09
+sys 47.71
+24631_65000GPU110-1920x1080.sc
+CPU image written, Rays: 12323906
+real 52.02
+user 621.68
+sys 0.18
+24632_16000CPU101-1280x720.sc
+GPU image written, Rays: 29273022
+real 168.36
+user 109.10
+sys 59.23
+24664_65000GPU101-1920x1080.sc
+GPU image written, Rays: 12323906
+real 41.24
+user 26.75
+sys 14.49
+2467_16000GPU101-1280x720.sc
+GPU image written, Rays: 3706793
+real 5.24
+user 3.39
+sys 1.83
+24743_16000GPU000-1920x1080.sc
+CPU image written, Rays: 33841698
+real 381.80
+user 4561.91
+sys 0.64
+24827_260000CPU110-1920x1080.sc
+CPU image written, Rays: 6892844
+real 18.14
+user 216.42
+sys 0.16
+2482_1000CPU110-1280x720.sc
+GPU image written, Rays: 31579011
+real 841.10
+user 545.06
+sys 296.08
+24833_260000GPU111-1280x720.sc
+CPU image written, Rays: 16571334
+real 53.02
+user 634.37
+sys 0.19
+24852_4000CPU111-1440x900.sc
+CPU image written, Rays: 29273022
+real 161.60
+user 1932.05
+sys 0.41
+24900_65000CPU101-1920x1080.sc
+CPU image written, Rays: 14130238
+real 105.66
+user 1261.94
+sys 0.32
+24981_65000CPU110-1280x720.sc
+CPU image written, Rays: 2720645
+real 5.56
+user 65.01
+sys 0.12
+2500_1000CPU010-1920x1080.sc
+GPU image written, Rays: 4447947
+real 22.40
+user 14.11
+sys 8.25
+25014_16000GPU011-1280x720.sc
+GPU image written, Rays: 3019876
+real 65.61
+user 42.58
+sys 23.04
+2502_260000GPU010-1280x720.sc
+CPU image written, Rays: 3049209
+real 8.22
+user 96.77
+sys 0.11
+25036_4000CPU000-1920x1080.sc
+GPU image written, Rays: 31579011
+real 842.26
+user 547.68
+sys 294.61
+25037_260000GPU111-1280x720.sc
+CPU image written, Rays: 2464883
+real 10.48
+user 124.04
+sys 0.04
+25096_16000CPU001-1280x720.sc
+GPU image written, Rays: 5854957
+real 34.49
+user 22.14
+sys 12.35
+25114_65000GPU001-1920x1080.sc
+CPU image written, Rays: 13603757
+real 27.15
+user 323.42
+sys 0.40
+25146_1000CPU110-1920x1080.sc
+CPU image written, Rays: 11873529
+real 40.68
+user 486.57
+sys 0.17
+25146_4000CPU111-1280x720.sc
+CPU image written, Rays: 30839494
+real 366.05
+user 4372.24
+sys 0.66
+25159_260000CPU101-1920x1080.sc
+GPU image written, Rays: 1543262
+real 1.66
+user 0.98
+sys 0.66
+25182_1000GPU011-1280x720.sc
+GPU image written, Rays: 3765218
+real 4.19
+user 2.73
+sys 1.45
+25200_4000GPU010-1920x1080.sc
+GPU image written, Rays: 4297381
+real 75.54
+user 49.17
+sys 26.36
+25215_260000GPU010-1440x900.sc
+GPU image written, Rays: 3765218
+real 4.21
+user 2.63
+sys 1.55
+25265_4000GPU010-1920x1080.sc
+GPU image written, Rays: 9216000
+real 194.63
+user 124.82
+sys 69.84
+25284_260000GPU100-1280x720.sc
+GPU image written, Rays: 14236321
+real 353.86
+user 229.30
+sys 124.60
+25313_260000GPU101-1280x720.sc
+GPU image written, Rays: 9301841
+real 5.99
+user 3.78
+sys 2.19
+2536_1000GPU110-1440x900.sc
+GPU image written, Rays: 11873539
+real 26.53
+user 16.96
+sys 9.52
+2537_4000GPU111-1280x720.sc
+CPU image written, Rays: 13369804
+real 25.28
+user 301.08
+sys 0.41
+25423_1000CPU101-1920x1080.sc
+CPU image written, Rays: 13603757
+real 27.24
+user 324.20
+sys 0.45
+25428_1000CPU110-1920x1080.sc
+CPU image written, Rays: 22235417
+real 99.27
+user 1187.81
+sys 0.23
+25431_16000CPU111-1280x720.sc
+GPU image written, Rays: 3817532
+real 10.41
+user 6.78
+sys 3.60
+2547_16000GPU010-1440x900.sc
+CPU image written, Rays: 20689221
+real 272.93
+user 3253.20
+sys 0.73
+254_260000CPU100-1920x1080.sc
+CPU image written, Rays: 6708090
+real 16.38
+user 195.08
+sys 0.15
+2552_1000CPU101-1280x720.sc
+GPU image written, Rays: 6768077
+real 85.63
+user 56.02
+sys 29.62
+25549_260000GPU010-1920x1080.sc
+CPU image written, Rays: 1765644
+real 5.89
+user 68.08
+sys 0.03
+25589_4000CPU001-1280x720.sc
+CPU image written, Rays: 1471758
+real 4.94
+user 57.92
+sys 0.03
+2559_4000CPU000-1280x720.sc
+CPU image written, Rays: 5854957
+real 32.64
+user 385.71
+sys 0.11
+25615_65000CPU001-1920x1080.sc
+GPU image written, Rays: 9078573
+real 5.59
+user 3.51
+sys 2.04
+25655_1000GPU101-1440x900.sc
+GPU image written, Rays: 6892844
+real 5.12
+user 3.26
+sys 1.85
+2565_1000GPU110-1280x720.sc
+CPU image written, Rays: 44567215
+real 514.79
+user 6155.82
+sys 0.57
+25685_260000CPU111-1440x900.sc
+GPU image written, Rays: 1471758
+real 1.75
+user 1.07
+sys 0.67
+25689_4000GPU000-1280x720.sc
+GPU image written, Rays: 14236321
+real 352.44
+user 227.68
+sys 124.78
+25701_260000GPU101-1280x720.sc
+CPU image written, Rays: 30780786
+real 130.06
+user 1556.45
+sys 0.36
+25737_16000CPU111-1440x900.sc
+GPU image written, Rays: 2581566
+real 12.53
+user 8.14
+sys 4.34
+25745_65000GPU000-1440x900.sc
+CPU image written, Rays: 38556639
+real 234.68
+user 2809.92
+sys 0.50
+25766_65000CPU111-1440x900.sc
+CPU image written, Rays: 4009062
+real 27.78
+user 328.33
+sys 0.14
+25805_65000CPU010-1440x900.sc
+GPU image written, Rays: 3314376
+real 6.75
+user 4.33
+sys 2.38
+25867_4000GPU011-1440x900.sc
+CPU image written, Rays: 38556639
+real 234.63
+user 2808.89
+sys 0.61
+25867_65000CPU111-1440x900.sc
+CPU image written, Rays: 6155457
+real 26.20
+user 311.80
+sys 0.11
+25869_16000CPU011-1440x900.sc
+CPU image written, Rays: 30780786
+real 130.29
+user 1559.04
+sys 0.28
+25892_16000CPU111-1440x900.sc
+CPU image written, Rays: 3817532
+real 17.09
+user 202.75
+sys 0.06
+25898_16000CPU010-1440x900.sc
+GPU image written, Rays: 15100061
+real 322.58
+user 211.95
+sys 110.66
+25915_260000GPU110-1280x720.sc
+GPU image written, Rays: 3992970
+real 89.56
+user 58.45
+sys 31.12
+25918_260000GPU001-1440x900.sc
+GPU image written, Rays: 5342568
+real 58.02
+user 37.39
+sys 20.60
+25942_65000GPU011-1280x720.sc
+CPU image written, Rays: 1203637
+real 3.11
+user 36.10
+sys 0.03
+25955_1000CPU000-1280x720.sc
+CPU image written, Rays: 6314733
+real 81.39
+user 959.92
+sys 0.14
+25955_260000CPU011-1280x720.sc
+CPU image written, Rays: 2488857
+real 4.92
+user 57.08
+sys 0.11
+25959_1000CPU000-1920x1080.sc
+CPU image written, Rays: 13243423
+real 94.23
+user 1123.39
+sys 0.28
+25969_65000CPU101-1280x720.sc
+GPU image written, Rays: 8912054
+real 213.49
+user 138.77
+sys 74.75
+26002_260000GPU011-1440x900.sc
+CPU image written, Rays: 8191263
+real 31.20
+user 371.61
+sys 0.11
+26047_16000CPU011-1920x1080.sc
+GPU image written, Rays: 4550564
+real 7.55
+user 4.86
+sys 2.64
+26085_4000GPU011-1920x1080.sc
+CPU image written, Rays: 17906315
+real 47.60
+user 568.59
+sys 0.35
+26099_4000CPU101-1920x1080.sc
+GPU image written, Rays: 6155457
+real 28.65
+user 18.26
+sys 10.39
+26109_16000GPU011-1440x900.sc
+GPU image written, Rays: 15245875
+real 10.93
+user 7.03
+sys 3.90
+26131_4000GPU100-1920x1080.sc
+GPU image written, Rays: 7714846
+real 76.41
+user 49.41
+sys 27.00
+26142_65000GPU011-1440x900.sc
+GPU image written, Rays: 13369804
+real 5.97
+user 3.77
+sys 2.19
+26166_1000GPU101-1920x1080.sc
+CPU image written, Rays: 2464883
+real 10.51
+user 124.13
+sys 0.11
+26174_16000CPU001-1280x720.sc
+GPU image written, Rays: 1893524
+real 3.28
+user 2.07
+sys 1.17
+26219_4000GPU010-1280x720.sc
+GPU image written, Rays: 18534128
+real 24.50
+user 15.37
+sys 9.13
+26237_16000GPU100-1920x1080.sc
+GPU image written, Rays: 4137863
+real 53.34
+user 34.77
+sys 18.57
+26257_260000GPU000-1920x1080.sc
+GPU image written, Rays: 2933485
+real 1.95
+user 1.25
+sys 0.69
+26286_1000GPU011-1920x1080.sc
+GPU image written, Rays: 6708090
+real 4.57
+user 2.77
+sys 1.78
+2628_1000GPU101-1280x720.sc
+CPU image written, Rays: 12444733
+real 23.86
+user 284.10
+sys 0.33
+26328_1000CPU100-1920x1080.sc
+GPU image written, Rays: 22235417
+real 110.19
+user 70.08
+sys 40.09
+26337_16000GPU111-1280x720.sc
+CPU image written, Rays: 22753972
+real 63.98
+user 764.17
+sys 0.49
+26350_4000CPU111-1920x1080.sc
+CPU image written, Rays: 2674721
+real 8.95
+user 105.90
+sys 0.09
+2637_4000CPU010-1440x900.sc
+GPU image written, Rays: 20047066
+real 120.81
+user 76.74
+sys 44.03
+26394_65000GPU110-1440x900.sc
+CPU image written, Rays: 3581389
+real 9.59
+user 113.15
+sys 0.12
+26419_4000CPU001-1920x1080.sc
+GPU image written, Rays: 29273022
+real 169.01
+user 108.35
+sys 60.62
+26429_65000GPU101-1920x1080.sc
+GPU image written, Rays: 1893524
+real 3.14
+user 1.94
+sys 1.19
+26441_4000GPU010-1280x720.sc
+CPU image written, Rays: 12323906
+real 52.01
+user 621.62
+sys 0.19
+26453_16000CPU101-1280x720.sc
+CPU image written, Rays: 13221430
+real 128.00
+user 1518.09
+sys 0.33
+26476_260000CPU011-1920x1080.sc
+CPU image written, Rays: 12444733
+real 24.02
+user 285.57
+sys 0.39
+2647_1000CPU100-1920x1080.sc
+GPU image written, Rays: 18824754
+real 19.59
+user 12.73
+sys 6.84
+26585_4000GPU110-1920x1080.sc
+GPU image written, Rays: 2648749
+real 21.11
+user 13.37
+sys 7.74
+26591_65000GPU001-1280x720.sc
+CPU image written, Rays: 8827803
+real 28.58
+user 341.68
+sys 0.14
+26595_4000CPU101-1280x720.sc
+CPU image written, Rays: 1378515
+real 3.71
+user 43.28
+sys 0.05
+26596_1000CPU010-1280x720.sc
+GPU image written, Rays: 26947023
+real 56.69
+user 37.12
+sys 19.48
+2659_16000GPU110-1920x1080.sc
+CPU image written, Rays: 6155457
+real 26.13
+user 310.90
+sys 0.11
+26625_16000CPU011-1440x900.sc
+CPU image written, Rays: 1655046
+real 4.00
+user 46.42
+sys 0.07
+26634_1000CPU000-1440x900.sc
+GPU image written, Rays: 1543262
+real 1.71
+user 0.99
+sys 0.64
+26662_1000GPU011-1280x720.sc
+CPU image written, Rays: 7714846
+real 47.26
+user 562.02
+sys 0.11
+26675_65000CPU011-1440x900.sc
+CPU image written, Rays: 2825766
+real 21.41
+user 252.65
+sys 0.06
+26677_65000CPU010-1280x720.sc
+CPU image written, Rays: 2464883
+real 10.60
+user 124.81
+sys 0.03
+2667_16000CPU001-1280x720.sc
+GPU image written, Rays: 13603757
+real 6.62
+user 4.16
+sys 2.42
+26685_1000GPU110-1920x1080.sc
+CPU image written, Rays: 15245875
+real 40.76
+user 486.48
+sys 0.47
+2669_4000CPU100-1920x1080.sc
+CPU image written, Rays: 11014672
+real 59.35
+user 706.85
+sys 0.12
+2671_65000CPU011-1920x1080.sc
+CPU image written, Rays: 3706793
+real 13.19
+user 155.14
+sys 0.13
+26735_16000CPU000-1920x1080.sc
+CPU image written, Rays: 3992970
+real 61.66
+user 723.71
+sys 0.14
+2677_260000CPU001-1440x900.sc
+GPU image written, Rays: 2084707
+real 2.27
+user 1.36
+sys 0.86
+26836_4000GPU000-1440x900.sc
+GPU image written, Rays: 13243423
+real 103.36
+user 67.43
+sys 35.91
+26858_65000GPU101-1280x720.sc
+CPU image written, Rays: 30145004
+real 172.42
+user 2062.02
+sys 0.43
+26860_65000CPU110-1920x1080.sc
+GPU image written, Rays: 7714846
+real 76.35
+user 49.18
+sys 27.17
+26928_65000GPU011-1440x900.sc
+GPU image written, Rays: 10423381
+real 9.47
+user 5.98
+sys 3.45
+26944_4000GPU100-1440x900.sc
+CPU image written, Rays: 4447947
+real 19.88
+user 236.37
+sys 0.09
+2697_16000CPU011-1280x720.sc
+CPU image written, Rays: 26704747
+real 173.25
+user 2072.55
+sys 0.30
+26992_65000CPU111-1280x720.sc
+CPU image written, Rays: 1341588
+real 3.35
+user 39.04
+sys 0.04
+26997_1000CPU001-1280x720.sc
+CPU image written, Rays: 2758193
+real 13.21
+user 156.87
+sys 0.04
+27038_16000CPU010-1280x720.sc
+CPU image written, Rays: 1834065
+real 14.27
+user 166.00
+sys 0.06
+27051_65000CPU000-1280x720.sc
+GPU image written, Rays: 18534128
+real 24.50
+user 15.78
+sys 8.66
+27077_16000GPU100-1920x1080.sc
+CPU image written, Rays: 12318316
+real 50.16
+user 599.15
+sys 0.26
+27086_16000CPU100-1440x900.sc
+CPU image written, Rays: 2592000
+real 46.55
+user 541.57
+sys 0.19
+2710_260000CPU000-1440x900.sc
+GPU image written, Rays: 5085943
+real 13.35
+user 8.51
+sys 4.84
+27111_16000GPU001-1920x1080.sc
+GPU image written, Rays: 20689221
+real 259.65
+user 171.03
+sys 88.60
+27128_260000GPU100-1920x1080.sc
+GPU image written, Rays: 12907801
+real 59.99
+user 39.12
+sys 20.86
+27191_65000GPU100-1440x900.sc
+CPU image written, Rays: 2498957
+real 7.72
+user 91.32
+sys 0.10
+27291_4000CPU001-1440x900.sc
+CPU image written, Rays: 3856970
+real 25.65
+user 302.05
+sys 0.15
+27321_65000CPU001-1440x900.sc
+CPU image written, Rays: 13788933
+real 65.55
+user 783.96
+sys 0.22
+27323_16000CPU110-1280x720.sc
+CPU image written, Rays: 25432647
+real 90.25
+user 1078.66
+sys 0.49
+27339_16000CPU101-1920x1080.sc
+CPU image written, Rays: 20079989
+real 114.07
+user 1361.77
+sys 0.57
+27341_65000CPU100-1920x1080.sc
+GPU image written, Rays: 40959499
+real 159.19
+user 104.59
+sys 54.55
+27344_16000GPU111-1920x1080.sc
+GPU image written, Rays: 17581981
+real 54.69
+user 35.38
+sys 19.28
+27357_16000GPU101-1440x900.sc
+GPU image written, Rays: 20689221
+real 260.17
+user 169.93
+sys 90.27
+27359_260000GPU100-1920x1080.sc
+CPU image written, Rays: 26947023
+real 103.90
+user 1242.74
+sys 0.34
+27364_16000CPU110-1920x1080.sc
+GPU image written, Rays: 3515865
+real 11.30
+user 7.29
+sys 3.95
+27393_16000GPU001-1440x900.sc
+CPU image written, Rays: 6708090
+real 16.38
+user 195.10
+sys 0.19
+27510_1000CPU101-1280x720.sc
+GPU image written, Rays: 1860255
+real 1.53
+user 0.95
+sys 0.57
+2753_1000GPU010-1440x900.sc
+GPU image written, Rays: 4137863
+real 53.09
+user 34.83
+sys 18.25
+27612_260000GPU000-1920x1080.sc
+CPU image written, Rays: 2592000
+real 46.39
+user 540.34
+sys 0.16
+27631_260000CPU000-1440x900.sc
+GPU image written, Rays: 13221430
+real 256.85
+user 166.73
+sys 90.15
+27642_260000GPU011-1920x1080.sc
+CPU image written, Rays: 2374571
+real 8.19
+user 96.94
+sys 0.04
+27666_4000CPU011-1280x720.sc
+GPU image written, Rays: 2720645
+real 1.72
+user 1.04
+sys 0.67
+276_1000GPU010-1920x1080.sc
+GPU image written, Rays: 8716548
+real 16.39
+user 10.70
+sys 5.66
+27703_16000GPU100-1280x720.sc
+GPU image written, Rays: 22235417
+real 110.44
+user 70.46
+sys 39.97
+27721_16000GPU111-1280x720.sc
+CPU image written, Rays: 2048122
+real 4.88
+user 57.30
+sys 0.04
+27748_1000CPU011-1440x900.sc
+GPU image written, Rays: 18824754
+real 19.77
+user 12.62
+sys 7.09
+27757_4000GPU110-1920x1080.sc
+CPU image written, Rays: 29273022
+real 161.39
+user 1930.10
+sys 0.47
+27767_65000CPU101-1920x1080.sc
+CPU image written, Rays: 1543262
+real 4.01
+user 46.53
+sys 0.05
+27832_1000CPU011-1280x720.sc
+GPU image written, Rays: 12907801
+real 59.85
+user 39.20
+sys 20.58
+2787_65000GPU100-1440x900.sc
+GPU image written, Rays: 3019876
+real 65.73
+user 43.27
+sys 22.44
+27905_260000GPU010-1280x720.sc
+CPU image written, Rays: 2084707
+real 6.57
+user 77.46
+sys 0.06
+27930_4000CPU000-1440x900.sc
+GPU image written, Rays: 5085943
+real 13.47
+user 8.66
+sys 4.75
+27965_16000GPU001-1920x1080.sc
+CPU image written, Rays: 44567215
+real 515.16
+user 6160.55
+sys 0.65
+27965_260000CPU111-1440x900.sc
+CPU image written, Rays: 15245875
+real 40.81
+user 486.68
+sys 0.41
+2797_4000CPU100-1920x1080.sc
+GPU image written, Rays: 2498957
+real 3.87
+user 2.33
+sys 1.46
+28009_4000GPU001-1440x900.sc
+CPU image written, Rays: 11014672
+real 59.35
+user 706.43
+sys 0.19
+28057_65000CPU011-1920x1080.sc
+GPU image written, Rays: 20079989
+real 68.74
+user 45.00
+sys 23.65
+28095_65000GPU100-1920x1080.sc
+GPU image written, Rays: 30145004
+real 138.09
+user 89.20
+sys 48.87
+28116_65000GPU110-1920x1080.sc
+GPU image written, Rays: 2847385
+real 72.18
+user 47.26
+sys 24.93
+28117_260000GPU001-1280x720.sc
+CPU image written, Rays: 15245875
+real 40.61
+user 484.49
+sys 0.40
+28122_4000CPU100-1920x1080.sc
+CPU image written, Rays: 18534128
+real 64.95
+user 775.31
+sys 0.44
+28152_16000CPU100-1920x1080.sc
+CPU image written, Rays: 1655046
+real 4.02
+user 46.49
+sys 0.05
+28160_1000CPU000-1440x900.sc
+GPU image written, Rays: 1815598
+real 1.47
+user 0.85
+sys 0.57
+28169_1000GPU001-1440x900.sc
+GPU image written, Rays: 9216000
+real 193.80
+user 125.94
+sys 67.88
+28219_260000GPU100-1280x720.sc
+GPU image written, Rays: 16571344
+real 32.10
+user 20.98
+sys 11.12
+28258_4000GPU111-1440x900.sc
+CPU image written, Rays: 14667458
+real 28.81
+user 343.11
+sys 0.39
+2826_1000CPU111-1920x1080.sc
+GPU image written, Rays: 3049209
+real 2.65
+user 1.53
+sys 1.07
+28401_4000GPU000-1920x1080.sc
+CPU image written, Rays: 1378515
+real 3.69
+user 43.11
+sys 0.05
+28414_1000CPU010-1280x720.sc
+GPU image written, Rays: 12493356
+real 17.54
+user 11.20
+sys 6.27
+28422_4000GPU101-1440x900.sc
+CPU image written, Rays: 5389835
+real 20.95
+user 248.48
+sys 0.11
+28430_16000CPU010-1920x1080.sc
+CPU image written, Rays: 1655046
+real 4.03
+user 46.41
+sys 0.05
+28474_1000CPU000-1440x900.sc
+GPU image written, Rays: 55058087
+real 458.56
+user 295.71
+sys 162.89
+28487_65000GPU111-1920x1080.sc
+GPU image written, Rays: 12960000
+real 231.25
+user 151.24
+sys 79.98
+28540_260000GPU100-1440x900.sc
+CPU image written, Rays: 2847385
+real 48.74
+user 568.97
+sys 0.16
+28556_260000CPU001-1280x720.sc
+CPU image written, Rays: 3049209
+real 8.30
+user 97.15
+sys 0.12
+28557_4000CPU000-1920x1080.sc
+CPU image written, Rays: 3515865
+real 14.39
+user 169.93
+sys 0.09
+28608_16000CPU001-1440x900.sc
+CPU image written, Rays: 13603757
+real 27.36
+user 325.23
+sys 0.38
+28626_1000CPU110-1920x1080.sc
+GPU image written, Rays: 9465940
+real 14.76
+user 9.34
+sys 5.36
+28652_4000GPU110-1280x720.sc
+CPU image written, Rays: 1743289
+real 7.60
+user 89.35
+sys 0.04
+28661_16000CPU000-1280x720.sc
+CPU image written, Rays: 2673841
+real 5.24
+user 60.44
+sys 0.14
+28666_1000CPU001-1920x1080.sc
+CPU image written, Rays: 16571334
+real 53.32
+user 637.11
+sys 0.31
+2870_4000CPU111-1440x900.sc
+GPU image written, Rays: 5389835
+real 11.71
+user 7.58
+sys 4.08
+28713_16000GPU010-1920x1080.sc
+CPU image written, Rays: 2720645
+real 5.55
+user 65.00
+sys 0.11
+28736_1000CPU010-1920x1080.sc
+GPU image written, Rays: 1765644
+real 3.09
+user 1.92
+sys 1.09
+28748_4000GPU001-1280x720.sc
+GPU image written, Rays: 2720645
+real 1.58
+user 0.96
+sys 0.62
+28777_1000GPU010-1920x1080.sc
+CPU image written, Rays: 4447947
+real 19.96
+user 237.70
+sys 0.05
+28788_16000CPU011-1280x720.sc
+CPU image written, Rays: 1834065
+real 14.18
+user 166.01
+sys 0.06
+28801_65000CPU000-1280x720.sc
+CPU image written, Rays: 55058085
+real 295.08
+user 3532.64
+sys 0.70
+28808_65000CPU111-1920x1080.sc
+CPU image written, Rays: 29273022
+real 161.75
+user 1933.24
+sys 0.45
+28862_65000CPU101-1920x1080.sc
+CPU image written, Rays: 55058085
+real 295.12
+user 3533.10
+sys 0.59
+2889_65000CPU111-1920x1080.sc
+CPU image written, Rays: 6892844
+real 18.18
+user 216.32
+sys 0.21
+29021_1000CPU110-1280x720.sc
+CPU image written, Rays: 3856970
+real 25.70
+user 303.71
+sys 0.11
+29114_65000CPU001-1440x900.sc
+CPU image written, Rays: 3314376
+real 10.78
+user 127.43
+sys 0.07
+29135_4000CPU011-1440x900.sc
+CPU image written, Rays: 6167699
+real 74.36
+user 875.41
+sys 0.22
+29216_260000CPU001-1920x1080.sc
+CPU image written, Rays: 2488857
+real 4.95
+user 57.06
+sys 0.12
+29217_1000CPU000-1920x1080.sc
+CPU image written, Rays: 8912054
+real 104.20
+user 1232.31
+sys 0.18
+29251_260000CPU011-1440x900.sc
+CPU image written, Rays: 9465936
+real 33.85
+user 404.39
+sys 0.18
+29275_4000CPU110-1280x720.sc
+GPU image written, Rays: 1203637
+real 1.06
+user 0.54
+sys 0.46
+29280_1000GPU000-1280x720.sc
+CPU image written, Rays: 3992970
+real 61.66
+user 723.53
+sys 0.15
+29297_260000CPU001-1440x900.sc
+CPU image written, Rays: 2758193
+real 13.24
+user 156.93
+sys 0.05
+29340_16000CPU010-1280x720.sc
+CPU image written, Rays: 26947023
+real 104.16
+user 1245.28
+sys 0.45
+29369_16000CPU110-1920x1080.sc
+GPU image written, Rays: 2758193
+real 8.80
+user 5.50
+sys 3.26
+29379_16000GPU010-1280x720.sc
+GPU image written, Rays: 2048122
+real 1.78
+user 1.01
+sys 0.74
+29483_1000GPU011-1440x900.sc
+GPU image written, Rays: 19283038
+real 137.04
+user 88.82
+sys 48.21
+29503_65000GPU101-1440x900.sc
+CPU image written, Rays: 6314733
+real 81.28
+user 959.10
+sys 0.15
+29542_260000CPU011-1280x720.sc
+GPU image written, Rays: 6155457
+real 28.71
+user 18.31
+sys 10.34
+29557_16000GPU011-1440x900.sc
+CPU image written, Rays: 2581566
+real 18.26
+user 214.37
+sys 0.07
+29578_65000CPU000-1440x900.sc
+CPU image written, Rays: 3314376
+real 10.71
+user 127.17
+sys 0.14
+29665_4000CPU011-1440x900.sc
+CPU image written, Rays: 3817532
+real 17.12
+user 202.69
+sys 0.08
+29666_16000CPU010-1440x900.sc
+CPU image written, Rays: 6018495
+real 15.27
+user 181.51
+sys 0.11
+29682_1000CPU100-1280x720.sc
+GPU image written, Rays: 8827807
+real 13.57
+user 8.90
+sys 4.60
+2974_4000GPU101-1280x720.sc
+CPU image written, Rays: 12960000
+real 226.84
+user 2702.50
+sys 0.47
+29758_260000CPU100-1440x900.sc
+GPU image written, Rays: 2758193
+real 8.80
+user 5.52
+sys 3.23
+29835_16000GPU010-1280x720.sc
+GPU image written, Rays: 14667458
+real 8.24
+user 5.23
+sys 2.98
+29909_1000GPU111-1920x1080.sc
+GPU image written, Rays: 13372289
+real 17.39
+user 11.31
+sys 6.04
+29931_4000GPU110-1440x900.sc
+CPU image written, Rays: 15100061
+real 253.66
+user 3026.32
+sys 0.34
+30004_260000CPU110-1280x720.sc
+GPU image written, Rays: 21486720
+real 372.52
+user 243.54
+sys 129.01
+30038_260000GPU110-1440x900.sc
+CPU image written, Rays: 8275707
+real 19.40
+user 231.15
+sys 0.20
+30040_1000CPU100-1440x900.sc
+CPU image written, Rays: 4137863
+real 55.54
+user 650.09
+sys 0.23
+3004_260000CPU000-1920x1080.sc
+CPU image written, Rays: 30780786
+real 130.28
+user 1559.31
+sys 0.35
+30050_16000CPU111-1440x900.sc
+GPU image written, Rays: 6708090
+real 4.71
+user 2.92
+sys 1.74
+30057_1000GPU101-1280x720.sc
+CPU image written, Rays: 4009062
+real 27.75
+user 328.38
+sys 0.09
+30085_65000CPU010-1440x900.sc
+GPU image written, Rays: 1655046
+real 1.15
+user 0.68
+sys 0.47
+30137_1000GPU000-1440x900.sc
+CPU image written, Rays: 31579011
+real 402.39
+user 4807.50
+sys 0.63
+30137_260000CPU111-1280x720.sc
+CPU image written, Rays: 9216000
+real 182.14
+user 2167.91
+sys 0.20
+30184_260000CPU100-1280x720.sc
+GPU image written, Rays: 29273022
+real 167.97
+user 110.39
+sys 57.51
+3018_65000GPU101-1920x1080.sc
+GPU image written, Rays: 13369804
+real 5.99
+user 3.90
+sys 2.05
+30229_1000GPU101-1920x1080.sc
+CPU image written, Rays: 3706793
+real 13.09
+user 154.23
+sys 0.11
+30240_16000CPU000-1920x1080.sc
+GPU image written, Rays: 2758193
+real 8.78
+user 5.56
+sys 3.21
+30280_16000GPU010-1280x720.sc
+CPU image written, Rays: 22235417
+real 99.12
+user 1185.61
+sys 0.31
+30294_16000CPU111-1280x720.sc
+CPU image written, Rays: 12444733
+real 24.04
+user 285.52
+sys 0.39
+30333_1000CPU100-1920x1080.sc
+GPU image written, Rays: 33841698
+real 422.68
+user 278.30
+sys 144.32
+30374_260000GPU110-1920x1080.sc
+CPU image written, Rays: 3049209
+real 8.21
+user 96.78
+sys 0.09
+30394_4000CPU000-1920x1080.sc
+CPU image written, Rays: 6018495
+real 15.22
+user 180.45
+sys 0.15
+30421_1000CPU100-1280x720.sc
+CPU image written, Rays: 2847385
+real 48.91
+user 570.04
+sys 0.13
+30422_260000CPU001-1280x720.sc
+GPU image written, Rays: 1203637
+real 1.00
+user 0.53
+sys 0.46
+30431_1000GPU000-1280x720.sc
+GPU image written, Rays: 6155457
+real 28.63
+user 18.55
+sys 10.05
+30434_16000GPU011-1440x900.sc
+CPU image written, Rays: 12323906
+real 52.13
+user 622.80
+sys 0.21
+30461_16000CPU101-1280x720.sc
+GPU image written, Rays: 11014672
+real 92.65
+user 60.11
+sys 32.48
+30461_65000GPU011-1920x1080.sc
+GPU image written, Rays: 29273022
+real 168.15
+user 108.41
+sys 59.71
+304_65000GPU101-1920x1080.sc
+CPU image written, Rays: 1341588
+real 3.32
+user 38.75
+sys 0.05
+30508_1000CPU001-1280x720.sc
+GPU image written, Rays: 2648749
+real 21.22
+user 13.64
+sys 7.58
+30512_65000GPU001-1280x720.sc
+GPU image written, Rays: 1743289
+real 3.52
+user 2.16
+sys 1.33
+30532_16000GPU000-1280x720.sc
+CPU image written, Rays: 1843200
+real 37.35
+user 432.17
+sys 0.14
+30533_260000CPU000-1280x720.sc
+GPU image written, Rays: 1860255
+real 1.57
+user 0.84
+sys 0.67
+30556_1000GPU010-1440x900.sc
+CPU image written, Rays: 1341588
+real 3.32
+user 38.87
+sys 0.04
+30572_1000CPU001-1280x720.sc
+CPU image written, Rays: 19964949
+real 302.72
+user 3612.22
+sys 0.59
+30593_260000CPU101-1440x900.sc
+CPU image written, Rays: 30780786
+real 130.33
+user 1559.73
+sys 0.26
+30594_16000CPU111-1440x900.sc
+CPU image written, Rays: 8191263
+real 31.44
+user 373.72
+sys 0.17
+30705_16000CPU011-1920x1080.sc
+GPU image written, Rays: 1893524
+real 3.31
+user 1.96
+sys 1.27
+30705_4000GPU010-1280x720.sc
+GPU image written, Rays: 21486720
+real 372.28
+user 245.73
+sys 126.55
+30712_260000GPU110-1440x900.sc
+GPU image written, Rays: 40959499
+real 159.96
+user 104.10
+sys 55.85
+30730_16000GPU111-1920x1080.sc
+GPU image written, Rays: 26947023
+real 56.77
+user 37.00
+sys 19.75
+30737_16000GPU110-1920x1080.sc
+CPU image written, Rays: 6155457
+real 26.28
+user 310.09
+sys 0.11
+3076_16000CPU011-1440x900.sc
+GPU image written, Rays: 8827807
+real 13.60
+user 8.64
+sys 4.90
+30804_4000GPU101-1280x720.sc
+GPU image written, Rays: 3049209
+real 2.51
+user 1.53
+sys 0.95
+30825_4000GPU000-1920x1080.sc
+GPU image written, Rays: 6892844
+real 5.15
+user 3.20
+sys 1.92
+30851_1000GPU110-1280x720.sc
+GPU image written, Rays: 2374571
+real 5.52
+user 3.58
+sys 1.91
+30887_4000GPU011-1280x720.sc
+GPU image written, Rays: 2463634
+real 4.39
+user 2.81
+sys 1.54
+30893_16000GPU000-1440x900.sc
+GPU image written, Rays: 19085495
+real 50.22
+user 32.54
+sys 17.65
+30944_16000GPU110-1440x900.sc
+CPU image written, Rays: 6314733
+real 81.34
+user 959.71
+sys 0.16
+30952_260000CPU011-1280x720.sc
+CPU image written, Rays: 33841698
+real 383.40
+user 4552.72
+sys 1.05
+3101_260000CPU110-1920x1080.sc
+CPU image written, Rays: 12444733
+real 24.03
+user 285.50
+sys 0.40
+31025_1000CPU100-1920x1080.sc
+CPU image written, Rays: 1743289
+real 7.58
+user 89.39
+sys 0.07
+31030_16000CPU000-1280x720.sc
+GPU image written, Rays: 1743289
+real 3.66
+user 2.29
+sys 1.29
+31064_16000GPU000-1280x720.sc
+CPU image written, Rays: 17581981
+real 71.07
+user 849.69
+sys 0.29
+31175_16000CPU101-1440x900.sc
+GPU image written, Rays: 9170269
+real 49.34
+user 31.59
+sys 17.69
+31178_65000GPU100-1280x720.sc
+CPU image written, Rays: 18534128
+real 64.76
+user 773.80
+sys 0.35
+3119_16000CPU100-1920x1080.sc
+GPU image written, Rays: 9301841
+real 6.10
+user 3.82
+sys 2.20
+31210_1000GPU110-1440x900.sc
+CPU image written, Rays: 30145004
+real 172.50
+user 2063.21
+sys 0.54
+31227_65000CPU110-1920x1080.sc
+CPU image written, Rays: 11014672
+real 59.43
+user 706.76
+sys 0.23
+31243_65000CPU011-1920x1080.sc
+CPU image written, Rays: 26704747
+real 173.26
+user 2073.58
+sys 0.34
+31245_65000CPU111-1280x720.sc
+GPU image written, Rays: 20079989
+real 68.72
+user 44.35
+sys 24.32
+31258_65000GPU100-1920x1080.sc
+CPU image written, Rays: 7714846
+real 47.12
+user 560.36
+sys 0.15
+31270_65000CPU011-1440x900.sc
+CPU image written, Rays: 9170269
+real 69.50
+user 828.57
+sys 0.21
+31283_65000CPU100-1280x720.sc
+CPU image written, Rays: 4016008
+real 23.21
+user 272.48
+sys 0.15
+31286_65000CPU000-1920x1080.sc
+GPU image written, Rays: 9078573
+real 5.62
+user 3.47
+sys 2.06
+31350_1000GPU101-1440x900.sc
+GPU image written, Rays: 3515865
+real 11.15
+user 7.17
+sys 3.98
+31390_16000GPU001-1440x900.sc
+CPU image written, Rays: 40959497
+real 156.10
+user 1868.45
+sys 0.32
+31391_16000CPU111-1920x1080.sc
+CPU image written, Rays: 2673841
+real 5.25
+user 60.53
+sys 0.10
+31397_1000CPU001-1920x1080.sc
+GPU image written, Rays: 1815598
+real 1.47
+user 0.99
+sys 0.39
+31429_1000GPU001-1440x900.sc
+GPU image written, Rays: 14667458
+real 8.21
+user 5.26
+sys 2.94
+31440_1000GPU111-1920x1080.sc
+CPU image written, Rays: 14236321
+real 239.21
+user 2852.24
+sys 0.53
+31448_260000CPU101-1280x720.sc
+CPU image written, Rays: 17906315
+real 47.62
+user 569.03
+sys 0.24
+31451_4000CPU101-1920x1080.sc
+GPU image written, Rays: 9301841
+real 6.10
+user 3.75
+sys 2.28
+31461_1000GPU110-1440x900.sc
+CPU image written, Rays: 1203637
+real 3.12
+user 36.28
+sys 0.06
+31508_1000CPU000-1280x720.sc
+GPU image written, Rays: 26704749
+real 285.26
+user 184.56
+sys 100.65
+31537_65000GPU111-1280x720.sc
+GPU image written, Rays: 2825766
+real 20.31
+user 13.12
+sys 7.17
+31543_65000GPU010-1280x720.sc
+GPU image written, Rays: 2673841
+real 1.51
+user 0.86
+sys 0.62
+31598_1000GPU001-1920x1080.sc
+CPU image written, Rays: 1655046
+real 3.97
+user 46.22
+sys 0.06
+315_1000CPU000-1440x900.sc
+GPU image written, Rays: 2933485
+real 2.02
+user 1.33
+sys 0.68
+31683_1000GPU011-1920x1080.sc
+GPU image written, Rays: 13221430
+real 257.88
+user 167.67
+sys 90.14
+3173_260000GPU011-1920x1080.sc
+GPU image written, Rays: 2592000
+real 47.59
+user 31.45
+sys 16.12
+31745_260000GPU000-1440x900.sc
+CPU image written, Rays: 3581389
+real 9.61
+user 113.17
+sys 0.13
+31745_4000CPU001-1920x1080.sc
+GPU image written, Rays: 7714846
+real 76.87
+user 48.85
+sys 27.91
+31762_65000GPU011-1440x900.sc
+CPU image written, Rays: 3581389
+real 9.58
+user 113.10
+sys 0.11
+31786_4000CPU001-1920x1080.sc
+GPU image written, Rays: 4550564
+real 7.63
+user 4.71
+sys 2.83
+3178_4000GPU011-1920x1080.sc
+CPU image written, Rays: 10423381
+real 32.50
+user 388.02
+sys 0.25
+31795_4000CPU100-1440x900.sc
+CPU image written, Rays: 10240564
+real 24.17
+user 288.09
+sys 0.23
+317_1000CPU111-1440x900.sc
+CPU image written, Rays: 55058085
+real 294.85
+user 3530.00
+sys 0.56
+31802_65000CPU111-1920x1080.sc
+GPU image written, Rays: 1843200
+real 39.97
+user 25.85
+sys 14.13
+31814_260000GPU000-1280x720.sc
+CPU image written, Rays: 16571334
+real 53.25
+user 636.99
+sys 0.29
+31820_4000CPU111-1440x900.sc
+CPU image written, Rays: 19964949
+real 302.77
+user 3613.52
+sys 0.46
+31839_260000CPU101-1440x900.sc
+CPU image written, Rays: 1743289
+real 7.62
+user 89.35
+sys 0.07
+31845_16000CPU000-1280x720.sc
+CPU image written, Rays: 13603757
+real 27.35
+user 325.21
+sys 0.33
+31856_1000CPU110-1920x1080.sc
+GPU image written, Rays: 4137863
+real 53.10
+user 34.96
+sys 18.16
+31878_260000GPU000-1920x1080.sc
+CPU image written, Rays: 6708090
+real 16.34
+user 194.57
+sys 0.23
+31883_1000CPU101-1280x720.sc
+CPU image written, Rays: 20079989
+real 114.06
+user 1361.65
+sys 0.47
+31906_65000CPU100-1920x1080.sc
+GPU image written, Rays: 6768077
+real 85.81
+user 55.52
+sys 30.30
+31978_260000GPU010-1920x1080.sc
+GPU image written, Rays: 13221430
+real 257.35
+user 169.00
+sys 88.35
+31992_260000GPU011-1920x1080.sc
+GPU image written, Rays: 12907801
+real 60.12
+user 39.00
+sys 21.11
+31994_65000GPU100-1440x900.sc
+GPU image written, Rays: 6892844
+real 5.17
+user 3.36
+sys 1.79
+32076_1000GPU110-1280x720.sc
+CPU image written, Rays: 12493352
+real 38.26
+user 457.17
+sys 0.25
+32078_4000CPU101-1440x900.sc
+GPU image written, Rays: 2374571
+real 5.64
+user 3.57
+sys 2.02
+32092_4000GPU011-1280x720.sc
+GPU image written, Rays: 12318316
+real 20.46
+user 13.24
+sys 7.20
+32159_16000GPU100-1440x900.sc
+CPU image written, Rays: 3856970
+real 25.66
+user 303.07
+sys 0.13
+32174_65000CPU001-1440x900.sc
+GPU image written, Rays: 13221430
+real 257.82
+user 169.00
+sys 88.77
+3219_260000GPU011-1920x1080.sc
+GPU image written, Rays: 2847385
+real 72.16
+user 47.34
+sys 24.81
+32227_260000GPU001-1280x720.sc
+CPU image written, Rays: 4447947
+real 19.88
+user 236.32
+sys 0.11
+3222_16000CPU011-1280x720.sc
+CPU image written, Rays: 1743289
+real 7.60
+user 89.07
+sys 0.04
+3223_16000CPU000-1280x720.sc
+CPU image written, Rays: 33841698
+real 381.77
+user 4560.80
+sys 0.60
+32269_260000CPU110-1920x1080.sc
+GPU image written, Rays: 19964949
+real 440.12
+user 286.33
+sys 153.76
+32273_260000GPU101-1440x900.sc
+CPU image written, Rays: 4137863
+real 55.57
+user 650.09
+sys 0.17
+32291_260000CPU000-1920x1080.sc
+CPU image written, Rays: 4297381
+real 64.14
+user 752.71
+sys 0.19
+32292_260000CPU010-1440x900.sc
+GPU image written, Rays: 7715680
+real 6.84
+user 4.28
+sys 2.49
+32293_1000GPU111-1280x720.sc
+GPU image written, Rays: 5854957
+real 34.19
+user 21.71
+sys 12.45
+32339_65000GPU001-1920x1080.sc
+GPU image written, Rays: 30780788
+real 140.98
+user 89.67
+sys 51.32
+32353_16000GPU111-1440x900.sc
+CPU image written, Rays: 2463634
+real 10.12
+user 119.23
+sys 0.09
+32355_16000CPU000-1440x900.sc
+CPU image written, Rays: 12907801
+real 89.82
+user 1072.68
+sys 0.25
+32388_65000CPU100-1440x900.sc
+GPU image written, Rays: 20079989
+real 68.67
+user 44.10
+sys 24.57
+32451_65000GPU100-1920x1080.sc
+GPU image written, Rays: 1543262
+real 1.54
+user 0.87
+sys 0.67
+32461_1000GPU011-1280x720.sc
+GPU image written, Rays: 1378515
+real 1.22
+user 0.70
+sys 0.52
+32481_1000GPU010-1280x720.sc
+GPU image written, Rays: 18534128
+real 24.41
+user 15.45
+sys 8.92
+32553_16000GPU100-1920x1080.sc
+CPU image written, Rays: 30780786
+real 130.20
+user 1558.13
+sys 0.24
+32599_16000CPU111-1440x900.sc
+CPU image written, Rays: 18824750
+real 53.78
+user 642.75
+sys 0.38
+32620_4000CPU110-1920x1080.sc
+GPU image written, Rays: 13243423
+real 103.48
+user 66.52
+sys 36.96
+32621_65000GPU101-1280x720.sc
+CPU image written, Rays: 1471758
+real 4.92
+user 57.86
+sys 0.07
+32627_4000CPU000-1280x720.sc
+CPU image written, Rays: 1815598
+real 4.25
+user 49.31
+sys 0.06
+32725_1000CPU001-1440x900.sc
+CPU image written, Rays: 13372285
+real 44.26
+user 528.68
+sys 0.24
+32733_4000CPU110-1440x900.sc
+CPU image written, Rays: 8827803
+real 28.64
+user 341.80
+sys 0.18
+3397_4000CPU101-1280x720.sc
+GPU image written, Rays: 5854957
+real 34.38
+user 22.23
+sys 12.11
+3408_65000GPU001-1920x1080.sc
+GPU image written, Rays: 3019876
+real 65.65
+user 42.41
+sys 23.26
+3456_260000GPU010-1280x720.sc
+GPU image written, Rays: 2673841
+real 1.48
+user 0.88
+sys 0.59
+3555_1000GPU001-1920x1080.sc
+GPU image written, Rays: 1843200
+real 40.05
+user 26.16
+sys 13.86
+3577_260000GPU000-1280x720.sc
+GPU image written, Rays: 7714846
+real 76.80
+user 48.86
+sys 27.93
+3580_65000GPU011-1440x900.sc
+CPU image written, Rays: 30839494
+real 366.02
+user 4372.33
+sys 0.55
+3629_260000CPU101-1920x1080.sc
+GPU image written, Rays: 2933485
+real 2.12
+user 1.20
+sys 0.86
+3641_1000GPU011-1920x1080.sc
+CPU image written, Rays: 3019876
+real 51.93
+user 607.03
+sys 0.12
+3661_260000CPU010-1280x720.sc
+CPU image written, Rays: 1843200
+real 37.58
+user 434.45
+sys 0.11
+3725_260000CPU000-1280x720.sc
+CPU image written, Rays: 2648749
+real 19.15
+user 224.90
+sys 0.09
+3727_65000CPU001-1280x720.sc
+CPU image written, Rays: 14130238
+real 105.64
+user 1261.54
+sys 0.24
+3741_65000CPU110-1280x720.sc
+CPU image written, Rays: 1893524
+real 6.87
+user 80.84
+sys 0.03
+3749_4000CPU010-1280x720.sc
+CPU image written, Rays: 8912054
+real 104.26
+user 1233.05
+sys 0.24
+375_260000CPU011-1440x900.sc
+GPU image written, Rays: 1743289
+real 3.66
+user 2.35
+sys 1.24
+3782_16000GPU000-1280x720.sc
+GPU image written, Rays: 4297381
+real 75.56
+user 48.99
+sys 26.56
+3858_260000GPU010-1440x900.sc
+CPU image written, Rays: 25432647
+real 90.16
+user 1077.96
+sys 0.42
+3860_16000CPU101-1920x1080.sc
+CPU image written, Rays: 15245875
+real 40.80
+user 486.43
+sys 0.33
+3871_4000CPU100-1920x1080.sc
+CPU image written, Rays: 3992970
+real 61.71
+user 723.86
+sys 0.13
+3872_260000CPU001-1440x900.sc
+GPU image written, Rays: 20047066
+real 120.73
+user 78.54
+sys 42.12
+3890_65000GPU110-1440x900.sc
+CPU image written, Rays: 3515865
+real 14.27
+user 168.93
+sys 0.08
+3896_16000CPU001-1440x900.sc
+CPU image written, Rays: 19964949
+real 302.55
+user 3612.07
+sys 0.49
+3902_260000CPU101-1440x900.sc
+CPU image written, Rays: 9216000
+real 182.11
+user 2167.10
+sys 0.36
+3903_260000CPU100-1280x720.sc
+GPU image written, Rays: 15245875
+real 11.08
+user 7.03
+sys 4.01
+3903_4000GPU100-1920x1080.sc
+GPU image written, Rays: 44567215
+real 1056.61
+user 681.93
+sys 374.76
+3908_260000GPU111-1440x900.sc
+GPU image written, Rays: 13788933
+real 42.32
+user 27.42
+sys 14.90
+3923_16000GPU110-1280x720.sc
+CPU image written, Rays: 11014672
+real 59.26
+user 705.51
+sys 0.19
+3960_65000CPU011-1920x1080.sc
+GPU image written, Rays: 13788933
+real 42.31
+user 27.34
+sys 14.90
+3969_16000GPU110-1280x720.sc
+CPU image written, Rays: 2464883
+real 10.55
+user 124.61
+sys 0.05
+3971_16000CPU001-1280x720.sc
+GPU image written, Rays: 22235417
+real 110.11
+user 71.43
+sys 38.63
+3972_16000GPU111-1280x720.sc
+GPU image written, Rays: 22753982
+real 35.68
+user 22.90
+sys 12.75
+4003_4000GPU111-1920x1080.sc
+CPU image written, Rays: 11014672
+real 59.29
+user 705.70
+sys 0.13
+4028_65000CPU011-1920x1080.sc
+GPU image written, Rays: 14667458
+real 8.37
+user 5.15
+sys 3.16
+4041_1000GPU111-1920x1080.sc
+GPU image written, Rays: 6029019
+real 28.05
+user 17.83
+sys 10.18
+4066_65000GPU010-1920x1080.sc
+CPU image written, Rays: 3817532
+real 17.08
+user 202.59
+sys 0.07
+40_16000CPU010-1440x900.sc
+GPU image written, Rays: 4016008
+real 14.40
+user 9.00
+sys 5.34
+4125_65000GPU000-1920x1080.sc
+GPU image written, Rays: 2648749
+real 21.19
+user 13.82
+sys 7.34
+4140_65000GPU001-1280x720.sc
+GPU image written, Rays: 17906319
+real 19.96
+user 12.90
+sys 6.98
+4181_4000GPU101-1920x1080.sc
+CPU image written, Rays: 7714846
+real 47.25
+user 561.77
+sys 0.11
+4268_65000CPU011-1440x900.sc
+GPU image written, Rays: 6768077
+real 85.87
+user 55.99
+sys 29.81
+428_260000GPU010-1920x1080.sc
+GPU image written, Rays: 13369804
+real 6.00
+user 3.86
+sys 2.12
+4298_1000GPU101-1920x1080.sc
+CPU image written, Rays: 33841698
+real 381.83
+user 4561.93
+sys 0.61
+4312_260000CPU110-1920x1080.sc
+CPU image written, Rays: 26704747
+real 173.29
+user 2073.25
+sys 0.24
+4323_65000CPU111-1280x720.sc
+GPU image written, Rays: 1203637
+real 1.01
+user 0.56
+sys 0.42
+4363_1000GPU000-1280x720.sc
+CPU image written, Rays: 13221430
+real 127.86
+user 1516.62
+sys 0.21
+4514_260000CPU011-1920x1080.sc
+CPU image written, Rays: 21486720
+real 315.00
+user 3760.12
+sys 0.49
+4531_260000CPU110-1440x900.sc
+CPU image written, Rays: 2498957
+real 7.87
+user 91.94
+sys 0.07
+4561_4000CPU001-1440x900.sc
+GPU image written, Rays: 1203637
+real 1.04
+user 0.56
+sys 0.42
+4583_1000GPU000-1280x720.sc
+GPU image written, Rays: 14130238
+real 98.80
+user 63.61
+sys 35.19
+4618_65000GPU110-1280x720.sc
+GPU image written, Rays: 3817532
+real 10.33
+user 6.46
+sys 3.84
+4665_16000GPU010-1440x900.sc
+GPU image written, Rays: 2758193
+real 8.69
+user 5.60
+sys 3.07
+4698_16000GPU010-1280x720.sc
+GPU image written, Rays: 2374571
+real 5.50
+user 3.36
+sys 2.11
+4698_4000GPU011-1280x720.sc
+GPU image written, Rays: 13603757
+real 6.46
+user 4.19
+sys 2.26
+4714_1000GPU110-1920x1080.sc
+GPU image written, Rays: 30839494
+real 512.39
+user 338.60
+sys 173.79
+4762_260000GPU101-1920x1080.sc
+GPU image written, Rays: 3515865
+real 11.26
+user 6.97
+sys 4.26
+478_16000GPU001-1440x900.sc
+CPU image written, Rays: 13369804
+real 25.30
+user 301.39
+sys 0.41
+4833_1000CPU101-1920x1080.sc
+CPU image written, Rays: 4137863
+real 55.71
+user 651.82
+sys 0.22
+4851_260000CPU000-1920x1080.sc
+GPU image written, Rays: 4297381
+real 75.85
+user 49.92
+sys 25.86
+4864_260000GPU010-1440x900.sc
+GPU image written, Rays: 11014672
+real 92.73
+user 60.58
+sys 32.14
+4874_65000GPU011-1920x1080.sc
+GPU image written, Rays: 1378515
+real 1.26
+user 0.78
+sys 0.44
+4901_1000GPU010-1280x720.sc
+CPU image written, Rays: 2758193
+real 13.18
+user 156.15
+sys 0.06
+4992_16000CPU010-1280x720.sc
+CPU image written, Rays: 3515865
+real 14.30
+user 169.62
+sys 0.11
+5002_16000CPU001-1440x900.sc
+CPU image written, Rays: 8827803
+real 28.66
+user 341.90
+sys 0.15
+5017_4000CPU101-1280x720.sc
+GPU image written, Rays: 1471758
+real 1.85
+user 1.06
+sys 0.73
+5017_4000GPU000-1280x720.sc
+GPU image written, Rays: 10423381
+real 9.47
+user 6.09
+sys 3.35
+501_4000GPU100-1440x900.sc
+GPU image written, Rays: 21486720
+real 372.98
+user 242.97
+sys 130.02
+5110_260000GPU110-1440x900.sc
+GPU image written, Rays: 1834065
+real 10.32
+user 6.75
+sys 3.56
+5113_65000GPU000-1280x720.sc
+CPU image written, Rays: 10423381
+real 32.50
+user 388.05
+sys 0.27
+5120_4000CPU100-1440x900.sc
+CPU image written, Rays: 13243423
+real 94.13
+user 1123.29
+sys 0.26
+5151_65000CPU101-1280x720.sc
+GPU image written, Rays: 14667458
+real 8.39
+user 5.37
+sys 2.96
+5162_1000GPU111-1920x1080.sc
+GPU image written, Rays: 19283038
+real 137.38
+user 89.11
+sys 48.25
+5199_65000GPU101-1440x900.sc
+CPU image written, Rays: 7715680
+real 19.40
+user 231.62
+sys 0.16
+5206_1000CPU111-1280x720.sc
+GPU image written, Rays: 9170269
+real 49.47
+user 32.21
+sys 17.20
+5278_65000GPU100-1280x720.sc
+CPU image written, Rays: 14236321
+real 239.13
+user 2851.49
+sys 0.43
+5289_260000CPU101-1280x720.sc
+CPU image written, Rays: 5389835
+real 21.01
+user 249.13
+sys 0.13
+5355_16000CPU010-1920x1080.sc
+CPU image written, Rays: 9465936
+real 33.87
+user 404.32
+sys 0.19
+536_4000CPU110-1280x720.sc
+GPU image written, Rays: 19085495
+real 50.28
+user 32.25
+sys 17.98
+5393_16000GPU110-1440x900.sc
+CPU image written, Rays: 2673841
+real 5.20
+user 60.43
+sys 0.11
+5399_1000CPU001-1920x1080.sc
+CPU image written, Rays: 22753972
+real 64.17
+user 766.24
+sys 0.43
+5411_4000CPU111-1920x1080.sc
+GPU image written, Rays: 5389835
+real 11.77
+user 7.62
+sys 4.07
+5414_16000GPU010-1920x1080.sc
+GPU image written, Rays: 4550564
+real 7.42
+user 4.93
+sys 2.46
+5416_4000GPU011-1920x1080.sc
+CPU image written, Rays: 4447947
+real 20.00
+user 237.70
+sys 0.08
+5452_16000CPU011-1280x720.sc
+GPU image written, Rays: 13243423
+real 103.56
+user 66.50
+sys 37.01
+5512_65000GPU101-1280x720.sc
+GPU image written, Rays: 8191263
+real 32.36
+user 20.61
+sys 11.75
+5531_16000GPU011-1920x1080.sc
+GPU image written, Rays: 8827807
+real 13.53
+user 8.73
+sys 4.77
+5544_4000GPU101-1280x720.sc
+CPU image written, Rays: 1893524
+real 6.81
+user 80.49
+sys 0.05
+5549_4000CPU010-1280x720.sc
+CPU image written, Rays: 8716548
+real 37.32
+user 445.84
+sys 0.14
+5550_16000CPU100-1280x720.sc
+GPU image written, Rays: 2464883
+real 8.61
+user 5.52
+sys 3.03
+5556_16000GPU001-1280x720.sc
+GPU image written, Rays: 3856970
+real 27.96
+user 17.89
+sys 10.03
+5563_65000GPU001-1440x900.sc
+GPU image written, Rays: 30839494
+real 511.81
+user 329.38
+sys 182.47
+5582_260000GPU101-1920x1080.sc
+CPU image written, Rays: 12318316
+real 50.03
+user 597.82
+sys 0.25
+5592_16000CPU100-1440x900.sc
+CPU image written, Rays: 4297381
+real 64.13
+user 753.22
+sys 0.14
+5592_260000CPU010-1440x900.sc
+GPU image written, Rays: 3581389
+real 4.46
+user 2.87
+sys 1.52
+5595_4000GPU001-1920x1080.sc
+CPU image written, Rays: 13372285
+real 44.32
+user 529.77
+sys 0.21
+5596_4000CPU110-1440x900.sc
+CPU image written, Rays: 12493352
+real 38.43
+user 458.97
+sys 0.24
+55_4000CPU101-1440x900.sc
+GPU image written, Rays: 1655046
+real 1.24
+user 0.71
+sys 0.48
+5634_1000GPU000-1440x900.sc
+GPU image written, Rays: 19283038
+real 136.90
+user 87.77
+sys 49.13
+5638_65000GPU101-1440x900.sc
+CPU image written, Rays: 3765218
+real 10.80
+user 127.81
+sys 0.11
+5649_4000CPU010-1920x1080.sc
+CPU image written, Rays: 4550564
+real 12.99
+user 152.93
+sys 0.15
+5685_4000CPU011-1920x1080.sc
+GPU image written, Rays: 3314376
+real 6.84
+user 4.38
+sys 2.36
+571_4000GPU011-1440x900.sc
+GPU image written, Rays: 3817532
+real 10.33
+user 6.60
+sys 3.70
+5741_16000GPU010-1440x900.sc
+GPU image written, Rays: 33841698
+real 424.03
+user 279.20
+sys 144.88
+5767_260000GPU110-1920x1080.sc
+CPU image written, Rays: 9078573
+real 20.71
+user 246.61
+sys 0.30
+5775_1000CPU101-1440x900.sc
+CPU image written, Rays: 4550564
+real 12.96
+user 152.96
+sys 0.11
+5775_4000CPU011-1920x1080.sc
+GPU image written, Rays: 12323906
+real 41.20
+user 26.03
+sys 15.10
+5781_16000GPU101-1280x720.sc
+CPU image written, Rays: 5085943
+real 18.18
+user 215.26
+sys 0.13
+585_16000CPU001-1920x1080.sc
+GPU image written, Rays: 8827807
+real 13.61
+user 8.65
+sys 4.90
+5922_4000GPU101-1280x720.sc
+CPU image written, Rays: 14667458
+real 28.93
+user 344.75
+sys 0.38
+5926_1000CPU111-1920x1080.sc
+CPU image written, Rays: 17581981
+real 71.10
+user 849.52
+sys 0.24
+5946_16000CPU101-1440x900.sc
+CPU image written, Rays: 14130238
+real 105.67
+user 1262.06
+sys 0.28
+6009_65000CPU110-1280x720.sc
+CPU image written, Rays: 26947023
+real 104.10
+user 1244.67
+sys 0.41
+6015_16000CPU110-1920x1080.sc
+CPU image written, Rays: 8716548
+real 37.44
+user 446.47
+sys 0.16
+6019_16000CPU100-1280x720.sc
+GPU image written, Rays: 31579011
+real 839.25
+user 542.07
+sys 297.24
+6036_260000GPU111-1280x720.sc
+GPU image written, Rays: 21486720
+real 373.61
+user 243.19
+sys 130.44
+6048_260000GPU110-1440x900.sc
+CPU image written, Rays: 2048122
+real 4.89
+user 57.29
+sys 0.07
+6053_1000CPU011-1440x900.sc
+CPU image written, Rays: 3314376
+real 10.74
+user 126.68
+sys 0.07
+6108_4000CPU011-1440x900.sc
+GPU image written, Rays: 12444733
+real 4.72
+user 2.99
+sys 1.72
+6153_1000GPU100-1920x1080.sc
+CPU image written, Rays: 31579011
+real 402.46
+user 4808.51
+sys 0.44
+6166_260000CPU111-1280x720.sc
+CPU image written, Rays: 4297381
+real 64.22
+user 753.43
+sys 0.13
+6186_260000CPU010-1440x900.sc
+GPU image written, Rays: 14667458
+real 8.39
+user 5.32
+sys 3.00
+6204_1000GPU111-1920x1080.sc
+GPU image written, Rays: 3817532
+real 10.32
+user 6.72
+sys 3.57
+6206_16000GPU010-1440x900.sc
+GPU image written, Rays: 5389835
+real 11.59
+user 7.60
+sys 3.98
+6219_16000GPU010-1920x1080.sc
+CPU image written, Rays: 2933485
+real 5.89
+user 68.98
+sys 0.10
+6222_1000CPU011-1920x1080.sc
+CPU image written, Rays: 19964949
+real 302.74
+user 3612.68
+sys 0.47
+6257_260000CPU101-1440x900.sc
+GPU image written, Rays: 19964949
+real 440.20
+user 285.24
+sys 155.00
+6270_260000GPU101-1440x900.sc
+CPU image written, Rays: 6167699
+real 74.18
+user 872.90
+sys 0.21
+6290_260000CPU001-1920x1080.sc
+CPU image written, Rays: 9078573
+real 20.84
+user 247.89
+sys 0.25
+6318_1000CPU101-1440x900.sc
+GPU image written, Rays: 13372289
+real 17.59
+user 11.21
+sys 6.32
+638_4000GPU110-1440x900.sc
+CPU image written, Rays: 1843200
+real 37.50
+user 434.53
+sys 0.13
+6471_260000CPU000-1280x720.sc
+GPU image written, Rays: 6029019
+real 28.27
+user 18.27
+sys 9.93
+6479_65000GPU010-1920x1080.sc
+CPU image written, Rays: 5854957
+real 32.66
+user 386.33
+sys 0.18
+6582_65000CPU001-1920x1080.sc
+GPU image written, Rays: 3856970
+real 28.18
+user 17.70
+sys 10.38
+6606_65000GPU001-1440x900.sc
+GPU image written, Rays: 13788933
+real 42.12
+user 27.64
+sys 14.46
+6647_16000GPU110-1280x720.sc
+GPU image written, Rays: 18534128
+real 24.41
+user 15.58
+sys 8.80
+6655_16000GPU100-1920x1080.sc
+CPU image written, Rays: 2581566
+real 18.23
+user 213.86
+sys 0.13
+6666_65000CPU000-1440x900.sc
+CPU image written, Rays: 7358424
+real 24.36
+user 290.60
+sys 0.17
+6670_4000CPU100-1280x720.sc
+GPU image written, Rays: 26947023
+real 56.58
+user 36.71
+sys 19.82
+6688_16000GPU110-1920x1080.sc
+CPU image written, Rays: 14667458
+real 28.88
+user 343.79
+sys 0.42
+6707_1000CPU111-1920x1080.sc
+GPU image written, Rays: 3856970
+real 28.13
+user 17.95
+sys 10.11
+6710_65000GPU001-1440x900.sc
+CPU image written, Rays: 3765218
+real 10.86
+user 128.18
+sys 0.11
+6717_4000CPU010-1920x1080.sc
+GPU image written, Rays: 2488857
+real 1.40
+user 0.79
+sys 0.52
+6734_1000GPU000-1920x1080.sc
+CPU image written, Rays: 2084707
+real 6.62
+user 77.76
+sys 0.07
+6735_4000CPU000-1440x900.sc
+CPU image written, Rays: 30145004
+real 172.59
+user 2063.15
+sys 0.46
+6751_65000CPU110-1920x1080.sc
+GPU image written, Rays: 12444733
+real 4.72
+user 2.86
+sys 1.80
+6796_1000GPU100-1920x1080.sc
+GPU image written, Rays: 9465940
+real 14.65
+user 9.45
+sys 5.15
+6866_4000GPU110-1280x720.sc
+GPU image written, Rays: 9301841
+real 5.94
+user 3.79
+sys 2.14
+688_1000GPU110-1440x900.sc
+GPU image written, Rays: 1655046
+real 1.07
+user 0.51
+sys 0.52
+6898_1000GPU000-1440x900.sc
+GPU image written, Rays: 11014672
+real 92.49
+user 61.26
+sys 31.23
+6903_65000GPU011-1920x1080.sc
+CPU image written, Rays: 1743289
+real 7.57
+user 88.93
+sys 0.07
+6937_16000CPU000-1280x720.sc
+CPU image written, Rays: 6768077
+real 77.44
+user 912.27
+sys 0.22
+7061_260000CPU010-1920x1080.sc
+CPU image written, Rays: 1471758
+real 5.00
+user 58.21
+sys 0.03
+7062_4000CPU000-1280x720.sc
+GPU image written, Rays: 4297381
+real 75.68
+user 49.63
+sys 26.06
+7127_260000GPU010-1440x900.sc
+GPU image written, Rays: 2674721
+real 3.73
+user 2.37
+sys 1.34
+7160_4000GPU010-1440x900.sc
+CPU image written, Rays: 6029019
+real 34.73
+user 411.24
+sys 0.24
+7163_65000CPU010-1920x1080.sc
+GPU image written, Rays: 26704749
+real 285.62
+user 184.45
+sys 101.09
+7183_65000GPU111-1280x720.sc
+CPU image written, Rays: 18534128
+real 64.70
+user 772.87
+sys 0.37
+7218_16000CPU100-1920x1080.sc
+GPU image written, Rays: 1378515
+real 1.41
+user 0.77
+sys 0.56
+7233_1000GPU010-1280x720.sc
+GPU image written, Rays: 2674721
+real 3.74
+user 2.30
+sys 1.41
+7241_4000GPU010-1440x900.sc
+CPU image written, Rays: 6155457
+real 26.18
+user 311.99
+sys 0.09
+727_16000CPU011-1440x900.sc
+CPU image written, Rays: 8191263
+real 31.36
+user 373.60
+sys 0.11
+7369_16000CPU011-1920x1080.sc
+CPU image written, Rays: 19283038
+real 127.03
+user 1517.00
+sys 0.35
+7388_65000CPU101-1440x900.sc
+GPU image written, Rays: 1341588
+real 1.27
+user 0.71
+sys 0.50
+7412_1000GPU001-1280x720.sc
+GPU image written, Rays: 14130238
+real 98.86
+user 64.50
+sys 34.35
+7413_65000GPU110-1280x720.sc
+CPU image written, Rays: 1860255
+real 4.59
+user 53.68
+sys 0.07
+7473_1000CPU010-1440x900.sc
+CPU image written, Rays: 9170269
+real 69.35
+user 827.50
+sys 0.21
+7473_65000CPU100-1280x720.sc
+CPU image written, Rays: 6768077
+real 77.59
+user 913.51
+sys 0.17
+750_260000CPU010-1920x1080.sc
+GPU image written, Rays: 3706793
+real 5.39
+user 3.34
+sys 1.99
+7549_16000GPU000-1920x1080.sc
+CPU image written, Rays: 20079989
+real 114.10
+user 1362.67
+sys 0.43
+7555_65000CPU100-1920x1080.sc
+CPU image written, Rays: 6708090
+real 16.39
+user 195.08
+sys 0.21
+7567_1000CPU101-1280x720.sc
+CPU image written, Rays: 25432647
+real 90.26
+user 1078.88
+sys 0.42
+7592_16000CPU101-1920x1080.sc
+GPU image written, Rays: 11873539
+real 26.48
+user 16.96
+sys 9.46
+7615_4000GPU111-1280x720.sc
+GPU image written, Rays: 30780788
+real 141.06
+user 91.91
+sys 49.14
+7616_16000GPU111-1440x900.sc
+GPU image written, Rays: 25432647
+real 64.85
+user 42.29
+sys 22.53
+7627_16000GPU101-1920x1080.sc
+GPU image written, Rays: 12318316
+real 20.58
+user 13.10
+sys 7.44
+767_16000GPU100-1440x900.sc
+CPU image written, Rays: 2758193
+real 13.18
+user 156.15
+sys 0.05
+7683_16000CPU010-1280x720.sc
+GPU image written, Rays: 3765218
+real 4.37
+user 2.63
+sys 1.67
+7717_4000GPU010-1920x1080.sc
+GPU image written, Rays: 6768077
+real 86.08
+user 56.69
+sys 29.37
+7744_260000GPU010-1920x1080.sc
+CPU image written, Rays: 1765644
+real 5.77
+user 68.02
+sys 0.06
+7754_4000CPU001-1280x720.sc
+CPU image written, Rays: 11873529
+real 40.61
+user 485.35
+sys 0.21
+7755_4000CPU111-1280x720.sc
+GPU image written, Rays: 12907801
+real 59.84
+user 39.09
+sys 20.74
+7757_65000GPU100-1440x900.sc
+GPU image written, Rays: 6314733
+real 170.38
+user 110.14
+sys 60.26
+7768_260000GPU011-1280x720.sc
+CPU image written, Rays: 9216000
+real 181.89
+user 2165.57
+sys 0.31
+7771_260000CPU100-1280x720.sc
+GPU image written, Rays: 44567215
+real 1056.43
+user 683.57
+sys 372.96
+7771_260000GPU111-1440x900.sc
+GPU image written, Rays: 20047066
+real 121.15
+user 79.05
+sys 42.11
+7799_65000GPU110-1440x900.sc
+GPU image written, Rays: 12493356
+real 17.59
+user 11.34
+sys 6.22
+7822_4000GPU101-1440x900.sc
+CPU image written, Rays: 30839494
+real 365.51
+user 4366.63
+sys 0.63
+7859_260000CPU101-1920x1080.sc
+CPU image written, Rays: 1543262
+real 3.94
+user 46.53
+sys 0.02
+7900_1000CPU011-1280x720.sc
+GPU image written, Rays: 2498957
+real 3.90
+user 2.41
+sys 1.43
+7912_4000GPU001-1440x900.sc
+CPU image written, Rays: 14130238
+real 105.63
+user 1262.25
+sys 0.23
+7916_65000CPU110-1280x720.sc
+CPU image written, Rays: 2592000
+real 46.53
+user 541.99
+sys 0.15
+7917_260000CPU000-1440x900.sc
+GPU image written, Rays: 30839494
+real 511.86
+user 335.81
+sys 176.04
+7925_260000GPU101-1920x1080.sc
+GPU image written, Rays: 8191263
+real 32.46
+user 20.99
+sys 11.42
+7942_16000GPU011-1920x1080.sc
+CPU image written, Rays: 31579011
+real 401.98
+user 4802.50
+sys 0.68
+7946_260000CPU111-1280x720.sc
+GPU image written, Rays: 2581566
+real 12.55
+user 8.14
+sys 4.33
+7961_65000GPU000-1440x900.sc
+GPU image written, Rays: 2720645
+real 1.61
+user 1.02
+sys 0.56
+796_1000GPU010-1920x1080.sc
+GPU image written, Rays: 5085943
+real 13.31
+user 8.66
+sys 4.60
+7972_16000GPU001-1920x1080.sc
+GPU image written, Rays: 2463634
+real 4.38
+user 2.67
+sys 1.67
+7974_16000GPU000-1440x900.sc
+CPU image written, Rays: 20689221
+real 272.73
+user 3254.13
+sys 0.55
+798_260000CPU100-1920x1080.sc
+GPU image written, Rays: 1860255
+real 1.56
+user 0.93
+sys 0.58
+8038_1000GPU010-1440x900.sc
+CPU image written, Rays: 13369804
+real 25.41
+user 302.56
+sys 0.38
+8087_1000CPU101-1920x1080.sc
+CPU image written, Rays: 6167699
+real 74.36
+user 875.29
+sys 0.18
+8093_260000CPU001-1920x1080.sc
+CPU image written, Rays: 20047066
+real 137.42
+user 1641.89
+sys 0.36
+8115_65000CPU110-1440x900.sc
+CPU image written, Rays: 3019876
+real 51.87
+user 606.41
+sys 0.12
+8140_260000CPU010-1280x720.sc
+CPU image written, Rays: 19283038
+real 127.03
+user 1516.91
+sys 0.36
+8143_65000CPU101-1440x900.sc
+GPU image written, Rays: 12960000
+real 230.75
+user 148.28
+sys 82.42
+8162_260000GPU100-1440x900.sc
+CPU image written, Rays: 19085495
+real 84.48
+user 1010.55
+sys 0.30
+8174_16000CPU110-1440x900.sc
+GPU image written, Rays: 14236321
+real 353.40
+user 230.53
+sys 122.85
+8221_260000GPU101-1280x720.sc
+GPU image written, Rays: 13243423
+real 103.90
+user 66.21
+sys 37.68
+8250_65000GPU101-1280x720.sc
+CPU image written, Rays: 15245875
+real 40.55
+user 483.88
+sys 0.39
+8301_4000CPU100-1920x1080.sc
+CPU image written, Rays: 3515865
+real 14.37
+user 169.75
+sys 0.05
+8313_16000CPU001-1440x900.sc
+CPU image written, Rays: 8191263
+real 31.43
+user 373.64
+sys 0.13
+8323_16000CPU011-1920x1080.sc
+GPU image written, Rays: 8191263
+real 32.42
+user 20.70
+sys 11.66
+8340_16000GPU011-1920x1080.sc
+CPU image written, Rays: 17906315
+real 47.58
+user 568.09
+sys 0.34
+8354_4000CPU101-1920x1080.sc
+CPU image written, Rays: 3817532
+real 17.06
+user 202.74
+sys 0.09
+8368_16000CPU010-1440x900.sc
+CPU image written, Rays: 2374571
+real 8.25
+user 97.39
+sys 0.08
+8415_4000CPU011-1280x720.sc
+GPU image written, Rays: 18824754
+real 19.58
+user 12.63
+sys 6.94
+8425_4000GPU110-1920x1080.sc
+GPU image written, Rays: 12960000
+real 231.01
+user 148.62
+sys 82.42
+8463_260000GPU100-1440x900.sc
+GPU image written, Rays: 2581566
+real 12.46
+user 7.97
+sys 4.48
+8468_65000GPU000-1440x900.sc
+GPU image written, Rays: 3992970
+real 89.59
+user 58.54
+sys 31.04
+8512_260000GPU001-1440x900.sc
+GPU image written, Rays: 10423381
+real 9.49
+user 6.05
+sys 3.44
+8548_4000GPU100-1440x900.sc
+GPU image written, Rays: 2488857
+real 1.22
+user 0.76
+sys 0.46
+855_1000GPU000-1920x1080.sc
+GPU image written, Rays: 15245875
+real 11.02
+user 7.15
+sys 3.83
+8570_4000GPU100-1920x1080.sc
+CPU image written, Rays: 13788933
+real 65.37
+user 781.54
+sys 0.18
+860_16000CPU110-1280x720.sc
+GPU image written, Rays: 6708090
+real 4.63
+user 2.78
+sys 1.84
+8615_1000GPU101-1280x720.sc
+GPU image written, Rays: 3581389
+real 4.28
+user 2.73
+sys 1.55
+8618_4000GPU001-1920x1080.sc
+CPU image written, Rays: 2648749
+real 19.11
+user 224.70
+sys 0.06
+8661_65000CPU001-1280x720.sc
+CPU image written, Rays: 6029019
+real 34.84
+user 412.87
+sys 0.13
+8678_65000CPU010-1920x1080.sc
+GPU image written, Rays: 6314733
+real 170.16
+user 110.29
+sys 59.81
+8680_260000GPU011-1280x720.sc
+CPU image written, Rays: 1815598
+real 4.22
+user 49.30
+sys 0.09
+8690_1000CPU001-1440x900.sc
+CPU image written, Rays: 44567215
+real 514.91
+user 6156.74
+sys 0.78
+8779_260000CPU111-1440x900.sc
+GPU image written, Rays: 38556641
+real 377.61
+user 244.61
+sys 133.03
+8794_65000GPU111-1440x900.sc
+GPU image written, Rays: 5854957
+real 34.38
+user 22.45
+sys 11.91
+883_65000GPU001-1920x1080.sc
+GPU image written, Rays: 15245875
+real 11.02
+user 7.01
+sys 3.98
+885_4000GPU100-1920x1080.sc
+GPU image written, Rays: 4447947
+real 22.43
+user 14.27
+sys 8.16
+8903_16000GPU011-1280x720.sc
+CPU image written, Rays: 19085495
+real 84.46
+user 1010.60
+sys 0.28
+8918_16000CPU110-1440x900.sc
+GPU image written, Rays: 1765644
+real 3.03
+user 1.83
+sys 1.15
+8925_4000GPU001-1280x720.sc
+CPU image written, Rays: 7358424
+real 24.39
+user 291.18
+sys 0.17
+9034_4000CPU100-1280x720.sc
+GPU image written, Rays: 6029019
+real 28.14
+user 17.93
+sys 10.14
+9052_65000GPU010-1920x1080.sc
+CPU image written, Rays: 12907801
+real 89.92
+user 1073.48
+sys 0.25
+905_65000CPU100-1440x900.sc
+CPU image written, Rays: 3019876
+real 51.95
+user 606.40
+sys 0.11
+9067_260000CPU010-1280x720.sc
+CPU image written, Rays: 2048122
+real 4.94
+user 57.65
+sys 0.07
+9123_1000CPU011-1440x900.sc
+CPU image written, Rays: 40959497
+real 156.11
+user 1867.41
+sys 0.44
+9138_16000CPU111-1920x1080.sc
+CPU image written, Rays: 9170269
+real 69.60
+user 829.11
+sys 0.29
+9170_65000CPU100-1280x720.sc
+GPU image written, Rays: 2463634
+real 4.51
+user 2.84
+sys 1.63
+9186_16000GPU000-1440x900.sc
+CPU image written, Rays: 5342568
+real 34.97
+user 414.94
+sys 0.06
+9194_65000CPU011-1280x720.sc
+GPU image written, Rays: 13221430
+real 256.43
+user 167.74
+sys 88.72
+9226_260000GPU011-1920x1080.sc
+GPU image written, Rays: 9170269
+real 49.36
+user 32.15
+sys 17.20
+9255_65000GPU100-1280x720.sc
+CPU image written, Rays: 10240564
+real 23.99
+user 286.35
+sys 0.22
+9257_1000CPU111-1440x900.sc
+GPU image written, Rays: 9465940
+real 14.77
+user 9.39
+sys 5.37
+9364_4000GPU110-1280x720.sc
+CPU image written, Rays: 12493352
+real 38.30
+user 457.52
+sys 0.28
+9425_4000CPU101-1440x900.sc
+GPU image written, Rays: 2463634
+real 4.45
+user 2.85
+sys 1.60
+9451_16000GPU000-1440x900.sc
+GPU image written, Rays: 19085495
+real 50.24
+user 32.62
+sys 17.58
+9601_16000GPU110-1440x900.sc
+GPU image written, Rays: 2374571
+real 5.51
+user 3.46
+sys 2.02
+9601_4000GPU011-1280x720.sc
+GPU image written, Rays: 16571344
+real 31.95
+user 20.50
+sys 11.43
+9635_4000GPU111-1440x900.sc
+GPU image written, Rays: 17581981
+real 54.61
+user 35.05
+sys 19.53
+9675_16000GPU101-1440x900.sc
+CPU image written, Rays: 4297381
+real 63.91
+user 750.36
+sys 0.20
+9682_260000CPU010-1440x900.sc
+CPU image written, Rays: 1860255
+real 4.59
+user 54.00
+sys 0.06
+9721_1000CPU010-1440x900.sc
+CPU image written, Rays: 21486720
+real 314.99
+user 3761.25
+sys 0.47
+9750_260000CPU110-1440x900.sc
+GPU image written, Rays: 8912054
+real 213.21
+user 140.16
+sys 73.02
+9775_260000GPU011-1440x900.sc
+GPU image written, Rays: 5854957
+real 34.21
+user 21.99
+sys 12.21
+9782_65000GPU001-1920x1080.sc
+CPU image written, Rays: 2592000
+real 46.26
+user 538.85
+sys 0.13
+980_260000CPU000-1440x900.sc
+GPU image written, Rays: 66120042
+real 1271.99
+user 822.82
+sys 449.22
+9818_260000GPU111-1920x1080.sc
+CPU image written, Rays: 6029019
+real 34.67
+user 410.65
+sys 0.11
+9827_65000CPU010-1920x1080.sc
+CPU image written, Rays: 19085495
+real 84.72
+user 1012.77
+sys 0.27
+9830_16000CPU110-1440x900.sc
+GPU image written, Rays: 5389835
+real 11.75
+user 7.62
+sys 4.09
+9891_16000GPU010-1920x1080.sc
+GPU image written, Rays: 16571344
+real 31.93
+user 20.42
+sys 11.48
+9930_4000GPU111-1440x900.sc
+GPU image written, Rays: 2592000
+real 47.30
+user 31.28
+sys 16.03
+9931_260000GPU000-1440x900.sc
+GPU image written, Rays: 9078573
+real 5.44
+user 3.31
+sys 2.11
+9955_1000GPU101-1440x900.sc

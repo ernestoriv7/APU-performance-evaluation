@@ -1,0 +1,225 @@
+APU image written, Rays: 14671477
+real 55,51
+user 437,27
+sys 0,36
+scenes/nonbvhscenes/1000APU.sc
+APU image written, Rays: 41688554
+real 4321,80
+user 34461,80
+sys 0,51
+scenes/nonbvhscenes/16000APU.sc
+APU image written, Rays: 22840172
+real 486,06
+user 3870,42
+sys 0,28
+scenes/nonbvhscenes/4000APU.sc
+APU image written, Rays: 14671477
+real 57,60
+user 456,57
+sys 0,22
+scenes/nonbvhscenes/1000APU.sc
+APU image written, Rays: 41688554
+real 4268,66
+user 34008,87
+sys 0,85
+scenes/nonbvhscenes/16000APU.sc
+APU image written, Rays: 22840172
+real 486,87
+user 3879,05
+sys 0,26
+scenes/nonbvhscenes/4000APU.sc
+APU image written, Rays: 14671477
+real 60,24
+user 476,85
+sys 0,21
+scenes/nonbvhscenes/1000APU.sc
+APU image written, Rays: 41688554
+real 4307,61
+user 34169,87
+sys 1,23
+scenes/nonbvhscenes/16000APU.sc
+APU image written, Rays: 22840172
+real 483,58
+user 3855,54
+sys 0,24
+scenes/nonbvhscenes/4000APU.sc
+APU image written, Rays: 14671477
+real 59,06
+user 467,76
+sys 0,15
+scenes/nonbvhscenes/1000APU.sc
+APU image written, Rays: 41688554
+real 4709,66
+user 37395,16
+sys 0,88
+scenes/nonbvhscenes/16000APU.sc
+APU image written, Rays: 22840172
+real 471,70
+user 3768,65
+sys 0,24
+scenes/nonbvhscenes/4000APU.sc
+APU image written, Rays: 14671477
+real 57,61
+user 458,10
+sys 0,16
+scenes/nonbvhscenes/1000APU.sc
+APU image written, Rays: 41688554
+real 4686,59
+user 37274,49
+sys 0,49
+scenes/nonbvhscenes/16000APU.sc
+APU image written, Rays: 22840172
+real 469,99
+user 3747,78
+sys 0,26
+scenes/nonbvhscenes/4000APU.sc
+CPU image written, Rays: 14671477
+real 1737.79
+user 20818.48
+sys 0.70
+scenes/nonbvhscenes/1000CPU.sc
+GPU image written, Rays: 14671477
+real 446.35
+user 284.83
+sys 160.91
+scenes/nonbvhscenes/1000GPU.sc
+CPU image written, Rays: 41688554
+real 59995.26
+user 719019.18
+sys 3.71
+scenes/nonbvhscenes/16000CPU.sc
+GPU image written, Rays: 41688556
+real 34067.19
+user 21883.97
+sys 12186.40
+scenes/nonbvhscenes/16000GPU.sc
+CPU image written, Rays: 22840172
+real 9518.64
+user 114148.61
+sys 1.09
+scenes/nonbvhscenes/4000CPU.sc
+GPU image written, Rays: 22840182
+real 3694.08
+user 2368.31
+sys 1326.12
+scenes/nonbvhscenes/4000GPU.sc
+CPU image written, Rays: 14671477
+real 1738.29
+user 20841.81
+sys 0.55
+scenes/nonbvhscenes/1000CPU.sc
+GPU image written, Rays: 14671477
+real 445.94
+user 288.98
+sys 156.93
+scenes/nonbvhscenes/1000GPU.sc
+CPU image written, Rays: 41688554
+real 59993.82
+user 719045.59
+sys 4.14
+scenes/nonbvhscenes/16000CPU.sc
+GPU image written, Rays: 41688556
+real 34168.66
+user 22503.71
+sys 11667.97
+scenes/nonbvhscenes/16000GPU.sc
+CPU image written, Rays: 22840172
+real 9513.11
+user 114080.38
+sys 1.21
+scenes/nonbvhscenes/4000CPU.sc
+GPU image written, Rays: 22840182
+real 3697.67
+user 2366.68
+sys 1331.32
+scenes/nonbvhscenes/4000GPU.sc
+CPU image written, Rays: 14671477
+real 1738.09
+user 20839.91
+sys 0.63
+scenes/nonbvhscenes/1000CPU.sc
+GPU image written, Rays: 14671477
+real 445.25
+user 285.50
+sys 159.78
+scenes/nonbvhscenes/1000GPU.sc
+CPU image written, Rays: 41688554
+real 59992.32
+user 719020.97
+sys 5.88
+scenes/nonbvhscenes/16000CPU.sc
+GPU image written, Rays: 41688556
+real 34125.64
+user 21930.95
+sys 12197.81
+scenes/nonbvhscenes/16000GPU.sc
+CPU image written, Rays: 22840172
+real 9513.46
+user 114067.78
+sys 1.25
+scenes/nonbvhscenes/4000CPU.sc
+GPU image written, Rays: 22840182
+real 3685.25
+user 2374.51
+sys 1310.99
+scenes/nonbvhscenes/4000GPU.sc
+CPU image written, Rays: 14671477
+real 1738.55
+user 20844.53
+sys 0.56
+scenes/nonbvhscenes/1000CPU.sc
+GPU image written, Rays: 14671477
+real 444.63
+user 286.72
+sys 157.94
+scenes/nonbvhscenes/1000GPU.sc
+CPU image written, Rays: 41688554
+real 60054.52
+user 719734.66
+sys 6.43
+scenes/nonbvhscenes/16000CPU.sc
+GPU image written, Rays: 41688556
+real 33998.57
+user 22194.98
+sys 11806.54
+scenes/nonbvhscenes/16000GPU.sc
+CPU image written, Rays: 22840172
+real 9516.77
+user 114120.33
+sys 1.69
+scenes/nonbvhscenes/4000CPU.sc
+GPU image written, Rays: 22840182
+real 3679.88
+user 2380.78
+sys 1299.43
+scenes/nonbvhscenes/4000GPU.sc
+CPU image written, Rays: 14671477
+real 1737.89
+user 20836.97
+sys 0.63
+scenes/nonbvhscenes/1000CPU.sc
+GPU image written, Rays: 14671477
+real 443.47
+user 285.16
+sys 158.33
+scenes/nonbvhscenes/1000GPU.sc
+CPU image written, Rays: 41688554
+real 60001.79
+user 719151.19
+sys 5.02
+scenes/nonbvhscenes/16000CPU.sc
+GPU image written, Rays: 41688556
+real 34053.54
+user 21811.17
+sys 12245.91
+scenes/nonbvhscenes/16000GPU.sc
+CPU image written, Rays: 22840172
+real 9513.26
+user 114077.32
+sys 1.74
+scenes/nonbvhscenes/4000CPU.sc
+GPU image written, Rays: 22840182
+real 3676.38
+user 2359.01
+sys 1317.63
+scenes/nonbvhscenes/4000GPU.sc

@@ -1,0 +1,6 @@
+> leveneTest(T_sqrt ~ Architecture*Objects*Effects*Resolution, data = Data)
+Levene's Test for Homogeneity of Variance (center = median)
+        Df F value Pr(>F)
+group  359  1.0262 0.3718
+      1440               
+
